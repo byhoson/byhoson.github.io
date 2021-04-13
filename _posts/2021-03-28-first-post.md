@@ -31,13 +31,15 @@ print("hello world!")
 
 **Lemma.** Suppose $m(E)<\infty$, and $f_n\to f$ pointwise on $E$, where each $F_n$ is measurable on $E$. Then, for each $\eta>0$ and $\delta>0$, there is $N\in\mathbb{N}$ and a measurable set $A$, such that $\vert f_n-f\vert<\eta$ on $A$ for all $k\ge N$ and $m(E\setminus A)<\delta$.
 
+<details><summary>click to see proof</summary><p>
 **Proof.** Let $\eta>0$, $\delta>0$. Note that for each $k$, $\vert f_k-f\vert$ is measurable, so that the set $\{x\in E; \vert f_k-f\vert<\eta\}$ is measurable. Then, their intersection $E_n:=\\{x\in E; \vert f_k-f\vert<\eta, for\\:all\\:k\ge n\\}$ is measurable for each $n$. Since $f_n$ converges pointwise to $f$, each $x\in E$ is contained in some $E_n$, so that $E=\cup_{n=1}^\infty E_n$. Now by the continuity of measure, with observation that $\\{E_n\\}$ is an ascending sequence of measurable sets, we have $\lim_{n\to\infty}m(E_n)=m(\cup_{n=1}^\infty E_n)=m(E)<\infty$. Thus, we can find $N$ such that $m(E\setminus E_N)=m(E)-m(E_N)<\delta$, where $A:=E_N$ is the desired measurable set. $\blacksquare$
-
+</p></details>
 
 **Theorem.** Suppose $m(E)<\infty$, and $f_n\to f$ pointwise on $E$, where each $F_n$ is measurable on $E$. Then, for any $\epsilon>0$, there is a closed set $F\subset E$, such that $f_n\to f$ uniformly on $F$ with $m(E\setminus F)<\epsilon$.
 
-**Proof.**
-
+<details><summary>click to see proof</summary><p>
+**Proof.** For each $n$, apply $\eta:=\frac{1}{n}$, $\delta:=\frac{\epsilon}{2^{n+1}}$ to the previous lemma, thereby obtaining $N(n)$ and $A_n$ so that $\vert f_k-f\vert<\frac{1}{n}$ on $A_n$  for all $k\ge N(n)$ where $m(E\setminus A_n)<\frac{\epsilon}{2^{n+1}}$. Define $A:=\cap_{n=1}^\infty A_n$, which is measurable. Clearly, $f_k\to f$ uniformly on $A$, since we can arbitrarily squeeze $\vert f_k-f\vert$ by controlling the index $n$ on $A\subset A_n$. Also, we have that $m(E\setminus A)=m(\cup_{n=1}^\infty[E\setminus A_n])\le \sum_{n=1}^\infty m(E\setminus A_n)<\sum_{n=1}^\infty\frac{\epsilon}{2^{n+1}}=\frac{\epsilon}{2}$. Note that since $A$ is measurable, we can find a closed set $F\subset A$, such that $m(A\setminus F)<\frac{\epsilon}{2}$. Thus, $m(E\setminus F)=m(E\setminus A)+m(A\setminus F)<\frac{\epsilon}{2}+\frac{\epsilon}{2}=\epsilon$. $\blacksquare$
+</p></details>
 
 
 
