@@ -45,6 +45,13 @@ print("hello world!")
 
 ## Lusin's theorem
 
+**Lemma.** Let $f$ be a simple function on $E$. Then, for any $\epsilon>0$, there is a closed set $F\subset E$ and a function $g$ which is continuous on $\mathbb{R}$, such that $f=g$ on $F$ with $m(E\setminus F)<\epsilon$. 
+
+**Proof.** Let $\epsilon>0$. Since $f$ is simple, let $a_1,a_2,\cdots,a_n$ be the distinct values $f$ takes on $E_1,E_2,\cdots,E_n$, respectively, where $\{E_i\}$ is a partition of $E$. Since each $E_i$ is measurable, we can find a closed set $F_i\subset E_i$, such that $m(E_i\setminus F_i)<\frac{\epsilon}{n}$, for each $i$. Define $F:=\cup_{i=1}^nF_i$. Clearly, $F$ is closed. Since $E_i$'s are disjoint, we have that $m(E\setminus F)=m(\cup_{i=1}^n[E_i\setminus F_i])=\sum_{i=1}^nm(E_i\setminus F_i)<\epsilon$. Now define $g$ on $F$ to be equal to the restriction of $f$ on $F$. We will show that this function $g$ is locally constant on $F$ so that it is continuous. Take any $x\in F$. Then $x\in F_i$ for some $1\le i\le n$. Note that since $F_i$'s are disjoint, $x\notin\cup_{i\neq j}F_j$, where $(\cup_{i\neq j}F_j)^c$ is open. Hence there is an open interval $I_x$ containing $x$, such that $I_x\cap(\cup_{i\neq j}F_j)=\empty$. It follows that $g$ is constant on $I_x\cap F$, and so $g$ is continuous on $F$. The extension of $g$ to $\mathbb{R}$ is the desired function. $\blacksquare$
+
+**Theorem.** Let $f$ be a measurable function on $E$. Then, for any $\epsilon>0$, there is a closed set $F\subset E$ and a function $g$ which is continuous on $\mathbb{R}$, such that $f=g$ on $F$ with $m(E\setminus F)<\epsilon$.
+
+**Proof.** Let $\epsilon>0$. We first prove for the case $m(E)<\infty$ (so that we can use Egorov's thm). Since $f$ is measurable, by the simple approximation theorem, there is a sequence of simple functions ${f_n}$ on $E$, on which $f_n\to f$ pointwise. Applying the previous lemma for each $n$, we obtain a closed set $F_n\subset E$ satisfying $m(E\setminus F_n)<\frac{\epsilon}{2^{n+1}}$ and a continuous function $g_n$ that agrees with $f_n$ on $F_n$. Now apply Egorov's theorem so that we have a closed set $F_0\subset E$ for which $m(E\setminus F_0)<\frac{\epsilon}{2}$ and $f_n\to f$ uniformly. Define $F:=\cap_{n=1}^\infty F_n$. Then $F$ is closed, and so $m(E\setminus F)=m(\cup_{n=0}^\infty[E\setminus F_n])=\sum_{n=0}^\infty m(E\setminus F_n)=\frac{\epsilon}{2}+\frac{\epsilon}{2}=\epsilon$. Thus, if we let $g$ to be the restriction of f on $F$, then clearly $f=g$ on $F$, and also $g$ is continuous on $F$, since uniform convergence preserves continuity. The extension of $g$ to $\mathbb{R}$ is the desired function. (TODO)$m(E)=\infty$ $\blacksquare$
 
 ## Reference
 Royden, H. L. (1963). Real Analysis. Macmillan. 4th edition. 2010.
