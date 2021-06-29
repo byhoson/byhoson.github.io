@@ -5,21 +5,25 @@ permalink: /about/
 canonical_url: "https://byhoson.github.io/about"
 ---
 
-# About
-Born and raised in Seoul. Hopefully, I'd like to be an amateur mathematician working on computer science & sw engineering.
+
+I am an undergraduate student in Sogang University. Currently, I am working as an undergraduate research intern at prosyslab, Kaist, advised by Kihong Heo. I am generally interested in builing "useful" softwares under "beautiful" mathematical principles.
 
 ## Interests
 * Programming Languages
-  * program synthesis, formal verification
-  * type theory (potential)
+  * program analysis in security domains
+  * type theory, proof assistants, verification, etc
 * Machine Learning 
+  * ML for PL
 
 ## Education
 * (2018~) Undergraduate. Computer Science and Engineering & Mathematics. Sogang University.
+
+## Experience
+* (2021~) Undergraduate Reasearch Intern, ProsysLab, Kaist.
    
 ## Honours
 * (2018) Albatross SW Scholarship, Sogang University
-* (2018 Spring) Dean's List, Department of Engineering, Sogang University
+* (2018 Spring) Dean's List, Department of Engineering, Sogang University.
 
 ## Contact
 * email - bhson99@gmail.com
