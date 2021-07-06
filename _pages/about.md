@@ -6,14 +6,16 @@ canonical_url: "https://byhoson.github.io/about"
 ---
 
 
-I am an undergraduate student in Sogang University. Currently, I am working as an undergraduate research intern at prosyslab, Kaist, advised by Kihong Heo. I am generally interested in builing "useful" softwares under "beautiful" mathematical principles.
+I am an undergraduate student at Sogang University. Currently, I am working as an undergraduate research intern at prosyslab, Kaist, advised by Kihong Heo. I am generally interested in builing "useful" softwares under "beautiful" mathematical principles. My ultimate dream is to discover that something is "impossible".
 
 ## Interests
+The following things may not be exactly what I'm working on at the moment, but are what I would like to persue in my whole career:
 * Programming Languages
-  * program analysis in security domains
-  * type theory, proof assistants, verification, etc
+  * Static Analysis - abstract interpretation, language-based security, etc
+  * Model Checking - modal logic, satisfiability modulo theories, etc
+  * Proof Assistants - type theory, computer-assisted proof
 * Machine Learning 
-  * ML for PL
+  * approximation algorithms for tackling undecidability in above domains
 
 ## Education
 * (2018~) Undergraduate. Computer Science and Engineering & Mathematics. Sogang University.
