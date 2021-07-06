@@ -29,4 +29,4 @@ The following things may not be exactly what I'm working on at the moment, but a
 
 ## Contact
 * email - bhson99@gmail.com
-* github - github.com/byhoson
+* github - [github.com/byhoson](https://github.com/byhoson)
