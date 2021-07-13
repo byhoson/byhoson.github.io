@@ -17,7 +17,7 @@ The following things may not be exactly what I'm working on at the moment, but a
   * approximation algorithms for tackling undecidability in above domains
 
 ## Education
-* (2018~) Undergraduate. [Computer Science and Engineering & Mathematics (Double Major)](https://cs.sogang.ac.kr/cs/index_new.html). Sogang University.
+* (2018~) Undergraduate. [Computer Science and Engineering](https://cs.sogang.ac.kr/cs/index_new.html) & [Mathematics](https://math.sogang.ac.kr/math/index_new.html) (Double Major). Sogang University.
 
 ## Experience
 * (2021~) Undergraduate Reasearch Intern. [ProsysLab](https://prosys.kaist.ac.kr). KAIST.
