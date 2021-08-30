@@ -1,7 +1,7 @@
 ---
 layout: single
 title: About
-permalink: /
+permalink: /about/
 canonical_url: "https://byhoson.github.io/about"
 ---
 
