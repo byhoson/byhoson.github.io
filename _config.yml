@@ -119,6 +119,31 @@ author:
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
 
+about_profile_image: https://user-images.githubusercontent.com/57384091/128380057-819fce5e-b534-4648-ae7a-b4fd04d546c0.jpg
+about_content: | # this will include new lines to allow paragraphs
+  Hi, my name's Tae Eun. I'm currently pursuing my Master's degree in computer science. Learning new things and sharing them is my greatest pleasure! I think research is taking a step further, which is to make/discover new knowledge for the sake of everyone who will benefit from it.
+  I am interested in : <mark>Software Engineering</mark> and <mark>Automatic Program Repair</mark>
+content:
+  - title: Projects # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: top-middle
+        title: ConFixPlus - Automatic Program Repair tool
+        link: http://203.252.112.24/
+        link_text: Project web demo page
+        # additional_links:
+        #   - title:  sproogen/modern-resume-theme
+        #     icon: fab fa-github
+        #     url: github.com/sproogen/modern-resume-theme
+          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          #   icon: fab fa-github
+          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+        quote: >
+          Ever wished someone else to fix your bug? This is the moment when dreams come true.
+        description: | # this will include new lines to allow paragraphs
+          I worked on this project in my undergraduate years. This is an automatic program repair tool, enhanced with a patch recommendation technique to produce patches to fix bugs automatically. The link above will lead you to a page where you can try to fix the bugs from the dataset I used for the validation of the tool. Moreover, you can try to fix a bug from your own repository if you give the necessary information. If you are interested, go check out the website!
+
+
 # Site Footer
 footer:
   links:
