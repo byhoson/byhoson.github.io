@@ -1,38 +1,31 @@
 ---
-layout: splash
+layout: single
+title: About
 permalink: /
-hidden: true
-header:
-  overlay_color: "#5e616c"
-  overlay_image: /assets/images/mm-home-page-feature.jpg
-  actions:
-    - label: "<i class='fas fa-download'></i> Install now"
-      url: "/docs/quick-start-guide/"
-excerpt: >
-  A flexible two-column Jekyll theme. Perfect for building personal sites, blogs, and portfolios.<br />
-  <small><a href="https://github.com/mmistakes/minimal-mistakes/releases/tag/4.24.0">Latest release v4.24.0</a></small>
-feature_row:
-  - image_path: /assets/images/mm-customizable-feature.png
-    alt: "customizable"
-    title: "Super customizable"
-    excerpt: "Everything from the menus, sidebars, comments, and more can be configured or set with YAML Front Matter."
-    url: "/docs/configuration/"
-    btn_class: "btn--primary"
-    btn_label: "Learn more"
-  - image_path: /assets/images/mm-responsive-feature.png
-    alt: "fully responsive"
-    title: "Responsive layouts"
-    excerpt: "Built with HTML5 + CSS3. All layouts are fully responsive with helpers to augment your content."
-    url: "/docs/layouts/"
-    btn_class: "btn--primary"
-    btn_label: "Learn more"
-  - image_path: /assets/images/mm-free-feature.png
-    alt: "100% free"
-    title: "100% free"
-    excerpt: "Free to use however you want under the MIT License. Clone it, fork it, customize it... whatever!"
-    url: "/docs/license/"
-    btn_class: "btn--primary"
-    btn_label: "Learn more"      
+canonical_url: "https://byhoson.github.io/"
 ---
 
-{% include feature_row %}
+
+I am an undergraduate student at Sogang University. Currently, I am working as an undergraduate research intern at [prosyslab](https://prosys.kaist.ac.kr), KAIST, advised by [Kihong Heo](https://kihongheo.kaist.ac.kr). I am generally interested in builing "useful" softwares through "beautiful" mathematical principles. My ultimate dream is to discover that something is "impossible".
+
+## Interests
+The following things may not be exactly what I'm working on at the moment, but are what I would like to persue during my whole career:
+* Programming Languages & Logic
+  * Static Analysis
+  * Verification, Program Synthesis, etc
+* Machine Learning 
+  * approximation algorithms for tackling undecidability in above domains
+
+## Education
+* (2018~) Undergraduate. [Computer Science and Engineering](https://cs.sogang.ac.kr/cs/index_new.html) & [Mathematics](https://math.sogang.ac.kr/math/index_new.html) (Double Major). Sogang University.
+
+## Experience
+* (2021~) Undergraduate Reasearch Intern. [ProsysLab](https://prosys.kaist.ac.kr). KAIST.
+   
+## Honours
+* (2018) Albatross SW Scholarship, Sogang University
+* (2018 Spring) Dean's List, Department of Engineering, Sogang University.
+
+## Contact
+* email - bhson99@gmail.com
+* github - [github.com/byhoson](https://github.com/byhoson)
