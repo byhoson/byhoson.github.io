@@ -5,6 +5,7 @@ permalink: /personal/
 canonical_url: "https://byhoson.github.io/personal"
 ---
 
+<<<<<<< HEAD
 Some pics of mine
 
 2017
