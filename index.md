@@ -5,7 +5,8 @@ permalink: /
 canonical_url: "https://byhoson.github.io/"
 ---
 
-I am an undergraduate student at Sogang University. Currently, I am doing a research on program synthesis as a research intern at [prosyslab](https://prosys.kaist.ac.kr), KAIST, advised by [Kihong Heo](https://kihongheo.kaist.ac.kr). I am generally interested in mathematical aspects of software foundations. I am mostly happy when I find out that two seemingly different things turn out to be indeed the same with the help of abstraction.
+<img src="assets/images/green.jpeg" alt="me" width="200"/>
+My name is Bjongho Son. I am an undergraduate student at Sogang University. Currently, I am doing a research on program synthesis as a research intern at [prosyslab](https://prosys.kaist.ac.kr), KAIST, advised by [Kihong Heo](https://kihongheo.kaist.ac.kr). I am generally interested in mathematical aspects of software foundations. I am mostly happy when I find out that two seemingly different things turn out to be indeed the same with the help of abstraction.
 
 ## Interests
 My interests lie in PL, ML, SE. In particular:
