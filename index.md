@@ -5,7 +5,7 @@ permalink: /
 canonical_url: "https://byhoson.github.io/"
 ---
 
-<img align="left" src="assets/images/green.jpeg" alt="me" width="400"/>
+![image](assets/images/green.jpeg){: style="float: left"}
 My name is Bjongho Son. I am an undergraduate student at Sogang University. Currently, I am doing a research on program synthesis as a research intern at [prosyslab](https://prosys.kaist.ac.kr), KAIST, advised by [Kihong Heo](https://kihongheo.kaist.ac.kr). I am generally interested in principled approach to designing/reasoning about software systems. I am mostly happy when I find out that two seemingly different things turn out to be indeed the same by means of abstraction.
 
 ## Interests
