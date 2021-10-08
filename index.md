@@ -3,12 +3,13 @@ layout: single
 title: About
 permalink: /
 canonical_url: "https://byhoson.github.io/"
+author_profile: true
 ---
 
 My name is Bjongho Son. I am an undergraduate student at Sogang University. Currently, I am doing a research on program synthesis as a research intern at [prosyslab](https://prosys.kaist.ac.kr), KAIST, advised by [Kihong Heo](https://kihongheo.kaist.ac.kr). I am generally interested in principled approach to designing/reasoning about software systems. I am mostly happy when I find out that two seemingly different things turn out to be indeed the same by means of abstraction.
 
 ## Interests
-My interests lie in Programming Languages & Formal Methods. In particular:
+I am interested in building reliable softwares via automated reasoning, static analysis, and interactive theorem proving. I am currently working on the following problems:
 * Program Synthesis
 * Program Analysis
 
