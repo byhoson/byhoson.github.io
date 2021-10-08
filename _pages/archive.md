@@ -5,6 +5,8 @@ permalink: /archive/
 canonical_url: "https://byhoson.github.io/archive"
 ---
 
+[PL Classics](https://www.cis.upenn.edu/~bcpierce/courses/670Fall04/GreatWorksInPL.shtml)
+
 program synthesis
 * [mit 6.S084/6.887 2020](https://people.csail.mit.edu/asolar/SynthesisCourse/index.htm) (Armando Solar-Lezama)
 
