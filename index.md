@@ -6,7 +6,7 @@ canonical_url: "https://byhoson.github.io/"
 author_profile: true
 ---
 
-My name is Bjongho Son. I am an undergraduate student at Sogang University, majoring in CSE & math. Currently, I am doing a research on program synthesis as a research intern at [prosyslab](https://prosys.kaist.ac.kr), KAIST, advised by [Kihong Heo](https://kihongheo.kaist.ac.kr). I am generally interested in designing/reasoning about softwares by means of abstraction, composition, and deduction. I am mostly happy when I discover two seemingly different objects turn out to be indeed identical.
+My name is Bjongho Son. I am an undergraduate student at Sogang University, majoring in CSE & math. Currently, I am doing a research on program synthesis as a research intern at [prosyslab](https://prosys.kaist.ac.kr), KAIST, advised by [Kihong Heo](https://kihongheo.kaist.ac.kr). I am generally interested in designing/reasoning about softwares by means of abstraction, composition, and deduction. I am mostly happy when two seemingly different objects turn out to be indeed identical.
 
 ## Interests
 I am interested in building reliable softwares via automated reasoning, static analysis, and interactive theorem proving. My current interests include:
