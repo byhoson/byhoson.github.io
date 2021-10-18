@@ -9,6 +9,7 @@ canonical_url: "https://byhoson.github.io/archive"
 
 program synthesis
 * [mit 6.S084/6.887 2020](https://people.csail.mit.edu/asolar/SynthesisCourse/index.htm) (Armando Solar-Lezama)
+* [ucsd cse-291](https://github.com/nadia-polikarpova/cse291-program-synthesis/tree/master/lectures) (Nadia Polikarpova)
 
 cornell pl lectures
 * [cs3110 - functional programming with ocaml](https://www.cs.cornell.edu/courses/cs3110/2019sp/textbook/hop/pipelining.html)
