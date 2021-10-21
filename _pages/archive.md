@@ -25,3 +25,6 @@ HoTT
 * [Introduction to Univalent Foundations of Mathematics with Agda](https://www.cs.bham.ac.uk/~mhe/HoTT-UF-in-Agda-Lecture-Notes/HoTT-UF-Agda.html#lecturenotes)
 * [HoTT Course](https://github.com/andrejbauer/homotopy-type-theory-course) (Andrej Bauer)
 * [Intro to HoTT](https://www.andrew.cmu.edu/user/erijke/hott/) (Egbert Rijke)
+
+Concurrency
+* [Models of concurrency, categories, and games](http://perso.ens-lyon.fr/pierre.clairambault/enseignement/ccg.html)
