@@ -5,11 +5,16 @@ permalink: /archive/
 canonical_url: "https://byhoson.github.io/archive"
 ---
 
-[PL Classics](https://www.cis.upenn.edu/~bcpierce/courses/670Fall04/GreatWorksInPL.shtml)
+Programming Language Theory
+* [PL Classics](https://www.cis.upenn.edu/~bcpierce/courses/670Fall04/GreatWorksInPL.shtml)
+* [software foundations](https://softwarefoundations.cis.upenn.edu/)
 
 program synthesis
 * [mit 6.S084/6.887 2020](https://people.csail.mit.edu/asolar/SynthesisCourse/index.htm) (Armando Solar-Lezama)
 * [ucsd cse-291](https://github.com/nadia-polikarpova/cse291-program-synthesis/tree/master/lectures) (Nadia Polikarpova)
+
+KAIST
+* [prosys classroom](https://github.com/prosyslab-classroom)
 
 cornell pl lectures
 * [cs3110 - functional programming with ocaml](https://www.cs.cornell.edu/courses/cs3110/2019sp/textbook/hop/pipelining.html)
@@ -28,3 +33,7 @@ HoTT
 
 Concurrency
 * [Models of concurrency, categories, and games](http://perso.ens-lyon.fr/pierre.clairambault/enseignement/ccg.html)
+
+Deep Learning
+* [Foundations of Deep Learning](http://www.cs.umd.edu/class/fall2020/cmsc828W/) (Soheil Feizi)
+* [Geometric Deep Learning](https://geometricdeeplearning.com/)
