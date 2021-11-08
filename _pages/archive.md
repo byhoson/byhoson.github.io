@@ -31,6 +31,9 @@ HoTT
 * [HoTT Course](https://github.com/andrejbauer/homotopy-type-theory-course) (Andrej Bauer)
 * [Intro to HoTT](https://www.andrew.cmu.edu/user/erijke/hott/) (Egbert Rijke)
 
+ToC
+* [UIUC cs373](https://courses.engr.illinois.edu/cs373/sp2010/lectures/) (Madhusudan Parthasarathy)
+
 Concurrency
 * [Models of concurrency, categories, and games](http://perso.ens-lyon.fr/pierre.clairambault/enseignement/ccg.html)
 
