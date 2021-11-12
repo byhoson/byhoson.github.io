@@ -33,6 +33,7 @@ HoTT
 
 ToC
 * [UIUC cs373](https://courses.engr.illinois.edu/cs373/sp2010/lectures/) (Madhusudan Parthasarathy)
+* [Warsaw](https://www.mimuw.edu.pl/~bojan/course) (Mikołaj Bojańczyk)
 
 Concurrency
 * [Models of concurrency, categories, and games](http://perso.ens-lyon.fr/pierre.clairambault/enseignement/ccg.html)
