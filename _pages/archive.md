@@ -16,7 +16,7 @@ program synthesis
 KAIST
 * [prosys classroom](https://github.com/prosyslab-classroom)
 
-cornell pl lectures
+Cornell
 * [cs3110 - functional programming with ocaml](https://www.cs.cornell.edu/courses/cs3110/2019sp/textbook/hop/pipelining.html)
 * [cs6110 - advanced programming languages](https://www.cs.cornell.edu/courses/cs6110/2019sp/resources.html)
 * [cs6112 - foundations of concurrency](https://www.cs.cornell.edu/courses/cs6112/2011fa/schedule.php)
@@ -25,6 +25,7 @@ cornell pl lectures
 CMU
 * [Bug Catching: Automated Program Verification](https://www.cs.cmu.edu/~15414/index.html) (Ruben Martins)
 * [Automated Reasoning and Satisfiability](http://www.cs.cmu.edu/~mheule/15816-f20/index.html) (Ruben Martins)
+* [Program Analysis](https://cmu-program-analysis.github.io/2021/) (Jonathan Aldrich)
 
 HoTT
 * [Introduction to Univalent Foundations of Mathematics with Agda](https://www.cs.bham.ac.uk/~mhe/HoTT-UF-in-Agda-Lecture-Notes/HoTT-UF-Agda.html#lecturenotes)
