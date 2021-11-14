@@ -42,3 +42,4 @@ Concurrency
 Deep Learning
 * [Foundations of Deep Learning](http://www.cs.umd.edu/class/fall2020/cmsc828W/) (Soheil Feizi)
 * [Geometric Deep Learning](https://geometricdeeplearning.com/)
+* [NYU-CDS](https://cds.nyu.edu/deep-learning/) (Yann LeCun)
