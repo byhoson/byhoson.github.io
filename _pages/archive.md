@@ -15,6 +15,7 @@ program synthesis
 
 KAIST
 * [prosys classroom](https://github.com/prosyslab-classroom)
+* [hongseok yang](https://github.com/hongseok-yang?tab=repositories)
 
 Cornell
 * [cs3110 - functional programming with ocaml](https://www.cs.cornell.edu/courses/cs3110/2019sp/textbook/hop/pipelining.html)
