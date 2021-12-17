@@ -40,6 +40,10 @@ ToC
 Concurrency
 * [Models of concurrency, categories, and games](http://perso.ens-lyon.fr/pierre.clairambault/enseignement/ccg.html)
 
+OS
+* [MIT 6.828](https://pdos.csail.mit.edu/6.828/2021/)
+* [gatech CS3210](https://tc.gts3.org/cs3210/2020/spring/index.html) Taesoo Kim
+
 Deep Learning
 * [Foundations of Deep Learning](http://www.cs.umd.edu/class/fall2020/cmsc828W/) (Soheil Feizi)
 * [Geometric Deep Learning](https://geometricdeeplearning.com/)
