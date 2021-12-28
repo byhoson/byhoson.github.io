@@ -21,9 +21,12 @@ I am interested in building reliable softwares via automated reasoning, static a
 
 ## Projects
 I have contributed to the following open-source projects:
+* TakeThis: Undergrad. Capstone Project @ Sogang University
 * software vulnerability detection system (details will be added later)
 
 ## Publications
+* TakeThis: A University Course Recommendation System Based on Domain-Specific Concept Similarities
+[pdf](/assets/publications/TakeThis.pdf)
 * Detecting software vulnerabilities by static analysis (submitted)
 
 ## Honours
