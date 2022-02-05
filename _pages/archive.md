@@ -37,6 +37,9 @@ ToC
 * [UIUC cs373](https://courses.engr.illinois.edu/cs373/sp2010/lectures/) (Madhusudan Parthasarathy)
 * [Warsaw](https://www.mimuw.edu.pl/~bojan/course) (Mikołaj Bojańczyk)
 
+Logic
+* [mathematical logic](https://www.youtube.com/channel/UCtJaL-b0tY9l3VWoojBZkww/playlists) (Marco Benini)
+
 Concurrency
 * [Models of concurrency, categories, and games](http://perso.ens-lyon.fr/pierre.clairambault/enseignement/ccg.html)
 
