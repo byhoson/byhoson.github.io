@@ -19,6 +19,7 @@ KAIST
 
 Cornell
 * [cs3110 - functional programming with ocaml](https://www.cs.cornell.edu/courses/cs3110/2019sp/textbook/hop/pipelining.html)
+* [cs4160 - formal verification](http://www.cs.cornell.edu/courses/cs4160/2019sp/)
 * [cs6110 - advanced programming languages](https://www.cs.cornell.edu/courses/cs6110/2019sp/resources.html)
 * [cs6112 - foundations of concurrency](https://www.cs.cornell.edu/courses/cs6112/2011fa/schedule.php)
 * [cs6117 - category theory for computer scientists](https://www.cs.cornell.edu/courses/cs6117/2020sp/)
