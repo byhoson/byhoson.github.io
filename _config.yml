@@ -16,11 +16,11 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Bjongho Son"
+title                    : "Byoungho Son"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Bjongho Son"
-description              : "Bjong's homepage"
+name                     : "Byoungho Son"
+description              : "Bjong's website"
 url                      : "https://byhoson.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -94,9 +94,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Bjongho Son"
-  avatar           : "/assets/images/midschool.jpeg"
-  bio              : "Sogang University"
+  name             : "Byoungho Son"
+  avatar           : "/assets/images/byoungho.jpg"
+  bio              : "Undergrad @ Sogang University"
   location         : "Seoul, South Korea"
   email            : "bhson99@gmail.com"
   links:
