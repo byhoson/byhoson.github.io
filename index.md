@@ -6,15 +6,21 @@ canonical_url: "https://byhoson.github.io/"
 author_profile: true
 ---
 
-My name is Bjongho Son. I am an undergraduate student at Sogang University, majoring in CSE & math. Currently, I am doing a research on program synthesis as a research intern at [prosyslab](https://prosys.kaist.ac.kr), KAIST, advised by [Kihong Heo](https://kihongheo.kaist.ac.kr). I am generally interested in designing/reasoning about softwares by means of abstraction, composition, and deduction. I am mostly happy when two seemingly different objects turn out to be indeed identical.
+## Byoungho Son
+Hello, there!
+I am (potentially) a graduate student pursuing a Ph.D at POSTECH. 
+I (potentially) study software verification and computational logic at Software Verification Lab, advised by Kyungmin Bae.
+I am broadly interested in various ways of reasoning about softwares. 
+I am mostly happy when two seemingly different things turn out to be the same.
 
 ## Interests
-I am interested in building reliable softwares via automated reasoning, static analysis, and interactive theorem proving. My current interests include:
-* Program Synthesis
-* Program Analysis
+In general, Model Checking, Computational Logic, Automated Reasoning, Type Theory. In particular,
+(will be added soon!).
 
 ## Education
-* (2018~) Undergraduate. [Computer Science and Engineering](https://cs.sogang.ac.kr/cs/index_new.html) & [Mathematics](https://math.sogang.ac.kr/math/index_new.html) (Double Major). Sogang University.
+* (2022 Aug - present) Ph.D. in Computer Science. POSTECH. (advisor: Kyungmin Bae)
+* (2018 Feb - 2022 Aug) B.E. in [Computer Science and Engineering](https://cs.sogang.ac.kr/cs/index_new.html)\\ 
+  & B.S. in [Mathematics](https://math.sogang.ac.kr/math/index_new.html) (Double Major). Sogang University.
 
 ## Experience
 * (2021~) Undergraduate Reasearch Intern. [ProsysLab](https://prosys.kaist.ac.kr). KAIST. (Advisor: [Kihong Heo](https://kihongheo.kaist.ac.kr))
