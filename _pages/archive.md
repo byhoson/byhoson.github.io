@@ -3,6 +3,7 @@ layout: single
 title: archive
 permalink: /archive/
 canonical_url: "https://byhoson.github.io/archive"
+author_profile: true
 ---
 
 Programming Language Theory

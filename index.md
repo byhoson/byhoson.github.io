@@ -5,14 +5,20 @@ canonical_url: "https://byhoson.github.io/"
 author_profile: false
 ---
 <div>
-  <img style="display:inline-block;" src="assets/images/byoungho.jpg" alt="profile" width="50%"/>
   <div style="display:inline-block;" width="30%">
+    <img src="assets/images/byoungho.jpg" alt="profile" width="50%"/>
+  </div>
+  <div style="display:inline-block;" width="70%">
     Byoungho Son <br/>
+    Software Verification Laboratory <br/>
     Ph.D. student @ POSTECH <br/>
     email: bhson99 at gmail dot com <br/>
+    <a href="/">cv</a> <a href="/">github</a> 
   </div>
 </div>
 
+
+## Byoungho Son
 Hello, there!
 I am (potentially) a graduate student pursuing a Ph.D. at POSTECH. 
 Befored that, I got my bachelor's degree in CS and mathematics at Sogang University.
@@ -47,7 +53,3 @@ I have contributed to the following open-source projects:
 ## Honours & Awards
 * (2018) Albatross SW Scholarship, Sogang University
 * (2018 Spring) Dean's List, Department of Engineering, Sogang University.
-
-## Contact
-* email - bhson99 at gmail dot com
-* github - [github.com/byhoson](https://github.com/byhoson)
