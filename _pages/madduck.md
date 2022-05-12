@@ -24,7 +24,12 @@ author_profile: false
 이름: 김동언
 <img src="/assets/images/madduck/hoseung.png" style="width:30%">
 이름: 류호승
-
+### 애완견
+<img src="/assets/images/yoohoon.png" style="width:100%">
+이름: 장유훈
+### 이사장
+<img src="/assets/images/byoungho.jpg" style="width:100%">
+이름: 손병호
 <html>
 <style>
 * {
@@ -116,10 +121,10 @@ body {
     <img src="/assets/images/madduck/6.jpeg" style="width:100%">
   </div>
   <div class="column">
+    <img src="/assets/images/madduck/11.jpeg" style="width:100%">
     <img src="/assets/images/madduck/8.jpeg" style="width:100%">
     <img src="/assets/images/madduck/9.jpeg" style="width:100%">
-    <img src="/assets/images/byoungho.jpg" style="width:100%">
-  </div>
+      </div>
 </div>
 
 </body>
