@@ -64,7 +64,7 @@ body {
 </style>
 <body>
 
-<img src="/assets/images/madduck/street" style="width:100%">
+<img src="/assets/images/madduck/street.png" style="width:100%">
 
 
 
