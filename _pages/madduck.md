@@ -1,11 +1,11 @@
 ---
 layout: single
-title: personal
 permalink: /madduck/
 canonical_url: "https://byhoson.github.io/madduck"
 author_profile: false
 ---
 # 마떡사거리
+
 <html>
 <style>
 * {
@@ -64,11 +64,19 @@ body {
 </style>
 <body>
 
+<img src="/assets/images/madduck/street" style="width:100%">
+
+
+
+
 <!-- Header -->
 <div class="header">
-  <h1>Some Pics of Ours</h1>
-  <p>click to see!</p>
+  <h1>인사말</h1>
+  <p>안녕하세요! - 박세현</p>
 </div>
+
+## 조직구성
+
 
 <!-- Photo Grid -->
 <div class="row"> 
