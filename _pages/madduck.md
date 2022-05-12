@@ -4,7 +4,7 @@ permalink: /madduck/
 canonical_url: "https://byhoson.github.io/madduck"
 author_profile: false
 ---
-# 마떡사거리
+## 마떡사거리인생
 <img src="/assets/images/madduck/street.png" style="width:100%">
 
 ## 조직구성
@@ -91,16 +91,11 @@ body {
 <body>
 
 
-
-
-
 <!-- Header -->
 <div class="header">
   <h1>인사말</h1>
   <p>안녕하세요! - 조직위원장 박세현</p>
 </div>
-
-## 조직구성
 
 
 <!-- Photo Grid -->
@@ -109,24 +104,22 @@ body {
     <img src="/assets/images/madduck/1.jpeg" style="width:100%">
     <img src="/assets/images/madduck/2.jpeg" style="width:100%">
     <img src="/assets/images/madduck/3.jpeg" style="width:100%">
-    <img src="/assets/images/madduck/12.jpg" style="width:100%">
+    <img src="/assets/images/madduck/12.jpeg" style="width:100%">
   </div>
   <div class="column">
     <img src="/assets/images/madduck/4.jpeg" style="width:100%">
     <img src="/assets/images/madduck/5.jpeg" style="width:100%">
-    <img src="/assets/images/madduck/11.jpeg" style="width:100%">
     <img src="/assets/images/madduck/10.jpeg" style="width:100%">
   </div>  
   <div class="column">
-    <img src="/assets/images/profile.jpeg" style="width:100%">
     <img src="/assets/images/madduck/7.jpeg" style="width:100%">
     <img src="/assets/images/madduck/6.jpeg" style="width:100%">
+    <img src="/assets/images/madduck/8.jpeg" style="width:100%">
   </div>
   <div class="column">
     <img src="/assets/images/madduck/11.jpeg" style="width:100%">
-    <img src="/assets/images/madduck/8.jpeg" style="width:100%">
     <img src="/assets/images/madduck/9.jpeg" style="width:100%">
-      </div>
+  </div>
 </div>
 
 </body>
