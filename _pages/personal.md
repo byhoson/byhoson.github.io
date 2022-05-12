@@ -99,3 +99,6 @@ body {
 </body>
 </html>
 
+## Misc.
+I maintain [MADDUCK](/madduck) website.
+

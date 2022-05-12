@@ -41,17 +41,15 @@ In general, Model Checking, Computational Logic, Automated Reasoning, Type Theor
 
 ## Project
 I have contributed to the following open-source projects:
-
-software vulnerability detection system (details will be added later)
-
-TakeThis: Undergrad. Capstone Project @ Sogang University
+* software vulnerability detection system (details will be added later)
+* TakeThis: Undergrad. Capstone Project @ Sogang University
 [project page](http://cscp2.sogang.ac.kr/CSE4187/index.php/TakeThis)
 
 
 ## Publication
+* Detecting software vulnerabilities by static analysis (submitted)
 * TakeThis: A University Course Recommendation System Based on Domain-Specific Concept Similarities
 [pdf](/assets/publications/TakeThis.pdf) 
-* Detecting software vulnerabilities by static analysis (submitted)
 
 ## Honours & Awards
 * (2018) Albatross SW Scholarship, Sogang University
