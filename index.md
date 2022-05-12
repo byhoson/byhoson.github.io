@@ -4,9 +4,14 @@ permalink: /
 canonical_url: "https://byhoson.github.io/"
 author_profile: true
 ---
-
-## Byoungho Son
-<img src="assets/images/byoungho.jpg" alt="profile" width="30%"/>
+<div>
+  <img src="assets/images/byoungho.jpg" alt="profile" width="50%"/>
+  <div>
+    Byoungho Son <br/>
+    Ph.D. student @ POSTECH <br/>
+    email: bhson99 at gmail dot com <br/>
+  </div>
+</div>
 
 Hello, there!
 I am (potentially) a graduate student pursuing a Ph.D. at POSTECH. 
