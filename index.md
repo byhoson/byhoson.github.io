@@ -2,11 +2,11 @@
 layout: single
 permalink: /
 canonical_url: "https://byhoson.github.io/"
-author_profile: true
+author_profile: false
 ---
 <div>
-  <img src="assets/images/byoungho.jpg" alt="profile" width="50%"/>
-  <div>
+  <img style="display:inline-block;" src="assets/images/byoungho.jpg" alt="profile" width="50%"/>
+  <div style="display:inline-block;" width="30%">
     Byoungho Son <br/>
     Ph.D. student @ POSTECH <br/>
     email: bhson99 at gmail dot com <br/>
