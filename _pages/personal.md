@@ -22,7 +22,6 @@ Chiang-mai, Thailand, 2018 Jan.
 ![pink](/assets/images/pink.jpg)
 
 
-<!DOCTYPE html>
 <html>
 <style>
 * {
@@ -83,45 +82,33 @@ body {
 
 <!-- Header -->
 <div class="header">
-  <h1>Responsive Image Grid</h1>
-  <p>Resize the browser window to see the responsive effect.</p>
+  <h1>Some Pics of Mine</h1>
+  <p>click to see!</p>
 </div>
 
 <!-- Photo Grid -->
 <div class="row"> 
   <div class="column">
-    <img src="/assets/images/midschool.jpeg" style="width:100%">
-    <img src="/assets/images/midschool.jpeg" style="width:100%">
-    <img src="/assets/images/midschool.jpeg" style="width:100%">
-    <img src="/assets/images/midschool.jpeg" style="width:100%">
-    <img src="/assets/images/midschool.jpeg" style="width:100%">
-    <img src="/assets/images/midschool.jpeg" style="width:100%">
-    <img src="/assets/images/midschool.jpeg" style="width:100%">
+    <img src="/assets/images/1.jpeg" style="width:100%">
+    <img src="/assets/images/2.jpeg" style="width:100%">
+    <img src="/assets/images/3.jpeg" style="width:100%">
+    <img src="/assets/images/pink.jpg" style="width:100%">
   </div>
   <div class="column">
-    <img src="/assets/images/midschool.jpeg" style="width:100%">
-    <img src="/assets/images/midschool.jpeg" style="width:100%">
-    <img src="/assets/images/midschool.jpeg" style="width:100%">
-    <img src="/assets/images/midschool.jpeg" style="width:100%">
-    <img src="/assets/images/midschool.jpeg" style="width:100%">
-    <img src="/assets/images/midschool.jpeg" style="width:100%">
+    <img src="/assets/images/4.jpeg" style="width:100%">
+    <img src="/assets/images/5.jpeg" style="width:100%">
+    <img src="/assets/images/midshool.jpeg" style="width:100%">
+    <img src="/assets/images/green.jpeg" style="width:100%">
   </div>  
   <div class="column">
-    <img src="/assets/images/midschool.jpeg" style="width:100%">
-    <img src="/assets/images/midschool.jpeg" style="width:100%">
-    <img src="/assets/images/midschool.jpeg" style="width:100%">
-    <img src="/assets/images/midschool.jpeg" style="width:100%">
-    <img src="/assets/images/midschool.jpeg" style="width:100%">
-    <img src="/assets/images/midschool.jpeg" style="width:100%">
-    <img src="/assets/images/midschool.jpeg" style="width:100%">
+    <img src="/assets/images/profile.jpeg" style="width:100%">
+    <img src="/assets/images/7.jpeg" style="width:100%">
+    <img src="/assets/images/6.jpeg" style="width:100%">
   </div>
   <div class="column">
-    <img src="/assets/images/midschool.jpeg" style="width:100%">
-    <img src="/assets/images/midschool.jpeg" style="width:100%">
-    <img src="/assets/images/midschool.jpeg" style="width:100%">
-    <img src="/assets/images/midschool.jpeg" style="width:100%">
-    <img src="/assets/images/midschool.jpeg" style="width:100%">
-    <img src="/assets/images/midschool.jpeg" style="width:100%">
+    <img src="/assets/images/8.jpeg" style="width:100%">
+    <img src="/assets/images/9.jpeg" style="width:100%">
+    <img src="/assets/images/byoungho.jpg" style="width:100%">
   </div>
 </div>
 
