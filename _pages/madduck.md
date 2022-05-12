@@ -24,11 +24,13 @@ author_profile: false
 이름: 김동언
 <img src="/assets/images/madduck/hoseung.png" style="width:30%">
 이름: 류호승
+<img src="/assets/images/madduck/sunghoon.png" style="width:30%">
+이름: 조성훈 
 ### 애완견
-<img src="/assets/images/yoohoon.png" style="width:100%">
+<img src="/assets/images/madduck/yoohoon.png" style="width:20%">
 이름: 장유훈
 ### 이사장
-<img src="/assets/images/byoungho.jpg" style="width:100%">
+<img src="/assets/images/byoungho.jpg" style="width:30%">
 이름: 손병호
 <html>
 <style>
