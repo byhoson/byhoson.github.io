@@ -6,11 +6,18 @@ author_profile: false
 ---
 ## 마떡사거리인생
 <img src="/assets/images/madduck/street.png" style="width:100%">
-8
+9
+비영리 로컬 스타트업
+
+## 주요업무
+1. 온더데스크 고객관리 및 스터디룸 이용률 최적화
+
 ## 조직구성
+
 ### 위원장
 <img src="/assets/images/madduck/sehyun.png" style="width:30%">
 이름: 박세현
+
 ### 직원
 <img src="/assets/images/madduck/wonsuck.png" style="width:30%">
 이름: 유원석
@@ -99,7 +106,7 @@ body {
 /* The Modal (background) */
 .modal {
   display: none; /* Hidden by default */
-  position: relative; /* Stay in place */
+  position: absolute; /* Stay in place */
   z-index: 1; /* Sit on top */
   padding-top: 100px; /* Location of the box */
   left: 0;
