@@ -6,7 +6,7 @@ author_profile: false
 ---
 ## 마떡사거리인생
 <img src="/assets/images/madduck/street.png" style="width:100%">
-11
+12
 비영리 로컬 스타트업
 
 ## 주요업무
@@ -43,6 +43,8 @@ author_profile: false
 <html>
 <style>
 * {
+  margin: 0;
+  padding: 0;
   box-sizing: border-box;
 }
 
@@ -110,11 +112,11 @@ body {
   position: fixed; /* Stay in place */
   z-index: 1; /* Sit on top */
   padding-top: 100px; /* Location of the box */
-  left: 10%;
-  top: 10%;
+  left: 0;
+  top: 0;
   width: 100%; /* Full width */
   height: 100%; /* Full height */
-  /*overflow: auto;*/ /* Enable scroll if needed */
+  overflow: auto; /* Enable scroll if needed */
   background-color: rgb(0,0,0); /* Fallback color */
   background-color: rgba(0,0,0,0.9); /* Black w/ opacity */
 }
