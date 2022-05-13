@@ -6,7 +6,7 @@ author_profile: false
 ---
 ## 마떡사거리인생
 <img src="/assets/images/madduck/street.png" style="width:100%">
-6
+7
 ## 조직구성
 ### 위원장
 <img src="/assets/images/madduck/sehyun.png" style="width:30%">
@@ -102,8 +102,10 @@ body {
   position: fixed; /* Stay in place */
   z-index: 1; /* Sit on top */
   padding-top: 100px; /* Location of the box */
-  left: 5px;
-  top: 5px;
+  left: 0;
+  top: 0;
+  right: 0;
+  bottom: 0;
   width: 100%; /* Full width */
   height: 100%; /* Full height */
   overflow: auto; /* Enable scroll if needed */
