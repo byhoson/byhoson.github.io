@@ -6,11 +6,12 @@ author_profile: false
 ---
 ## 마떡사거리인생
 <img src="/assets/images/madduck/street.png" style="width:100%">
-9
+10
 비영리 로컬 스타트업
 
 ## 주요업무
 1. 온더데스크 고객관리 및 스터디룸 이용률 최적화
+ 
 
 ## 조직구성
 
@@ -106,13 +107,11 @@ body {
 /* The Modal (background) */
 .modal {
   display: none; /* Hidden by default */
-  position: absolute; /* Stay in place */
+  position: fixed; /* Stay in place */
   z-index: 1; /* Sit on top */
   padding-top: 100px; /* Location of the box */
-  left: 0;
-  top: 0;
-  right: 0;
-  bottom: 0;
+  left: 10%;
+  top: 10%;
   width: 100%; /* Full width */
   height: 100%; /* Full height */
   overflow: auto; /* Enable scroll if needed */
