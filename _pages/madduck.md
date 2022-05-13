@@ -4,10 +4,9 @@ permalink: /madduck/
 canonical_url: "https://byhoson.github.io/madduck"
 author_profile: false
 ---
-
 ## 마떡사거리인생
 <img src="/assets/images/madduck/street.png" style="width:100%">
-
+1
 ## 조직구성
 ### 위원장
 <img src="/assets/images/madduck/sehyun.png" style="width:30%">
@@ -105,8 +104,8 @@ body {
   padding-top: 100px; /* Location of the box */
   left: 0;
   top: 0;
-  width: 100%; /* Full width */
-  height: 100%; /* Full height */
+  width: 80%; /* Full width */
+  height: 80%; /* Full height */
   overflow: auto; /* Enable scroll if needed */
   background-color: rgb(0,0,0); /* Fallback color */
   background-color: rgba(0,0,0,0.9); /* Black w/ opacity */
