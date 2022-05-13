@@ -4,6 +4,7 @@ permalink: /madduck/
 canonical_url: "https://byhoson.github.io/madduck"
 author_profile: false
 ---
+
 ## 마떡사거리인생
 <img src="/assets/images/madduck/street.png" style="width:100%">
 
@@ -24,7 +25,7 @@ author_profile: false
 이름: 김동언
 <img src="/assets/images/madduck/hoseung.png" style="width:30%">
 이름: 류호승
-<img src="/assets/images/madduck/sunghoon.png" style="width:30%">
+<img src="/assets/images/madduck/sunghoon.jpeg" style="width:30%">
 이름: 조성훈 
 ### 애완견
 <img src="/assets/images/madduck/yoohoon.png" style="width:20%">
@@ -94,7 +95,7 @@ body {
 <!-- Header -->
 <div class="header">
   <h1>인사말</h1>
-  <p>안녕하세요! - 조직위원장 박세현</p>
+  <p>어서오고.  - 조직위원장 박세현</p>
 </div>
 
 
@@ -110,6 +111,7 @@ body {
     <img src="/assets/images/madduck/4.jpeg" style="width:100%">
     <img src="/assets/images/madduck/5.jpeg" style="width:100%">
     <img src="/assets/images/madduck/10.jpeg" style="width:100%">
+    <img src="/assets/images/madduck/13.jpeg" style="width:100%">
   </div>  
   <div class="column">
     <img src="/assets/images/madduck/7.jpeg" style="width:100%">
