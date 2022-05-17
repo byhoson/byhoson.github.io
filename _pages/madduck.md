@@ -20,7 +20,7 @@ author_profile: false
 이름: 박세현
 
 ### 직원
-<img src="/assets/images/madduck/wonsuck.png" style="width:30%">
+<img src="/assets/images/madduck/wonsuck.jpeg" style="width:30%">
 이름: 유원석
 <img src="/assets/images/madduck/jungmin.png" style="width:30%">
 이름: 오정민
