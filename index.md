@@ -10,7 +10,7 @@ author_profile: false
   </div>
   <div style="display:inline-block;" width="70%">
     Byoungho Son <br/>
-    <a href="https://sv.postech.ac.kr">Software Verification Lab</a> <br/>
+    <a href="http://sv.postech.ac.kr">Software Verification Lab</a> <br/>
     Ph.D. student @ POSTECH <br/>
     Dept. of CSE, POSTECH, Pohang, South Korea <br/>
     email: byhoson at postech dot ac dot kr <br/>
@@ -22,7 +22,7 @@ author_profile: false
 ## Byoungho Son
 Hello, there!
 I am a graduate student pursuing a Ph.D. at POSTECH. 
-I study formal verification Software Verification Lab, 
+I study formal verification at Software Verification Lab, 
 advised by Kyungmin Bae.
 Before that, I obtained my bachelor's degree at Sogang University.
 I am broadly interested in formally reasoning about software thereby achieving reliability. 
@@ -33,30 +33,28 @@ In general, Model Checking, Computational Logic, Automated Reasoning, Type Theor
 (will be added soon!).
 
 ## Education
-* (2022 Aug - present) Ph.D. in Computer Science. POSTECH. 
-  (advisor: [*Kyungmin Bae*](https://sv.postech.ac.kr/~kmbae))
+* (2022 Aug - present) Ph.D. in [Computer Science and Engineering](https://cse.postech.ac.kr). POSTECH. 
+  (advisor: [*Kyungmin Bae*](http://sv.postech.ac.kr/~kmbae))
 * (2018 Feb - 2022 Aug)
   B.E. in [Computer Science and Engineering](https://cs.sogang.ac.kr/cs/index_new.html) 
   & B.S. in [Mathematics](https://math.sogang.ac.kr/math/index_new.html) (Double Major). 
   Sogang University. *Magna Cum Laude*
 
 ## Experience
-* (2022 Aug - present) Research Assistant. [Software Verification Lab](https://sv.postech.ac.kr). 
-  POSTECH. (Advisor: [*Kyungmin Bae*](https://sv.postech.ac.kr/~kmbae))
+* (2022 Aug - present) Research Assistant. [Software Verification Lab](http://sv.postech.ac.kr). 
+  POSTECH. (Advisor: [*Kyungmin Bae*](http://sv.postech.ac.kr/~kmbae))
 * (2021 Jul - 2022 Jan) Undergraduate Research Intern. [ProsysLab](https://prosys.kaist.ac.kr). 
   KAIST. (Advisor: [*Kihong Heo*](https://kihongheo.kaist.ac.kr))
 
 ## Project
 I have contributed to the following open-source projects:
 * Tracer
-* TakeThis: Undergrad. Capstone Project @ Sogang University
-[project page](http://cscp2.sogang.ac.kr/CSE4187/index.php/TakeThis)
+* TakeThis: A University Course Recommendation System. Undergrad Capstone Project @ Sogang University.\
+[paper](/assets/publications/TakeThis.pdf) [project page](http://cscp2.sogang.ac.kr/CSE4187/index.php/TakeThis)
 
 ## Publication
 * TRACER: Signature-based Static Analysis for Detecting Recurring Vulnerabilities. **CCS 2022**.\
 Wooseok Kang, Byoungho Son, Kihong Heo. 
-* TakeThis: A University Course Recommendation System Based on Domain-Specific Concept Similarities
-[pdf](/assets/publications/TakeThis.pdf). 
 
 ## Honours & Awards
 * (2022 Fall) Magna Cum Laude, Sogang University.
