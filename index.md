@@ -10,8 +10,9 @@ author_profile: false
   </div>
   <div style="display:inline-block;" width="70%">
     Byoungho Son <br/>
-    <a href="https://sv.postech.ac.kr>Software Verification Lab</a><br/>
+    <a href="https://sv.postech.ac.kr">Software Verification Lab</a> <br/>
     Ph.D. student @ POSTECH <br/>
+    Dept. of CSE, POSTECH, Pohang, South Korea <br/>
     email: byhoson at postech dot ac dot kr <br/>
     <a href="/">cv</a> <a href="https://github.com/byhoson">github</a> 
   </div>
@@ -21,7 +22,7 @@ author_profile: false
 ## Byoungho Son
 Hello, there!
 I am a graduate student pursuing a Ph.D. at POSTECH. 
-I study software verification and computational logic at Software Verification Lab, 
+I study formal verification Software Verification Lab, 
 advised by Kyungmin Bae.
 Before that, I obtained my bachelor's degree at Sogang University.
 I am broadly interested in formally reasoning about software thereby achieving reliability. 
@@ -47,14 +48,15 @@ In general, Model Checking, Computational Logic, Automated Reasoning, Type Theor
 
 ## Project
 I have contributed to the following open-source projects:
-* software vulnerability detection system (details will be added later)
+* Tracer
 * TakeThis: Undergrad. Capstone Project @ Sogang University
 [project page](http://cscp2.sogang.ac.kr/CSE4187/index.php/TakeThis)
 
 ## Publication
-* Detecting software vulnerabilities by static analysis (submitted)
+* TRACER: Signature-based Static Analysis for Detecting Recurring Vulnerabilities. **CCS 2022**.\
+Wooseok Kang, Byoungho Son, Kihong Heo. 
 * TakeThis: A University Course Recommendation System Based on Domain-Specific Concept Similarities
-[pdf](/assets/publications/TakeThis.pdf) 
+[pdf](/assets/publications/TakeThis.pdf). 
 
 ## Honours & Awards
 * (2022 Fall) Magna Cum Laude, Sogang University.
