@@ -13,13 +13,14 @@ author_profile: false
     <a href="http://sv.postech.ac.kr">Software Verification Lab</a> <br/>
     Ph.D. student @ POSTECH <br/>
     Dept. of CSE, POSTECH, Pohang, South Korea <br/>
-    email: byhoson at postech dot ac dot kr <br/>
+    B2 204 <br/>
+    byhoson at postech dot ac dot kr <br/>
     <a href="/">cv</a> <a href="https://github.com/byhoson">github</a> 
   </div>
 </div>
 
 
-## Byoungho Son
+## whoami
 Hello, there!
 I am a graduate student pursuing a Ph.D. at POSTECH. 
 I study formal verification at Software Verification Lab, 
