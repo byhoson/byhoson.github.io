@@ -23,13 +23,13 @@ author_profile: false
 ## whoami
 Hello, there!
 I am a graduate student pursuing a Ph.D. at POSTECH. 
-I study formal verification at Software Verification Lab, 
-advised by Kyungmin Bae.
+I study formal verification at Software Verification Lab, advised by Kyungmin Bae.
 Before that, I obtained my bachelor's degree at Sogang University.
 I am broadly interested in formally reasoning about software thereby achieving reliability. 
 I am mostly happy when two seemingly different things turn out to be the same.
+My first name is somewhat pronounced as Bee-young-ho.
 
-## Interests
+## Interest
 In general, Model Checking, Computational Logic, Automated Reasoning, Type Theory. In particular,
 (will be added soon!).
 
@@ -49,10 +49,10 @@ In general, Model Checking, Computational Logic, Automated Reasoning, Type Theor
 
 ## Project
 I have contributed to the following open-source projects:
-* Tracer: Signature-based Static Analyzer. \
-[paper](/assets/publications/ccs22.pdf) [project page](https://prosys.kaist.ac.kr/tracer)
-* TakeThis: A University Course Recommendation System. Undergrad Capstone Project @ Sogang University.\
-[paper](/assets/publications/TakeThis.pdf) [project page](http://cscp2.sogang.ac.kr/CSE4187/index.php/TakeThis)
+* [Tracer](https://prosys.kaist.ac.kr/tracer): A static analyzer for recurring vulnerabilities.
+  [paper](/assets/publications/ccs22.pdf)
+* [TakeThis](http://cscp2.sogang.ac.kr/CSE4187/index.php/TakeThis): A University Course Recommendation System.
+  Undergrad Capstone Project @ Sogang University. [paper](/assets/publications/TakeThis.pdf)
 
 ## Publication
 * TRACER: Signature-based Static Analysis for Detecting Recurring Vulnerabilities. **CCS 2022**.\
