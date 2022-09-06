@@ -34,7 +34,7 @@ In general, Model Checking, Computational Logic, Automated Reasoning, Type Theor
 (will be added soon!).
 
 ## Education
-* (2022 Aug - present) Ph.D. in [Computer Science and Engineering](https://cse.postech.ac.kr). POSTECH. 
+* (2022 Aug - present) Ph.D. course in [Computer Science and Engineering](https://cse.postech.ac.kr). POSTECH. 
   (advisor: [*Kyungmin Bae*](http://sv.postech.ac.kr/~kmbae))
 * (2018 Feb - 2022 Aug)
   B.E. in [Computer Science and Engineering](https://cs.sogang.ac.kr/cs/index_new.html) 
@@ -49,7 +49,8 @@ In general, Model Checking, Computational Logic, Automated Reasoning, Type Theor
 
 ## Project
 I have contributed to the following open-source projects:
-* Tracer
+* Tracer: Signature-based Static Analyzer. \
+[paper](/assets/publications/ccs22.pdf) [project page](https://prosys.kaist.ac.kr/tracer)
 * TakeThis: A University Course Recommendation System. Undergrad Capstone Project @ Sogang University.\
 [paper](/assets/publications/TakeThis.pdf) [project page](http://cscp2.sogang.ac.kr/CSE4187/index.php/TakeThis)
 
