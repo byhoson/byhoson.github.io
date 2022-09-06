@@ -12,7 +12,7 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
@@ -20,7 +20,7 @@ title                    : "Byoungho Son"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Byoungho Son"
-description              : "Bjong's website"
+description              : "Byoungho Son's website"
 url                      : "https://byhoson.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -96,13 +96,13 @@ analytics:
 author:
   name             : "Byoungho Son"
   avatar           : "/assets/images/byoungho.jpg"
-  bio              : "Undergrad @ Sogang University"
-  location         : "Seoul, South Korea"
-  email            : "bhson99@gmail.com"
+  bio              : "Ph.D. student @ POSTECH"
+  location         : "Pohang, South Korea"
+  email            : "byhoson at postech dot ac dot kr"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:your.name@email.com"
+      url: "mailto:byhoson@postech.ac.kr"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
@@ -114,7 +114,7 @@ author:
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
+      url: "https://github.com/byhoson"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
