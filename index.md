@@ -20,6 +20,25 @@ author_profile: false
   </div>
 </div>
 
+<h1>Byoungho Son (손병호)</h1>
+<table>
+  <tr>
+    <td width=25%><img src="assets/images/byoungho.jpg" width="120" /></td>
+    <td width=75%>
+      Ph.D. Student<br>
+      <a href="http://sv.postech.ac.kr">Software Verification Lab</a><br>
+      <a href="https://cse.postech.ac.kr">Dept. of CSE</a><br>
+      <a href="https://postech.ac.kr">Pohang University of Science and Technology (POSTECH)</a><br>
+      <div class="middle">
+        <a href="/assets/cv.pdf"><img src="/assets/icons/cv.png" width="25" /></a>&nbsp;
+        <!-- <a href="/"><img src="icons/dblp.png" width="25" /></a>&nbsp; -->
+        <!-- <a href="/"><img src="icons/scholar.jpg" width="25" /></a>&nbsp; -->
+        <a href="https://github.com/byhoson"><img src="/assets/icons/github.png" width="25" /></a>
+        <!-- <a href="/"><img src="icons/youtube.png" width="25" /></a><br> -->
+      </div>
+    </td>
+  </tr>
+</table>
 
 ## whoami
 Hello, there!
