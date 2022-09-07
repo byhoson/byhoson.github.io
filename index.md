@@ -15,7 +15,8 @@ author_profile: false
     Dept. of CSE, POSTECH, Pohang, South Korea <br/>
     B2 204 <br/>
     byhoson at postech dot ac dot kr <br/>
-    <a href="/">cv</a> <a href="https://github.com/byhoson">github</a> 
+    <a href="https://www.flaticon.com/free-icons/curriculum" title="curriculum icons">cv-test</a>  
+    <a href="/assets/cv.pdf">cv</a> <a href="https://github.com/byhoson">github</a> 
   </div>
 </div>
 
