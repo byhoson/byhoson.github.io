@@ -58,6 +58,7 @@ I have contributed to the following open-source projects:
 ## Publication
 * TRACER: Signature-based Static Analysis for Detecting Recurring Vulnerabilities. **CCS 2022**.\
 Wooseok Kang, Byoungho Son, Kihong Heo.\
+![Tracer](/assets/images/ccs22_thumb.png)\
 [paper](/assets/publications/ccs22.pdf) [project page](https://prosys.kaist.ac.kr/tracer)
 
 ## Honours & Awards
