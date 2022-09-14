@@ -57,12 +57,10 @@ I have contributed to the following open-source projects:
   [<img src="/assets/icons/pdf.png" width="25" />](/assets/publications/TakeThis.pdf)
 
 ## Publication
-<img src="/assets/images/ccs22_thumb.png" width="50%" />
 TRACER: Signature-based Static Analysis for Detecting Recurring Vulnerabilities. **CCS 2022**.\
 Wooseok Kang, Byoungho Son, Kihong Heo.\
 [<img src="/assets/icons/pdf.png" width="25" />](/assets/publications/ccs22.pdf)
 [<img src="/assets/icons/home.png" width="25" />](https://prosys.kaist.ac.kr/tracer)
-![Tracer](/assets/images/ccs22_thumb.png)\
 
 ## Honours & Awards
 * (2022 Fall) Magna Cum Laude, Sogang University.
