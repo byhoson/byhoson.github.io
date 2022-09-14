@@ -51,15 +51,18 @@ In general, Model Checking, Computational Logic, Automated Reasoning, Type Theor
 ## Project
 I have contributed to the following open-source projects:
 * [Tracer](https://prosys.kaist.ac.kr/tracer): A static analyzer for recurring vulnerabilities.
-  [paper](/assets/publications/ccs22.pdf)
+  [<img src="/assets/icons/pdf.png" width="25" />](/assets/publications/ccs22.pdf)
 * [TakeThis](http://cscp2.sogang.ac.kr/CSE4187/index.php/TakeThis): A University Course Recommendation System.
-  Undergrad Capstone Project @ Sogang University. [paper](/assets/publications/TakeThis.pdf)
+  Undergrad Capstone Project @ Sogang University.
+  [<img src="/assets/icons/pdf.png" width="25" />](/assets/publications/TakeThis.pdf)
 
 ## Publication
-* TRACER: Signature-based Static Analysis for Detecting Recurring Vulnerabilities. **CCS 2022**.\
+<img src="/assets/images/ccs22_thumb.png" width="50%" />
+TRACER: Signature-based Static Analysis for Detecting Recurring Vulnerabilities. **CCS 2022**.\
 Wooseok Kang, Byoungho Son, Kihong Heo.\
+[<img src="/assets/icons/pdf.png" width="25" />](/assets/publications/ccs22.pdf)
+[<img src="/assets/icons/home.png" width="25" />](https://prosys.kaist.ac.kr/tracer)
 ![Tracer](/assets/images/ccs22_thumb.png)\
-[<img src="/assets/icons/pdf.png" width="25" />](/assets/publications/ccs22.pdf) [project page](https://prosys.kaist.ac.kr/tracer)
 
 ## Honours & Awards
 * (2022 Fall) Magna Cum Laude, Sogang University.
