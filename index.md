@@ -31,8 +31,11 @@ I am mostly happy when two seemingly different things turn out to be the same.
 My first name is somewhat pronounced as Bee-young-ho.
 
 ## Interest
-In general, Model Checking, Computational Logic, Automated Reasoning, Type Theory. In particular,
-(will be added soon!).
+Although a fool dissatisfied myself, I wanna be a Socrates satisfied.
+Hence I seek theoretically(i.e. computationally) interesting problems
+that are also practically(i.e. financially) incentivised.
+I am roughly interested in applying formal methods - including model checking, rewriting logic, etc -
+to real-world systems such as distributed systems, security & privacy, AI, etc.
 
 ## Education
 * (2022 Aug - present) Ph.D. course in [Computer Science and Engineering](https://cse.postech.ac.kr). POSTECH. 
