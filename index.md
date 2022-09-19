@@ -6,7 +6,7 @@ author_profile: false
 ---
 
 <div>
-  <div style="display:inline-block;" width="25%">
+  <div style="display:inline-block;" width="15%">
     <img src="assets/images/byoungho.jpg" alt="profile" width="50%"/>
   </div>
   <div style="display:inline-block;" width="70%">
