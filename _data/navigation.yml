@@ -1,7 +1,9 @@
 # main links
 main:
-  - title: "Posts"
+  - title: "Blog"
     url: /posts/
+  - title: "Publication"
+    url: /#publication
   - title: "Archive"
     url: /archive/
   - title: "Personal"
