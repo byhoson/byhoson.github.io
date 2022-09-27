@@ -18,6 +18,7 @@ author_profile: false
     byhoson at postech dot ac dot kr <br/>
     <a href="/assets/cv.pdf"><img src="/assets/icons/cv.png" width="25" /></a>&nbsp;
     <a href="https://github.com/byhoson"><img src="/assets/icons/github.png" width="25" /></a>
+    <a href="https://orcid.org/0000-0001-6482-1789">orcid</a>
   </div>
 </div>
 
