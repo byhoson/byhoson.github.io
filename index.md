@@ -53,14 +53,14 @@ to real-world systems such as distributed systems, security & privacy, AI, etc.
   KAIST. (Advisor: [*Kihong Heo*](https://kihongheo.kaist.ac.kr))
 
 ## Project
-Some codes I've ever written so far..
+Some codes I've ever written or assisted writing so far..
 * [Tracer](https://prosys.kaist.ac.kr/tracer): A static analyzer for recurring vulnerabilities.
   [<img src="/assets/icons/pdf.png" width="25" />](/assets/publications/ccs22.pdf)
 * [TakeThis](http://cscp2.sogang.ac.kr/CSE4187/index.php/TakeThis): A University Course Recommendation System.
   Undergrad Capstone Project @ Sogang University.
   [<img src="/assets/icons/pdf.png" width="25" />](/assets/publications/TakeThis.pdf)
 * [MagicSquare](/_pages/magic_square.html/): A simple html game,
-  which is my first coding experience ever with over > 100 lines of code :)
+  probably my first coding experience ever with > 100 lines of code :) .. not available on mobile :(
 
 ## Publication
 TRACER: Signature-based Static Analysis for Detecting Recurring Vulnerabilities. **CCS 2022**.\
