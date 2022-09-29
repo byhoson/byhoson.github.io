@@ -18,7 +18,7 @@ author_profile: false
     byhoson at postech dot ac dot kr <br/>
     <a href="/assets/cv.pdf"><img src="/assets/icons/cv.png" width="25" /></a>&nbsp;
     <a href="https://github.com/byhoson"><img src="/assets/icons/github.png" width="25" /></a>
-    <a href="https://orcid.org/0000-0001-6482-1789">orcid</a>
+    <a href="https://orcid.org/0000-0001-6482-1789"><img src="/assets/icons/orcid.png" width="25" /></a>
   </div>
 </div>
 
@@ -53,12 +53,14 @@ to real-world systems such as distributed systems, security & privacy, AI, etc.
   KAIST. (Advisor: [*Kihong Heo*](https://kihongheo.kaist.ac.kr))
 
 ## Project
-I have contributed to the following open-source projects:
+Some codes I've ever written so far..
 * [Tracer](https://prosys.kaist.ac.kr/tracer): A static analyzer for recurring vulnerabilities.
   [<img src="/assets/icons/pdf.png" width="25" />](/assets/publications/ccs22.pdf)
 * [TakeThis](http://cscp2.sogang.ac.kr/CSE4187/index.php/TakeThis): A University Course Recommendation System.
   Undergrad Capstone Project @ Sogang University.
   [<img src="/assets/icons/pdf.png" width="25" />](/assets/publications/TakeThis.pdf)
+* [MagicSquare](/_pages/magic_square.html/): A simple html game,
+  which is my first coding experience ever with over > 100 lines of code :)
 
 ## Publication
 TRACER: Signature-based Static Analysis for Detecting Recurring Vulnerabilities. **CCS 2022**.\
