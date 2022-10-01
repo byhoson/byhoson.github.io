@@ -54,7 +54,8 @@ to real-world systems such as distributed systems, security & privacy, AI, etc.
 
 ## Project
 Some codes I've ever written or assisted writing so far..
-* [Tracer](https://prosys.kaist.ac.kr/tracer): A static analyzer for recurring vulnerabilities.
+* [Tracer](https://prosys.kaist.ac.kr/tracer): A similarty-based alarm ranking system on top of [Infer](https://fbinfer.com/).
+  This filters out tremendous amount of false alarms raised by static analysis alone, via known vulnerability traces in the database.
   [<img src="/assets/icons/pdf.png" width="25" />](/assets/publications/ccs22.pdf)
 * [TakeThis](http://cscp2.sogang.ac.kr/CSE4187/index.php/TakeThis): A University Course Recommendation System.
   Undergrad Capstone Project @ Sogang University.
