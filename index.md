@@ -61,7 +61,7 @@ Some codes I've ever written or assisted writing so far..
   using language-model based keyword extractor.
   Undergrad Capstone Project @ Sogang University.
   [<img src="/assets/icons/pdf.png" width="25" />](/assets/publications/TakeThis.pdf)
-* [MagicSquare](/_pages/magic_square.html/): A simple html game that I designed myself during high schoold days.
+* [MagicSquare](/_pages/magic_square.html/): A simple html game that I designed myself during my high school days.
   Probably my first coding experience ever with > 100 lines of code :) .. not available on mobile :(
 
 ## Publication
