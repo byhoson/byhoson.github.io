@@ -55,13 +55,14 @@ to real-world systems such as distributed systems, security & privacy, AI, etc.
 ## Project
 Some codes I've ever written or assisted writing so far..
 * [Tracer](https://prosys.kaist.ac.kr/tracer): A similarty-based alarm ranking system on top of [Infer](https://fbinfer.com/).
-  This filters out tremendous amount of false alarms raised by static analysis alone, via known vulnerability traces in the database.
+  This filters out a tremendous amount of false alarms raised by static analysis alone, via known vulnerability traces in the database.
   [<img src="/assets/icons/pdf.png" width="25" />](/assets/publications/ccs22.pdf)
-* [TakeThis](http://cscp2.sogang.ac.kr/CSE4187/index.php/TakeThis): A University Course Recommendation System.
+* [TakeThis](http://cscp2.sogang.ac.kr/CSE4187/index.php/TakeThis): A university course recommendation system,
+  using language-model based keyword extractor.
   Undergrad Capstone Project @ Sogang University.
   [<img src="/assets/icons/pdf.png" width="25" />](/assets/publications/TakeThis.pdf)
-* [MagicSquare](/_pages/magic_square.html/): A simple html game,
-  probably my first coding experience ever with > 100 lines of code :) .. not available on mobile :(
+* [MagicSquare](/_pages/magic_square.html/): A simple html game that I designed myself during high schoold days.
+  Probably my first coding experience ever with > 100 lines of code :) .. not available on mobile :(
 
 ## Publication
 TRACER: Signature-based Static Analysis for Detecting Recurring Vulnerabilities. **CCS 2022**.\
