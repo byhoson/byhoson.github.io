@@ -70,7 +70,7 @@ Wooseok Kang, **Byoungho Son**, Kihong Heo.\
 [<img src="/assets/icons/pdf.png" width="25" />](/assets/publications/ccs22.pdf)
 [<img src="/assets/icons/home.png" width="25" />](https://prosys.kaist.ac.kr/tracer)
 [<img src="/assets/icons/slideshow.png" width="25" />](/)
-[<img src="/assets/icons/storage.png" width="25" />](/)
+[<img src="/assets/icons/code.png" width="25" />](/)
 
 ## Honours & Awards
 * (2022 Fall) Magna Cum Laude, Sogang University.
