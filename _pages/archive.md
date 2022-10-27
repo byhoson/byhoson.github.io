@@ -8,7 +8,18 @@ author_profile: true
 
 Programming Language Theory
 * [PL Classics](https://www.cis.upenn.edu/~bcpierce/courses/670Fall04/GreatWorksInPL.shtml)
-* [software foundations](https://softwarefoundations.cis.upenn.edu/)
+* [Software Foundations](https://softwarefoundations.cis.upenn.edu/)
+* [Concrete Semantics](http://www.concrete-semantics.org/index.html)
+
+Formal Methods & Model Checking
+* [Armin Biere](http://fmv.t/fm/index.html)
+* [Joost Pieter-Katoen](https://www.youtube.com/playlist?list=PLwabKnOFhE38C0o6z_bhlF_uOUlblDTjh)
+
+Automated Reasoning & Satisfiability
+* [Marijn Heule](http://www.cs.cmu.edu/~mheule/15816-f22)
+
+=============================================================================================================
+Below are indirectly related to my current interest.
 
 program synthesis
 * [mit 6.S084/6.887 2020](https://people.csail.mit.edu/asolar/SynthesisCourse/index.htm) (Armando Solar-Lezama)
