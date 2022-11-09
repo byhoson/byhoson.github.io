@@ -19,6 +19,7 @@ author_profile: false
     <a href="/assets/cv.pdf"><img src="/assets/icons/cv.png" width="25" /></a>&nbsp;
     <a href="https://github.com/byhoson"><img src="/assets/icons/github.png" width="25" /></a>
     <a href="https://orcid.org/0000-0001-6482-1789"><img src="/assets/icons/orcid.png" width="25" /></a>
+    <a href="https://scholar.google.com/citations?user=KjO0D04AAAAJ&hl=en"><img src="/assets/icons/scholar.jpg" width="25" /></a>
   </div>
 </div>
 
@@ -32,11 +33,8 @@ I am mostly happy when two seemingly different things turn out to be the same.
 My first name is somewhat pronounced as Bee-young-ho.
 
 ## Interest
-Although a fool dissatisfied myself, I wanna be a Socrates satisfied.
-Hence I seek theoretically(i.e. computationally) interesting problems
-that are also practically(i.e. financially) incentivised.
-I am roughly interested in applying formal methods - including model checking, rewriting logic, etc -
-to real-world systems such as distributed systems, security & privacy, AI, etc.
+I am roughly interested in applying formal methods - including model checking, computational logic, etc -
+to real-world systems such as software engineering, distributed systems, security & privacy, AI, etc.
 
 ## Education
 * (2022 Aug - present) Ph.D. course in [Computer Science and Engineering](https://cse.postech.ac.kr). POSTECH. 
