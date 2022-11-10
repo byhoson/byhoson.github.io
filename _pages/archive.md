@@ -10,6 +10,7 @@ Programming Language Theory
 * [PL Classics](https://www.cis.upenn.edu/~bcpierce/courses/670Fall04/GreatWorksInPL.shtml)
 * [Software Foundations](https://softwarefoundations.cis.upenn.edu/)
 * [Concrete Semantics](http://www.concrete-semantics.org/index.html)
+* [rwh](https://www.cs.cmu.edu/~rwh/courses/)
 
 Formal Methods & Model Checking
 * [Armin Biere](http://fmv.t/fm/index.html)
@@ -18,8 +19,13 @@ Formal Methods & Model Checking
 Automated Reasoning & Satisfiability
 * [Marijn Heule](http://www.cs.cmu.edu/~mheule/15816-f22)
 
+Software Analysis
+* [Mayur Naik](https://software-analysis-class.org/)
+
 =============================================================================================================
 Below are indirectly related to my current interest.
+
+
 
 program synthesis
 * [mit 6.S084/6.887 2020](https://people.csail.mit.edu/asolar/SynthesisCourse/index.htm) (Armando Solar-Lezama)
