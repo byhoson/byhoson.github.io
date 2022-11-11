@@ -19,13 +19,16 @@ Formal Methods & Model Checking
 Automated Reasoning & Satisfiability
 * [Marijn Heule](http://www.cs.cmu.edu/~mheule/15816-f22)
 
+Computational Logic
+* [UIUC](https://courses.engr.illinois.edu/cs474)
+
 Software Analysis
 * [Mayur Naik](https://software-analysis-class.org/)
+* [The Fuzzing Book](https://www.fuzzingbook.org/)
+* [The Debugging Book](https://www.debuggingbook.org/)
 
 =============================================================================================================
 Below are indirectly related to my current interest.
-
-
 
 program synthesis
 * [mit 6.S084/6.887 2020](https://people.csail.mit.edu/asolar/SynthesisCourse/index.htm) (Armando Solar-Lezama)
