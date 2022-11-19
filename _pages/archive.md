@@ -27,6 +27,9 @@ Software Analysis
 * [The Fuzzing Book](https://www.fuzzingbook.org/)
 * [The Debugging Book](https://www.debuggingbook.org/)
 
+Coq
+* [Ref Manual from FLINT group](http://flint.cs.yale.edu/cs428/coq/doc/toc.html)
+
 =============================================================================================================
 Below are indirectly related to my current interest.
 
