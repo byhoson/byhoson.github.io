@@ -30,6 +30,9 @@ Software Analysis
 Coq
 * [Ref Manual from FLINT group](http://flint.cs.yale.edu/cs428/coq/doc/toc.html)
 
+Model Checking Tools Tutorials (Spin & NuSMV)
+* [U. Trento](https://disi.unitn.it/trentin/teaching/fm2018/fm2018.html)
+
 =============================================================================================================
 Below are indirectly related to my current interest.
 
