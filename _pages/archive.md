@@ -77,6 +77,7 @@ OS
 * [MIT 6.828](https://pdos.csail.mit.edu/6.828/2021/)
 * [gatech CS3210](https://tc.gts3.org/cs3210/2020/spring/index.html) Taesoo Kim
 * [MIT 6.826 Principles of Computer Systems](https://6826.csail.mit.edu/2020/) Nickolai Zeldovich
+* [Yale](https://flint.cs.yale.edu/cs422/) Zhong Shao (Lab: CertikOS)
 
 Deep Learning
 * [Foundations of Deep Learning](http://www.cs.umd.edu/class/fall2020/cmsc828W/) (Soheil Feizi)
