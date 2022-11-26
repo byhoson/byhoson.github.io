@@ -8,9 +8,10 @@ author_profile: true
 
 Programming Language Theory
 * [PL Classics](https://www.cis.upenn.edu/~bcpierce/courses/670Fall04/GreatWorksInPL.shtml)
-* [Software Foundations](https://softwarefoundations.cis.upenn.edu/)
+* [Software Foundations](https://softwarefoundations.cis.upenn.edu/) 
 * [Concrete Semantics](http://www.concrete-semantics.org/index.html)
 * [rwh](https://www.cs.cmu.edu/~rwh/courses/)
+* [CPDT](http://adam.chlipala.net/cpdt/)
 
 Formal Methods & Model Checking
 * [Armin Biere](http://fmv.t/fm/index.html)
@@ -33,7 +34,7 @@ Coq
 Model Checking Tools Tutorials (Spin & NuSMV)
 * [U. Trento](https://disi.unitn.it/trentin/teaching/fm2018/fm2018.html)
 
-=============================================================================================================
+===================================================================================
 Below are indirectly related to my current interest.
 
 program synthesis
