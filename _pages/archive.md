@@ -12,6 +12,7 @@ Programming Language Theory
 * [Concrete Semantics](http://www.concrete-semantics.org/index.html)
 * [rwh](https://www.cs.cmu.edu/~rwh/courses/)
 * [CPDT](http://adam.chlipala.net/cpdt/)
+* [PLFA](https://plfa.github.io/)
 
 Formal Methods & Model Checking
 * [Armin Biere](http://fmv.t/fm/index.html)
@@ -61,6 +62,7 @@ HoTT
 * [Introduction to Univalent Foundations of Mathematics with Agda](https://www.cs.bham.ac.uk/~mhe/HoTT-UF-in-Agda-Lecture-Notes/HoTT-UF-Agda.html#lecturenotes)
 * [HoTT Course](https://github.com/andrejbauer/homotopy-type-theory-course) (Andrej Bauer)
 * [Intro to HoTT](https://www.andrew.cmu.edu/user/erijke/hott/) (Egbert Rijke)
+* [Cubical TT](https://github.com/mortberg/cubicaltt/blob/master/lectures/lecture3.ctt)
 
 ToC
 * [UIUC cs373](https://courses.engr.illinois.edu/cs373/sp2010/lectures/) (Madhusudan Parthasarathy)
