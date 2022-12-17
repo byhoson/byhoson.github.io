@@ -13,6 +13,7 @@ Programming Language Theory
 * [rwh](https://www.cs.cmu.edu/~rwh/courses/)
 * [CPDT](http://adam.chlipala.net/cpdt/)
 * [PLFA](https://plfa.github.io/)
+* [Semantics](https://plv.mpi-sws.org/semantics-course/)
 
 Formal Methods & Model Checking
 * [Armin Biere](http://fmv.t/fm/index.html)
@@ -34,6 +35,9 @@ Coq
 
 Model Checking Tools Tutorials (Spin & NuSMV)
 * [U. Trento](https://disi.unitn.it/trentin/teaching/fm2018/fm2018.html)
+
+Compiler
+* [Adrian Sampson](https://www.cs.cornell.edu/courses/cs6120/2022sp/)
 
 ===================================================================================
 Below are indirectly related to my current interest.
