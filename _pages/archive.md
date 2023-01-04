@@ -95,3 +95,6 @@ Deep Learning
 
 SNU
 * [Architecture](http://csl.snu.ac.kr/courses/)
+
+Blockchain
+* [Princeton](https://web3.princeton.edu/principles-of-blockchains/)
