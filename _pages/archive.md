@@ -98,3 +98,9 @@ SNU
 
 Blockchain
 * [Princeton](https://web3.princeton.edu/principles-of-blockchains/)
+* [Aggelos Kiayias](https://github.com/solegga/blockchaincourse)
+* [Elaine Shi](http://elaineshi.com/teaching.html)
+
+Cryptography
+* [Mihir Bellare](https://cseweb.ucsd.edu/~mihir/teaching.html)
+* [Rafael Pass](https://www.cs.cornell.edu/~rafael/)
