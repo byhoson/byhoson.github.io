@@ -75,6 +75,7 @@ ToC
 Logic
 * [mathematical logic](https://www.youtube.com/channel/UCtJaL-b0tY9l3VWoojBZkww/playlists) (Marco Benini)
 * [Antonio Montalban](https://www.youtube.com/@atonmontalban)
+* [Steve Awodey](https://awodey.github.io/catlog/)
 
 Concurrency
 * [Models of concurrency, categories, and games](http://perso.ens-lyon.fr/pierre.clairambault/enseignement/ccg.html)
