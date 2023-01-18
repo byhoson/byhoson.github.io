@@ -6,8 +6,8 @@ main:
     url: /#publication
   - title: "Archive"
     url: /archive/
-  - title: "Personal"
-    url: /personal/
+  #- title: "Personal"
+  #  url: /personal/
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
