@@ -39,6 +39,10 @@ Model Checking Tools Tutorials (Spin & NuSMV)
 Compiler
 * [Adrian Sampson](https://www.cs.cornell.edu/courses/cs6120/2022sp/)
 
+Lecture Materials
+* [Samuel Mimram](http://www.lix.polytechnique.fr/Labo/Samuel.Mimram/teaching/)
+* [Umang Mathur](https://www.comp.nus.edu.sg/~umathur/teaching/CS6217/)
+
 ===================================================================================
 Below are indirectly related to my current interest.
 
