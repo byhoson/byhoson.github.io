@@ -42,10 +42,12 @@ Compiler
 Lecture Materials
 * [Samuel Mimram](http://www.lix.polytechnique.fr/Labo/Samuel.Mimram/teaching/)
 * [Umang Mathur](https://www.comp.nus.edu.sg/~umathur/teaching/CS6217/)
+
 (in French)
 * [Techniques de vérification et de validation](https://info.usherbrooke.ca/mblondin/cours/igl752_a22/)
 * [Sémantique opérationnelle et typage](http://www.lix.polytechnique.fr/Labo/Samuel.Mimram/teaching/agreg/)
 
+* [Braunschweig](https://www.tcs.cs.tu-bs.de/teaching.html)
 ===================================================================================
 Below are indirectly related to my current interest.
 
