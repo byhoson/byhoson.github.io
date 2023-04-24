@@ -39,6 +39,13 @@ Model Checking Tools Tutorials (Spin & NuSMV)
 Compiler
 * [Adrian Sampson](https://www.cs.cornell.edu/courses/cs6120/2022sp/)
 
+Concurrency
+* [Damien Zufferey](https://dzufferey.github.io/concurrency_theory_2019/)
+* [Models of concurrency, categories, and games](http://perso.ens-lyon.fr/pierre.clairambault/enseignement/ccg.html)
+
+Coalgebra
+* [Jurriaan Rot](http://cs.ru.nl/~jrot/CTC20/)
+
 Lecture Materials
 * [Samuel Mimram](http://www.lix.polytechnique.fr/Labo/Samuel.Mimram/teaching/)
 * [Umang Mathur](https://www.comp.nus.edu.sg/~umathur/teaching/CS6217/)
@@ -48,6 +55,8 @@ Lecture Materials
 * [Sémantique opérationnelle et typage](http://www.lix.polytechnique.fr/Labo/Samuel.Mimram/teaching/agreg/)
 
 * [Braunschweig](https://www.tcs.cs.tu-bs.de/teaching.html)
+
+
 ===================================================================================
 Below are indirectly related to my current interest.
 
@@ -85,12 +94,6 @@ Logic
 * [mathematical logic](https://www.youtube.com/channel/UCtJaL-b0tY9l3VWoojBZkww/playlists) (Marco Benini)
 * [Antonio Montalban](https://www.youtube.com/@atonmontalban)
 * [Steve Awodey](https://awodey.github.io/catlog/)
-
-Concurrency
-* [Models of concurrency, categories, and games](http://perso.ens-lyon.fr/pierre.clairambault/enseignement/ccg.html)
-
-Coalgebra
-* [Jurriaan Rot](http://cs.ru.nl/~jrot/CTC20/)
 
 === non-PL ===
 
