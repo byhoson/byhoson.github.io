@@ -6,67 +6,81 @@ canonical_url: "https://byhoson.github.io/archive"
 author_profile: true
 ---
 
-Programming Language Theory
-* [PL Classics](https://www.cis.upenn.edu/~bcpierce/courses/670Fall04/GreatWorksInPL.shtml)
-* [Software Foundations](https://softwarefoundations.cis.upenn.edu/) 
-* [Concrete Semantics](http://www.concrete-semantics.org/index.html)
-* [rwh](https://www.cs.cmu.edu/~rwh/courses/)
-* [CPDT](http://adam.chlipala.net/cpdt/)
-* [PLFA](https://plfa.github.io/)
-* [Semantics](https://plv.mpi-sws.org/semantics-course/)
 
-Formal Methods & Model Checking
-* [Armin Biere](http://fmv.t/fm/index.html)
+
+=== Verification ===
+Model Checking
 * [Joost Pieter-Katoen](https://www.youtube.com/playlist?list=PLwabKnOFhE38C0o6z_bhlF_uOUlblDTjh)
+* [Michael Blondin](https://info.usherbrooke.ca/mblondin/cours/igl752_a22/) (in French)
+* [TUM](https://www.cs.cit.tum.de/en/tcs/lehre/ss22/model-checking/)
+* [Roderick Bloem](https://www.iaik.tugraz.at/course/model-checking-705080-sommersemester-2023/)
 
-Automated Reasoning & Satisfiability
+Satisfiability
 * [Marijn Heule](http://www.cs.cmu.edu/~mheule/15816-f22)
-
-Computational Logic
-* [UIUC](https://courses.engr.illinois.edu/cs474)
-
-Software Analysis
-* [Mayur Naik](https://software-analysis-class.org/)
-* [The Fuzzing Book](https://www.fuzzingbook.org/)
-* [The Debugging Book](https://www.debuggingbook.org/)
-
-Coq
-* [Ref Manual from FLINT group](http://flint.cs.yale.edu/cs428/coq/doc/toc.html)
 
 Model Checking Tools Tutorials (Spin & NuSMV)
 * [U. Trento](https://disi.unitn.it/trentin/teaching/fm2018/fm2018.html)
 
-Compiler
-* [Adrian Sampson](https://www.cs.cornell.edu/courses/cs6120/2022sp/)
-
 Concurrency
 * [Damien Zufferey](https://dzufferey.github.io/concurrency_theory_2019/)
 * [Models of concurrency, categories, and games](http://perso.ens-lyon.fr/pierre.clairambault/enseignement/ccg.html)
+* [Foundations of Concurrency](https://www.cse.unsw.edu.au/~cs3151/22T2/index.html)
+
+=== Logic ===
 
 Coalgebra
 * [Jurriaan Rot](http://cs.ru.nl/~jrot/CTC20/)
+
+Logic
+* [TUM](https://www.cs.cit.tum.de/en/tcs/lehre/sommersemester-2023/logic/)
+* [Bodirsky Lecture Note](https://wwwpub.zih.tu-dresden.de/~bodirsky/Logic.pdf)
+* [mathematical logic](https://www.youtube.com/channel/UCtJaL-b0tY9l3VWoojBZkww/playlists) (Marco Benini)
+* [Antonio Montalban](https://www.youtube.com/@atonmontalban)
+* [Steve Awodey](https://awodey.github.io/catlog/)
+* [UIUC](https://courses.engr.illinois.edu/cs474)
+
+ToC
+* [UIUC](https://courses.engr.illinois.edu/cs373/sp2010/lectures/) (Madhusudan Parthasarathy)
+* [Warsaw](https://www.mimuw.edu.pl/~bojan/course) (Mikołaj Bojańczyk)
+
+
+
+===== Misc. =====
+Programming Language Theory
+* [PL Classics](https://www.cis.upenn.edu/~bcpierce/courses/670Fall04/GreatWorksInPL.shtml)
+* [Software Foundations](https://softwarefoundations.cis.upenn.edu/) 
+* [Concrete Semantics](http://www.concrete-semantics.org/index.html)
+* [CPDT](http://adam.chlipala.net/cpdt/)
+* [PLFA](https://plfa.github.io/)
+* [Semantics](https://plv.mpi-sws.org/semantics-course/)
 
 Lecture Materials
 * [Samuel Mimram](http://www.lix.polytechnique.fr/Labo/Samuel.Mimram/teaching/)
 * [Umang Mathur](https://www.comp.nus.edu.sg/~umathur/teaching/CS6217/)
 
 (in French)
-* [Techniques de vérification et de validation](https://info.usherbrooke.ca/mblondin/cours/igl752_a22/)
 * [Sémantique opérationnelle et typage](http://www.lix.polytechnique.fr/Labo/Samuel.Mimram/teaching/agreg/)
 
+Braunschweig TCS lecture notes
 * [Braunschweig](https://www.tcs.cs.tu-bs.de/teaching.html)
 
-
-===================================================================================
-Below are indirectly related to my current interest.
+Coq
+* [Ref Manual from FLINT group](http://flint.cs.yale.edu/cs428/coq/doc/toc.html)
 
 program synthesis
 * [mit 6.S084/6.887 2020](https://people.csail.mit.edu/asolar/SynthesisCourse/index.htm) (Armando Solar-Lezama)
 * [ucsd cse-291](https://github.com/nadia-polikarpova/cse291-program-synthesis/tree/master/lectures) (Nadia Polikarpova)
 
+Software Analysis
+* [Mayur Naik](https://software-analysis-class.org/)
+* [The Fuzzing Book](https://www.fuzzingbook.org/)
+* [The Debugging Book](https://www.debuggingbook.org/)
+
 KAIST
-* [prosys classroom](https://github.com/prosyslab-classroom)
-* [hongseok yang](https://github.com/hongseok-yang?tab=repositories)
+[KAIST PL](https://pl.kaist.ac.kr/)
+
+Compiler
+* [Adrian Sampson](https://www.cs.cornell.edu/courses/cs6120/2022sp/)
 
 Cornell
 * [cs3110 - functional programming with ocaml](https://www.cs.cornell.edu/courses/cs3110/2019sp/textbook/hop/pipelining.html)
@@ -79,23 +93,13 @@ CMU
 * [Bug Catching: Automated Program Verification](https://www.cs.cmu.edu/~15414/index.html) (Ruben Martins)
 * [Automated Reasoning and Satisfiability](http://www.cs.cmu.edu/~mheule/15816-f20/index.html) (Ruben Martins)
 * [Program Analysis](https://cmu-program-analysis.github.io/2021/) (Jonathan Aldrich)
+* [rwh](https://www.cs.cmu.edu/~rwh/courses/) (Bob Harper)
 
 HoTT
 * [Introduction to Univalent Foundations of Mathematics with Agda](https://www.cs.bham.ac.uk/~mhe/HoTT-UF-in-Agda-Lecture-Notes/HoTT-UF-Agda.html#lecturenotes)
 * [HoTT Course](https://github.com/andrejbauer/homotopy-type-theory-course) (Andrej Bauer)
 * [Intro to HoTT](https://www.andrew.cmu.edu/user/erijke/hott/) (Egbert Rijke)
 * [Cubical TT](https://github.com/mortberg/cubicaltt/blob/master/lectures/lecture3.ctt)
-
-ToC
-* [UIUC cs373](https://courses.engr.illinois.edu/cs373/sp2010/lectures/) (Madhusudan Parthasarathy)
-* [Warsaw](https://www.mimuw.edu.pl/~bojan/course) (Mikołaj Bojańczyk)
-
-Logic
-* [mathematical logic](https://www.youtube.com/channel/UCtJaL-b0tY9l3VWoojBZkww/playlists) (Marco Benini)
-* [Antonio Montalban](https://www.youtube.com/@atonmontalban)
-* [Steve Awodey](https://awodey.github.io/catlog/)
-
-=== non-PL ===
 
 OS
 * [MIT 6.828](https://pdos.csail.mit.edu/6.828/2021/)
