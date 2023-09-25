@@ -26,15 +26,25 @@ author_profile: false
 ## whoami
 Hello, there!
 I am a graduate student pursuing a Ph.D. at POSTECH. 
-I study formal verification at Software Verification Lab, advised by Kyungmin Bae.
+I study formal methods at Software Verification Lab, advised by Kyungmin Bae.
 Before that, I obtained my bachelor's degree at Sogang University.
 I am broadly interested in formally reasoning about software thereby achieving reliability. 
 I am mostly happy when two seemingly different things turn out to be the same.
 My first name is somewhat pronounced as Bee-young-ho.
 
 ## Interest
-I am roughly interested in applying formal methods - including model checking, computational logic, etc -
-to real-world systems such as software engineering, distributed systems, security & privacy, AI, etc.
+I am interested in compromising beautiful reasoning principles for computational reality.
+Sometimes I ponder what whould be the right bridge between the two worlds of logic and computing.
+On the model theoretic aspect, I find those results such as Buchi-Elgot-Trakhtenbrot theorem, Fagin's theorem, Courcelle's theorem
+extremely interesting.
+And on the proof theoretic aspect, I find Curry-Howard correspondence aesthetic.
+I try to understand both. And hopefully apply them. And hopefully make money.
+
+For now, I am interested in the following:
+* automated verification techniques, esp. model checking
+* programming languages, formal semantics, and types
+* formal verification of distributed/concurrent systems
+* rewriting logic
 
 ## Education
 * (2022 Aug - present) Ph.D. course in [Computer Science and Engineering](https://cse.postech.ac.kr). POSTECH. 
@@ -52,6 +62,7 @@ to real-world systems such as software engineering, distributed systems, securit
 
 ## Project
 Some codes I've ever written or assisted writing so far..
+* Defining formal semantics of Promela based on rewriting logic.
 * [Tracer](https://prosys.kaist.ac.kr/tracer): A similarty-based alarm ranking system on top of [Infer](https://fbinfer.com/).
   This filters out a tremendous amount of false alarms raised by static analysis alone, via known vulnerability traces in the database.
   [<img src="/assets/icons/pdf.png" width="25" />](/assets/publications/ccs22.pdf)
@@ -59,8 +70,6 @@ Some codes I've ever written or assisted writing so far..
   using language-model based keyword extractor.
   Undergrad Capstone Project @ Sogang University.
   [<img src="/assets/icons/pdf.png" width="25" />](/assets/publications/TakeThis.pdf)
-* [MagicSquare](/_pages/magic_square.html/): A simple html game that I designed myself during my high school days.
-  Probably my first coding experience ever with > 100 lines of code :) .. not available on mobile :(
 
 ## Publication
 TRACER: Signature-based Static Analysis for Detecting Recurring Vulnerabilities. **CCS 2022**.\
@@ -74,3 +83,12 @@ Wooseok Kang, **Byoungho Son**, Kihong Heo.\
 * (2022 Fall) Magna Cum Laude, Sogang University.
 * (2018) Albatross SW Scholarship, Sogang University
 * (2018 Spring) Dean's List, Department of Engineering, Sogang University.
+
+## Personal
+* [MagicSquare](/_pages/magic_square.html/): A simple html game that I designed myself during my high school days.
+  Probably my first coding experience ever with > 100 lines of code :) .. not available on mobile :(
+* I enjoy music and films from time to time. Here are some of my tastes:
+  - Radiohead / Tame Impala / Pink Floyd / Suede / Nirvana
+  - Joao Gilberto / Antonio Jobim
+  - Alfred Hitchcock / Wong Kar-Wai / Christopher Nolan
+

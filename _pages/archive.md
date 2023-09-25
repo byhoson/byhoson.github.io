@@ -38,11 +38,11 @@ Logic
 * [Antonio Montalban](https://www.youtube.com/@atonmontalban)
 * [Steve Awodey](https://awodey.github.io/catlog/)
 * [UIUC](https://courses.engr.illinois.edu/cs474)
+* [Advanced Logic](http://www-sop.inria.fr/members/Martin.Avanzini/teaching/2023/AL/)
 
 ToC
 * [UIUC](https://courses.engr.illinois.edu/cs373/sp2010/lectures/) (Madhusudan Parthasarathy)
 * [Warsaw](https://www.mimuw.edu.pl/~bojan/course) (Mikołaj Bojańczyk)
-
 
 
 ===== Misc. =====
@@ -53,6 +53,7 @@ Programming Language Theory
 * [CPDT](http://adam.chlipala.net/cpdt/)
 * [PLFA](https://plfa.github.io/)
 * [Semantics](https://plv.mpi-sws.org/semantics-course/)
+* [Meseguer](https://courses.engr.illinois.edu/cs522/sp2016/)
 
 Lecture Materials
 * [Samuel Mimram](http://www.lix.polytechnique.fr/Labo/Samuel.Mimram/teaching/)
@@ -75,6 +76,7 @@ Software Analysis
 * [Mayur Naik](https://software-analysis-class.org/)
 * [The Fuzzing Book](https://www.fuzzingbook.org/)
 * [The Debugging Book](https://www.debuggingbook.org/)
+* [CMU](https://cmu-program-analysis.github.io/2023/index.html)
 
 KAIST
 [KAIST PL](https://pl.kaist.ac.kr/)
