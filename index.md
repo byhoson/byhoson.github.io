@@ -25,7 +25,7 @@ author_profile: false
 
 ## whoami
 Hello, there!
-I am a graduate student pursuing a Ph.D. at POSTECH. 
+I am a 2nd year Ph.D student at POSTECH. 
 I study formal methods at Software Verification Lab, advised by Kyungmin Bae.
 Before that, I obtained my bachelor's degree at Sogang University.
 I am broadly interested in formally reasoning about software thereby achieving reliability. 
@@ -38,7 +38,7 @@ Sometimes I ponder what whould be the right bridge between the two worlds of log
 On the model theoretic aspect, I find those results such as Buchi-Elgot-Trakhtenbrot theorem, Fagin's theorem, Courcelle's theorem
 extremely interesting.
 And on the proof theoretic aspect, I find Curry-Howard correspondence aesthetic.
-I try to understand both. And hopefully apply them. And hopefully make money.
+I hope to understand both. And hopefully apply them. And hopefully make money out of them.
 
 For now, I am interested in the following:
 * automated verification techniques, esp. model checking
@@ -62,7 +62,7 @@ For now, I am interested in the following:
 
 ## Project
 Some codes I've ever written or assisted writing so far..
-* Defining formal semantics of Promela based on rewriting logic.
+* (Curr.) Defining formal semantics of Promela based on rewriting logic.
 * [Tracer](https://prosys.kaist.ac.kr/tracer): A similarty-based alarm ranking system on top of [Infer](https://fbinfer.com/).
   This filters out a tremendous amount of false alarms raised by static analysis alone, via known vulnerability traces in the database.
   [<img src="/assets/icons/pdf.png" width="25" />](/assets/publications/ccs22.pdf)
@@ -79,6 +79,9 @@ Wooseok Kang, **Byoungho Son**, Kihong Heo.\
 [<img src="/assets/icons/slideshow.png" width="25" />](https://prosys.kaist.ac.kr/publications/ccs22-slides.pdf)
 [<img src="/assets/icons/code.png" width="25" />](/)
 
+## Teaching
+* (2023 Fall) Software Design Methods, POSTECH, TA.
+
 ## Honours & Awards
 * (2022 Fall) Magna Cum Laude, Sogang University.
 * (2018) Albatross SW Scholarship, Sogang University
@@ -87,8 +90,8 @@ Wooseok Kang, **Byoungho Son**, Kihong Heo.\
 ## Personal
 * [MagicSquare](/_pages/magic_square.html/): A simple html game that I designed myself during my high school days.
   Probably my first coding experience ever with > 100 lines of code :) .. not available on mobile :(
-* I enjoy music and films from time to time. Here are some of my tastes:
+* I enjoy music and films from time to time. Here are some of my all-time favorites:
   - Radiohead / Tame Impala / Pink Floyd / Suede / Nirvana
   - Joao Gilberto / Antonio Jobim
-  - Alfred Hitchcock / Wong Kar-Wai / Christopher Nolan
+  - Alfred Hitchcock / Wong Kar-Wai
 
