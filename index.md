@@ -38,10 +38,10 @@ Sometimes I ponder what whould be the right bridge between the two worlds of log
 On the model theoretic aspect, I find those results such as Buchi-Elgot-Trakhtenbrot theorem, Fagin's theorem, Courcelle's theorem
 extremely interesting.
 And on the proof theoretic aspect, I find Curry-Howard correspondence aesthetic.
-I hope to understand both. And hopefully apply them. And hopefully make money out of them.
+I wish to understand both. And hopefully apply them. And hopefully make money out of them.
 
-For now, I am interested in the following:
-* automated verification techniques, esp. model checking
+With that in mind, I try to keep an eye on the following:
+* automated verification techniques, e.g. model checking, SMT
 * programming languages, formal semantics, and types
 * formal verification of distributed/concurrent systems
 * rewriting logic
@@ -89,7 +89,7 @@ Wooseok Kang, **Byoungho Son**, Kihong Heo.\
 
 ## Personal
 * [MagicSquare](/_pages/magic_square.html/): A simple html game that I designed myself during my high school days.
-  Probably my first coding experience ever with > 100 lines of code :) .. not available on mobile :(
+  Probably my first coding experience ever with > 100 lines of code
 * I enjoy music and films from time to time. Here are some of my all-time favorites:
   - Radiohead / Tame Impala / Pink Floyd / Suede / Nirvana
   - Joao Gilberto / Antonio Jobim
