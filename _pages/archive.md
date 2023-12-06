@@ -7,6 +7,10 @@ author_profile: true
 ---
 
 
+=== Cryptographic Protocols ===
+* [Veronique Cortier](https://members.loria.fr/VCortier/files/Teaching/)
+* [Berry Schoenmakers](https://www.win.tue.nl/~berry/)
+
 
 === Verification ===
 Model Checking
@@ -127,3 +131,4 @@ Blockchain
 Cryptography
 * [Mihir Bellare](https://cseweb.ucsd.edu/~mihir/teaching.html)
 * [Rafael Pass](https://www.cs.cornell.edu/~rafael/)
+* [Alex Ozdemir](https://crypto.stanford.edu/cs355/23sp/)
