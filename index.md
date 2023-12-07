@@ -25,29 +25,36 @@ author_profile: false
 
 ## whoami
 Hello, there!
-I am a 2nd year Ph.D student at POSTECH. 
+I am a 2nd year Ph.D candidate at POSTECH. 
 I study formal methods at Software Verification Lab, advised by Kyungmin Bae.
 Before that, I obtained my bachelor's degree at Sogang University.
 I am broadly interested in formally reasoning about software thereby achieving reliability. 
 I am mostly happy when two seemingly different things turn out to be the same.
 My first name is somewhat pronounced as Bee-young-ho.
 
-## Interest
+## Research Interest
 I am interested in compromising beautiful reasoning principles for computational reality.
-Sometimes I ponder what whould be the right bridge between the two worlds of logic and computing.
-On the model theoretic aspect, I find those results such as Buchi-Elgot-Trakhtenbrot theorem, Fagin's theorem, Courcelle's theorem
-extremely interesting.
-And on the proof theoretic aspect, I find Curry-Howard correspondence aesthetic.
-I wish to understand both. And hopefully apply them. And hopefully make money out of them.
 
-With that in mind, I try to keep an eye on the following:
-* automated verification techniques, e.g. model checking, SMT
-* programming languages, formal semantics, and types
-* formal verification of distributed/concurrent systems
-* rewriting logic
+### Logic & Semantics
+* Logical Frameworks to formally modeling and specifying concurrent systems, programming languages, etc.
+  With a particular focus on [Rewriting Logic](https://www.sciencedirect.com/science/article/pii/S1567832612000707),
+  among many others (e.g. process algebra, coalgebraic methods, etc).
+* I am also interested in deep foundational connections between logic and computation in the following sense;
+(Büchi-Elgot-Trakhtenbrot theorem)[https://en.wikipedia.org/wiki/B%C3%BCchi-Elgot-Trakhtenbrot_theorem],
+(Fagin's theorem)[https://en.wikipedia.org/wiki/Fagin%27s_theorem]
+(Courcell's theorem)[https://en.wikipedia.org/wiki/Courcelle%27s_theorem]
+(Curry-Howard Correspondence)[https://en.wikipedia.org/wiki/Curry%E2%80%93Howard_correspondence].
+
+### Formal Methods
+* Scalable model checking techniques; e.g. abstraction, heuristics, etc. 
+* Program analysis. See [CCS22](/#Publication).
+
+### Provable Security
+* cryptographic protocol analysis
+* distributed systems
 
 ## Education
-* (2022 Aug - present) Ph.D. course in [Computer Science and Engineering](https://cse.postech.ac.kr). POSTECH. 
+* (2022 Aug - present) Ph.D. Student in [Computer Science and Engineering](https://cse.postech.ac.kr). POSTECH. 
   (advisor: [*Kyungmin Bae*](http://sv.postech.ac.kr/~kmbae))
 * (2018 Feb - 2022 Aug)
   B.E. in [Computer Science and Engineering](https://cs.sogang.ac.kr/cs/index_new.html) 
