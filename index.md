@@ -40,10 +40,10 @@ I am interested in compromising beautiful reasoning principles for computational
   With a particular focus on [Rewriting Logic](https://www.sciencedirect.com/science/article/pii/S1567832612000707),
   among many others (e.g. process algebra, coalgebraic methods, etc).
 * I am also interested in deep foundational connections between logic and computation in the following sense;
-(Büchi-Elgot-Trakhtenbrot theorem)[https://en.wikipedia.org/wiki/B%C3%BCchi-Elgot-Trakhtenbrot_theorem],
-(Fagin's theorem)[https://en.wikipedia.org/wiki/Fagin%27s_theorem]
-(Courcell's theorem)[https://en.wikipedia.org/wiki/Courcelle%27s_theorem]
-(Curry-Howard Correspondence)[https://en.wikipedia.org/wiki/Curry%E2%80%93Howard_correspondence].
+[Büchi-Elgot-Trakhtenbrot theorem](https://en.wikipedia.org/wiki/B%C3%BCchi-Elgot-Trakhtenbrot_theorem),
+[Fagin's theorem](https://en.wikipedia.org/wiki/Fagin%27s_theorem),
+[Courcell's theorem](https://en.wikipedia.org/wiki/Courcelle%27s_theorem),
+[Curry-Howard Correspondence](https://en.wikipedia.org/wiki/Curry%E2%80%93Howard_correspondence).
 
 ### Formal Methods
 * Scalable model checking techniques; e.g. abstraction, heuristics, etc. 
