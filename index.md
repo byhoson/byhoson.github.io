@@ -28,7 +28,6 @@ Hello, there!
 I am a 2nd year Ph.D candidate at POSTECH. 
 I study formal methods at Software Verification Lab, advised by Kyungmin Bae.
 Before that, I obtained my bachelor's degree at Sogang University.
-I am broadly interested in formally reasoning about software thereby achieving reliability. 
 I try to get my hands dirty by the sins of real-world systems,
 keep my eyes wide open at the scenes of computational horizons,
 and sniff my nose around for the scent of pure structures.
@@ -48,9 +47,9 @@ I am interested in compromising beautiful reasoning principles for computational
 
 ### Formal Methods
 * Scalable model checking techniques; e.g. abstraction, heuristics, etc. 
-* Program analysis. See [CCS22](/#Publication).
+* Program analysis. See [CCS22](/#publication).
 
-### Provable Security
+### Security & Privacy
 * cryptographic protocol analysis
 * distributed systems
 
@@ -88,18 +87,22 @@ Wooseok Kang, **Byoungho Son**, Kihong Heo.\
 [<img src="/assets/icons/code.png" width="25" />](/)
 
 ## Teaching
-* (2023 Fall) Software Design Methods, POSTECH, TA.
+* (2023 Fall) CSED332, Software Design Methods, POSTECH, TA.
 
 ## Honours & Awards
 * (2022 Fall) Magna Cum Laude, Sogang University.
 * (2018) Albatross SW Scholarship, Sogang University
 * (2018 Spring) Dean's List, Department of Engineering, Sogang University.
 
-## Personal
+## Personal (tmi)
 * [MagicSquare](/_pages/magic_square.html/): A simple html game that I designed myself during my high school days.
   Probably my first coding experience ever with > 100 lines of code
+* I spent most of my life in [Mapo, Seoul](https://en.wikipedia.org/wiki/Mapo_District).
+  Other than that, I have lived in Xiamen, Daejeon, Pohang.
+* How to pronounce my name: just put the 'B' sound in front of 'young'!
+* I speak Korean and English. I forgot how to speak Mandarin. I was working on my French.
 * I enjoy music and films from time to time. Here are some of my all-time favorites:
   - Radiohead / Tame Impala / Pink Floyd / Suede / Nirvana
-  - Joao Gilberto / Antonio Jobim
+  - Joao Gilberto / Antonio Carlos Jobim
   - Alfred Hitchcock / Wong Kar-Wai
 
