@@ -29,8 +29,9 @@ I am a 2nd year Ph.D candidate at POSTECH.
 I study formal methods at Software Verification Lab, advised by Kyungmin Bae.
 Before that, I obtained my bachelor's degree at Sogang University.
 I am broadly interested in formally reasoning about software thereby achieving reliability. 
-I am mostly happy when two seemingly different things turn out to be the same.
-My first name is somewhat pronounced as Bee-young-ho.
+I try to get my hands dirty by the sins of real-world systems,
+keep my eyes wide open at the scenes of computational horizons,
+and sniff my nose around for the scent of pure structures.
 
 ## Research Interest
 I am interested in compromising beautiful reasoning principles for computational reality.
