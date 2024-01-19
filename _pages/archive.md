@@ -43,6 +43,7 @@ Logic
 * [Steve Awodey](https://awodey.github.io/catlog/)
 * [UIUC](https://courses.engr.illinois.edu/cs474)
 * [Advanced Logic](http://www-sop.inria.fr/members/Martin.Avanzini/teaching/2023/AL/)
+* [Samuel Buss](https://mathweb.ucsd.edu/~sbuss/IntroMathLogic/Fullbook_Draft.pdf)
 
 ToC
 * [UIUC](https://courses.engr.illinois.edu/cs373/sp2010/lectures/) (Madhusudan Parthasarathy)
