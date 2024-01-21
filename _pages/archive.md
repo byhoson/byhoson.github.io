@@ -9,6 +9,7 @@ author_profile: true
 
 === Cryptographic Protocols ===
 * [Veronique Cortier](https://members.loria.fr/VCortier/files/Teaching/)
+* [MPRI](https://members.loria.fr/SKremer/files/poly-mpri-2-30-draft.pdf)
 * [Berry Schoenmakers](https://www.win.tue.nl/~berry/)
 * [The Joy of Cryptography](https://joyofcryptography.com/)
 
