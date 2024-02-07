@@ -30,7 +30,7 @@ I study formal methods at Software Verification Lab, advised by Kyungmin Bae.
 Before that, I obtained my bachelor's degree at Sogang University.
 I try to get my hands dirty by the sins of real-world systems,
 with my eyes wide open at the scenes of computational horizons,
-while sniffing my nose around for the scent of pure structures.
+while sniffing my nose around for the scent of abstract nonsense.
 
 ## Research Interest
 I am interested in compromising beautiful reasoning principles for computational reality.

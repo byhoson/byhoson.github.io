@@ -12,6 +12,11 @@ author_profile: true
 * [MPRI](https://members.loria.fr/SKremer/files/poly-mpri-2-30-draft.pdf)
 * [Berry Schoenmakers](https://www.win.tue.nl/~berry/)
 * [The Joy of Cryptography](https://joyofcryptography.com/)
+* [Alessandro Chiesa](https://www.youtube.com/playlist?list=PLGkwtcB-DfpzST-medFVvrKhinZisfluC)
+
+=== Rewriting Logic ===
+* [Meseguer](https://courses.engr.illinois.edu/cs576/sp2017/)
+- unification & narrowing
 
 === Verification ===
 Model Checking
