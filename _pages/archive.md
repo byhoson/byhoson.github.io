@@ -16,7 +16,10 @@ author_profile: true
 
 === Rewriting Logic ===
 * [Meseguer](https://courses.engr.illinois.edu/cs576/sp2017/)
-- unification & narrowing
+: unification & narrowing
+
+=== Logic And Category Theory ===
+* [Tarlecki](https://www.mimuw.edu.pl/~tarlecki/teaching/ct/index.html)
 
 === Verification ===
 Model Checking
