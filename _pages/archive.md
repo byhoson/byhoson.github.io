@@ -27,6 +27,7 @@ Model Checking
 * [Michael Blondin](https://info.usherbrooke.ca/mblondin/cours/igl752_a22/) (in French)
 * [TUM](https://www.cs.cit.tum.de/en/tcs/lehre/ss22/model-checking/)
 * [Roderick Bloem](https://www.iaik.tugraz.at/course/model-checking-705080-sommersemester-2023/)
+* [UNIUD](https://users.dimi.uniud.it/~angelo.montanari/courses.php)
 
 Satisfiability
 * [Marijn Heule](http://www.cs.cmu.edu/~mheule/15816-f22)
