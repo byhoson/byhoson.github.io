@@ -42,6 +42,9 @@ Concurrency
 
 === Logic ===
 
+(Dependent) Type Theory
+* [Carlo Angiuli](https://carloangiuli.com/courses/b619-sp24/notes.pdf)
+
 Coalgebra
 * [Jurriaan Rot](http://cs.ru.nl/~jrot/CTC20/)
 
