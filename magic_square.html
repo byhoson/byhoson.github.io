@@ -1,0 +1,397 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>Magic Square</title>
+    <style>
+    	* { padding: 0; margin: 0; }
+    	canvas { background: #eee; display: block; margin: 0 auto; }
+    </style>
+</head>
+<body>
+
+<canvas id="myCanvas" width="600" height="800"></canvas>
+
+<script>
+	var canvas = document.getElementById("myCanvas");
+	var ctx = canvas.getContext("2d");
+
+	var TILE_WIDTH=200; 
+	var TILE_HEIGHT = 200;
+	//var upPressed = false; //38
+	//var downPressed = false; //40
+	//var rightPressed = false; //39
+	//var leftPressed = false; //37
+	//var bingo_num = 1;
+	var MOVE_LIMIT = 4;
+	var moves = MOVE_LIMIT;
+	var score = 0;
+	var random_a = random(6);
+	var random_b = random(4);
+	var random_c = random(5);
+
+	if(localStorage.getItem("highscore")==null){
+		localStorage.setItem("highscore",0);
+	}
+
+	var tiles = [[{x: 0, y: 0+150, num: 2},{x: 200, y: 0+150, num: 1},{x: 400, y: 0+150, num: 2}],
+				[{x: 0, y: 200+150, num: 3},{x: 200, y: 200+150, num: null},{x: 400, y: 200+150, num: 2}],
+				[{x: 0, y: 400+150, num: 1},{x: 200, y: 400+150, num: 3},{x: 400, y: 400+150, num: 1}]];
+	
+	document.addEventListener("keydown", keyDownHandler, false);
+	document.addEventListener("mousedown", mouseDownHandler, false);
+	
+	function mouseDownHandler(event) {
+		x = event.pageX - canvas.offsetLeft;
+		y = event.pageY - canvas.offsetTop;
+		if (x>=30 && x<=100 && y>=10 && y<=30) {
+		    drawHowTo();
+		}
+	}
+
+	function keyDownHandler(e) {
+	    if(e.keyCode == 39) {
+        	move_right();		
+	       	if(check_a()){
+        		score += random_a;
+				random_a = random(random_a);
+				moves = MOVE_LIMIT;					
+        	}
+	       	if(check_b()){
+   	    		score += random_b;
+				random_b = random(random_b);
+				moves = MOVE_LIMIT;
+        	}
+        	if(check_c()){
+        		score += random_c;
+				random_c = random(random_c);
+				moves = MOVE_LIMIT;
+        	}
+	       	if(moves == 0){
+        		
+        		if (score > localStorage.getItem("highscore")) {
+					localStorage.setItem("highscore", score);
+				}
+				drawGameOver();
+        	} else {
+        		drawTile();
+        	}	          	        
+	    }
+
+	    else if(e.keyCode == 37) {
+	        move_left();		
+	       	if(check_a()){
+        		score += random_a;
+				random_a = random(random_a);
+				moves = MOVE_LIMIT;					
+        	}
+	       	if(check_b()){
+   	    		score += random_b;
+				random_b = random(random_b);
+				moves = MOVE_LIMIT;
+        	}
+        	if(check_c()){
+        		score += random_c;
+				random_c = random(random_c);
+				moves = MOVE_LIMIT;
+        	}
+	       	if(moves == 0){
+        		
+        		if (score > localStorage.getItem("highscore")) {
+					localStorage.setItem("highscore", score);
+				}
+				drawGameOver();
+        	} else {
+        		drawTile();
+        	}	  	      
+	    }
+
+	    else if(e.keyCode == 38) {
+	        move_up();		
+	       	if(check_a()){
+        		score += random_a;
+				random_a = random(random_a);
+				moves = MOVE_LIMIT;					
+        	}
+	       	if(check_b()){
+   	    		score += random_b;
+				random_b = random(random_b);
+				moves = MOVE_LIMIT;
+        	}
+        	if(check_c()){
+        		score += random_c;
+				random_c = random(random_c);
+				moves = MOVE_LIMIT;
+        	}
+	       	if(moves == 0){
+        		
+        		if (score > localStorage.getItem("highscore")) {
+					localStorage.setItem("highscore", score);
+				}
+				drawGameOver();
+        	} else {
+        		drawTile();
+        	}	        
+	    }
+
+	    else if(e.keyCode == 40) {
+	        move_down();		
+	       	if(check_a()){
+        		score += random_a;
+				random_a = random(random_a);
+				moves = MOVE_LIMIT;					
+        	}
+	       	if(check_b()){
+   	    		score += random_b;
+				random_b = random(random_b);
+				moves = MOVE_LIMIT;
+        	}
+        	if(check_c()){
+        		score += random_c;
+				random_c = random(random_c);
+				moves = MOVE_LIMIT;
+        	}
+	       	if(moves == 0){
+        		
+        		if (score > localStorage.getItem("highscore")) {
+					localStorage.setItem("highscore", score);
+				}
+				drawGameOver();
+        	} else {
+        		drawTile();
+        	}	       	     
+	    }
+	}
+
+
+	function random(x) {
+		do {
+			var i = Math.floor(Math.random()*5+3);
+		} while (i == x)
+		return i;
+	}
+	/*var checkBingo = function() {
+		var temp = [];
+		for(var i = 0; i  < 3; i++){
+			for(var j = 0; j < 3; j++){
+				if(tiles[i][j].num == bingo_num){
+					temp.push(tiles[i][j]);
+				}	
+			}
+		}
+		if(((temp[0].x == temp[1].x)&&(temp[1].x == temp[2].x))||((temp[0].y == temp[1].y)&&(temp[1].y == temp[2].y))) {
+			temp[0].num = bingo_num + 3;
+			temp[1].num = bingo_num + 3;
+			temp[2].num = bingo_num + 2;
+			bingo_num++;
+			moves = 10;
+			drawTile();
+		} else {
+			drawTile();
+		}
+	}*/
+
+	function roundRect(x, y, width, height, radius, fill, stroke) {
+		if (typeof stroke == "undefined" ) {
+	    stroke = true;
+		}
+		if (typeof radius === "undefined") {
+	    radius = 5;
+     	}
+		ctx.beginPath();
+		ctx.moveTo(x + radius, y);
+		ctx.lineTo(x + width - radius, y);
+		ctx.quadraticCurveTo(x + width, y, x + width, y + radius);
+		ctx.lineTo(x + width, y + height - radius);
+		ctx.quadraticCurveTo(x + width, y + height, x + width - radius, y + height);
+		ctx.lineTo(x + radius, y + height);
+		ctx.quadraticCurveTo(x, y + height, x, y + height - radius);
+		ctx.lineTo(x, y + radius);
+		ctx.quadraticCurveTo(x, y, x + radius, y);
+		ctx.closePath();
+		if (stroke) {
+			ctx.stroke();
+		}
+		if (fill) {
+			ctx.fill();
+		}        
+	}
+		
+	function drawTile() {
+		ctx.clearRect(0, 0, canvas.width, canvas.height);
+		for(var i = 0; i  < 3; i++){
+			for(var j = 0; j < 3; j++){
+				if(!(tiles[i][j].num == null)){
+					//ctx.beginPath();
+					ctx.strokeStyle = "black";
+					ctx.lineWidth = 5;
+					ctx.shadowBlur = 20;
+					ctx.shadowColor = "black";
+					ctx.fillStyle = "brown";
+					//ctx.strokeRect(tiles[i][j].x, tiles[i][j].y, TILE_WIDTH, TILE_HEIGHT);
+					roundRect(tiles[i][j].x+5, tiles[i][j].y, TILE_WIDTH-10, TILE_HEIGHT-10, 20, true);
+					ctx.shadowBlur = 0;
+					ctx.fillStyle = "white"
+					ctx.font = "100px Georgia";
+					ctx.fillText(tiles[i][j].num, tiles[i][j].x + 70, tiles[i][j].y + 120);
+					ctx.closePath();
+				} else {
+					ctx.beginPath();
+					//ctx.fillStyle = "#334455";	
+					//ctx.strokeRect(tiles[i][j].x, tiles[i][j].y, TILE_WIDTH, TILE_HEIGHT);
+					ctx.closePath();
+				}			
+			}
+		}
+		ctx.fillStyle = "black";
+		ctx.font = "40px sans-serif";
+		ctx.fillText(random_a, 90, 130);
+		ctx.fillText(random_b, 290, 130);
+		ctx.fillText(random_c, 490, 130);
+		ctx.font = "30px sans-serif";	
+		ctx.fillText("score: " + score, 450, 70);		
+		ctx.fillText("moves: ", 30, 70);
+		ctx.fillText("highscore: " + localStorage.getItem("highscore"), 400, 30);
+		ctx.shadowBlur = 10;
+		ctx.shadowColor = "black";
+		ctx.lineWidth = 1;
+		ctx.fillStyle = "#334400";
+		roundRect(30,10,100,30,10,true);
+		ctx.shadowBlur = 0;
+		ctx.font = "20px sans-serif";
+		ctx.fillStyle = "white"
+		ctx.fillText("how to?", 41, 33);
+		ctx.fillStyle = "black"
+		ctx.font = "20px Georgia";
+		ctx.fillText("@made by Byoungho Son", 310, 780);
+		for(var i = 0; i < moves; i++){
+			ctx.beginPath();	
+			ctx.fillStyle = "red";
+			ctx.arc(170+30*i,60,5,0,2*Math.PI);
+			ctx.fill();			
+			ctx.closePath();
+		}
+	}
+
+	function drawGameOver() {
+		ctx.clearRect(0, 0, canvas.width, canvas.height);
+		ctx.fillStyle = "black";
+		ctx.font = "70px Georgia";
+		ctx.fillText("GAME OVER!", 80, 250);
+		ctx.font = "50px sans-serif";
+		ctx.fillText("your score: " + score, 130, 400);
+		ctx.fillText("highscore: " + localStorage.getItem("highscore"), 130, 480);
+		ctx.font = "30px sans-serif";
+		ctx.fillText("press F5 to continue...", 300, 790);
+	}
+
+	function drawHowTo() {
+		ctx.clearRect(0, 0, canvas.width, canvas.height);
+		ctx.fillStyle = "black";
+		ctx.font = "70px sans-serif";
+		ctx.fillText("게임방법", 150, 150);
+		ctx.font = "20px sans-serif";
+		ctx.fillText("1. 화살표를 이용하여 타일을 빈칸으로 이동시키세요.", 0, 350);
+		//ctx.fillText("    (2048 조작법과 같음)", 0, 350);
+		ctx.fillText("2. 한 열의 총합이 상단에 주어진 수와 일치하면 성공!", 0, 400);
+		ctx.fillText("3. 성공한 열의 총합만큼 스코어 UP!!", 0, 450);
+		ctx.fillText("4. 빈칸은 0으로 간주합니다.", 0, 500);
+		ctx.fillText("5. 4번 움직임 안에 성공하지 못하면 GAME OVER!!   ", 0, 550);
+		//ctx.fillText("   GAME OVER!!   ", 0, 600);
+		ctx.font = "30px sans-serif";
+		ctx.fillText("다시 시작하려면 F5...", 300, 790);
+	}
+
+	function check_a() {
+		if((tiles[0][0].num + tiles[1][0].num + tiles[2][0].num) == random_a){
+			return true;
+		} else return false;
+	}
+
+	function check_b() {
+		if((tiles[0][1].num + tiles[1][1].num + tiles[2][1].num) == random_b){
+			return true;
+		} else return false;
+	}
+
+	function check_c() {
+		if((tiles[0][2].num + tiles[1][2].num + tiles[2][2].num) == random_c){
+			return true;
+		} else return false;
+	}
+
+	var find_empty_x = function() {
+		for (var i = 0; i < 3; i++) {
+			for (var j = 0; j < 3; j++) {
+				if(tiles[i][j].num == null) {				
+					return i;
+				}
+			}	
+		}	
+	}
+
+	var find_empty_y = function() {
+		for (var i = 0; i < 3; i++) {
+			for (var j = 0; j < 3; j++) {
+				if(tiles[i][j].num == null) {				
+					return j;
+				}
+			}	
+		}	
+	}
+
+	var move_up = function() {
+		x = find_empty_x();
+		y = find_empty_y();
+		if(!(x == 2)) {
+			tiles[x][y].num = tiles[x+1][y].num;
+			tiles[x+1][y].num = null;
+			moves--;
+		}
+	}
+
+	var move_down = function() {
+		x = find_empty_x();
+		y = find_empty_y();
+		if(!(x == 0)) {
+			tiles[x][y].num = tiles[x-1][y].num;
+			tiles[x-1][y].num = null;
+			moves--;
+		}
+	}
+
+	var move_right = function() {
+		x = find_empty_x();
+		y = find_empty_y();
+		if(!(y == 0)) {
+			tiles[x][y].num = tiles[x][y-1].num;
+			tiles[x][y-1].num = null;
+			moves--;
+		}
+	}
+
+	var move_left = function() {
+		x = find_empty_x();
+		y = find_empty_y();
+		if(!(y == 2)) {
+			tiles[x][y].num = tiles[x][y+1].num;
+			tiles[x][y+1].num = null;
+			moves--;
+		}
+	}
+
+	
+	
+	window.onload = function(){
+
+		drawTile();
+
+	}
+	
+	
+	
+	
+</script>
+
+</body>
+</html>
