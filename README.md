@@ -32,9 +32,7 @@ Some codes I've ever written or assisted writing so far..
   (Undergrad Proj - [pdf](/asset/publications/TakeThis.pdf))
 
 ## Publication
-[Google Scholar](https://scholar.google.com/citations?user=KjO0D04AAAAJ&hl=en) \
-[DBLP](https://dblp.org/pid/332/2908.html)
-
+See ([Google Scholar](https://scholar.google.com/citations?user=KjO0D04AAAAJ&hl=en) [DBLP](https://dblp.org/pid/332/2908.html)).
 * (CCS 2022) TRACER: Signature-based Static Analysis for Detecting Recurring Vulnerabilities. \
 Wooseok Kang, **Byoungho Son**, Kihong Heo.\
 [pdf](/asset/publications/ccs22.pdf)

@@ -1,12 +1,3 @@
----
-layout: single
-title: archive
-permalink: /archive/
-canonical_url: "https://byhoson.github.io/archive"
-author_profile: true
----
-
-
 === Cryptographic Protocols ===
 * [Veronique Cortier](https://members.loria.fr/VCortier/files/Teaching/)
 * [MPRI](https://members.loria.fr/SKremer/files/poly-mpri-2-30-draft.pdf)
