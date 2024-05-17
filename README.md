@@ -1,15 +1,21 @@
 Hello, there!
-I am a 2nd year Ph.D candidate at POSTECH. 
+I am a Ph.D student at POSTECH. 
 I study formal methods at Software Verification Lab, advised by Kyungmin Bae.
 Before that, I obtained my bachelor's degree at Sogang University.
+
+Here is my [CV](/asset/cv.pdf).
+
 I try to get my hands dirty by the sins of real-world systems,
 with my eyes wide open at the scenes of computational horizons,
 while sniffing my nose around for the scent of abstract nonsense.
-Here is my [CV](/asset/cv.pdf).
 
-## Research Interest
-* Formal Verification - Model Checking
-* Computational Logic - Rewriting Logic
+## Research
+I am interested in compromising and exploiting logical reasoning principles to combat computational obstacles,
+aiming at providing provable guarantees for realistic software systems.
+* Automated formal verification techniques
+> Model Checking, Abstraction, Heuristics
+* Logicial foundations
+> Rewriting Logic, Formal Semantics
 
 ## Education
 * (2022 Aug - present) Ph.D. Student in [Computer Science and Engineering](https://cse.postech.ac.kr). POSTECH. 
@@ -32,7 +38,7 @@ Some codes I've ever written or assisted writing so far..
   (Undergrad Proj - [pdf](/asset/publications/TakeThis.pdf))
 
 ## Publication
-See ([Google Scholar](https://scholar.google.com/citations?user=KjO0D04AAAAJ&hl=en) [DBLP](https://dblp.org/pid/332/2908.html)).
+(See [Google Scholar](https://scholar.google.com/citations?user=KjO0D04AAAAJ&hl=en) / [DBLP](https://dblp.org/pid/332/2908.html)).
 * (CCS 2022) TRACER: Signature-based Static Analysis for Detecting Recurring Vulnerabilities. \
 Wooseok Kang, **Byoungho Son**, Kihong Heo.\
 [pdf](/asset/publications/ccs22.pdf)
@@ -42,12 +48,12 @@ Wooseok Kang, **Byoungho Son**, Kihong Heo.\
 ## Teaching
 * (2023 Fall) CSED332, Software Design Methods, POSTECH, TA.
 
-## Info
+## Contact
 * email: byhoson at postech dot ac dot kr
 * address: POSTECH B2 204
 * orchid: [link](https://orcid.org/0000-0001-6482-1789)
 
-## Links
+## Misc.
 * [useful materials](/archive.md)
 * [personal](/personal.md)
 
