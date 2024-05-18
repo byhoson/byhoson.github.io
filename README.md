@@ -13,6 +13,7 @@ I am currently working on formal methods area. In particular,
 > Fighting state-space explosion problem rised in model checking, by abstraction and heuristics
 * Logic
 > Reasoning & specifying concurrent, distributed systems based on Rewriting Logic
+> , and some abstract nonsense stuff
 
 I am also interested in applying formal methods to closely related areas, such as
 Programming Laguages, Software Engineering, Security & Privacy, Concurrency, Distributed Systems, etc.
