@@ -14,6 +14,7 @@
 * [Tarlecki](https://www.mimuw.edu.pl/~tarlecki/teaching/ct/index.html)
 
 === Automated Deduction ===
+* [Dillig](https://www.cs.utexas.edu/~isil/cs389L/)
 * [Farinelli](https://profs.scienze.univr.it/~farinelli/courses/ar/ar2010.html)
 > Skolemisation, Herbrand Universe, Resolution, Paramodulation, etc
 * [Ringeissen](https://members.loria.fr/CRingeissen/teaching/)
