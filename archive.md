@@ -5,10 +5,12 @@
 * [The Joy of Cryptography](https://joyofcryptography.com/)
 * [Alessandro Chiesa](https://www.youtube.com/playlist?list=PLGkwtcB-DfpzST-medFVvrKhinZisfluC)
 
-=== Rewriting Logic ===
+=== Term Rewriting & Rewriting Logic ===
 * [Meseguer](https://courses.engr.illinois.edu/cs576/sp2017/)
 > unification & narrowing
 * [Meseguer2](https://courses.grainger.illinois.edu/CS476/fa2022/)
+* [Jouannaud](https://www.lix.polytechnique.fr/Labo/Jean-Pierre.Jouannaud/articles/cours-tlpo.pdf)
+> lecture note in french
 
 === Logic And Category Theory ===
 * [Tarlecki](https://www.mimuw.edu.pl/~tarlecki/teaching/ct/index.html)
