@@ -108,6 +108,8 @@ KAIST
 
 Compiler
 * [Adrian Sampson](https://www.cs.cornell.edu/courses/cs6120/2022sp/)
+* [Mooly Sagiv](https://www.cs.tau.ac.il//~yotamfe1/courses/wcc20/wcc20.html)
+> Teaching Compilers Backward (from PL Perspective)
 
 Cornell
 * [cs3110 - functional programming with ocaml](https://www.cs.cornell.edu/courses/cs3110/2019sp/textbook/hop/pipelining.html)
@@ -158,6 +160,14 @@ Cryptography
 * [Alex Ozdemir](https://crypto.stanford.edu/cs355/23sp/)
 * [Dakshita Khurana](https://courses.grainger.illinois.edu/cs507/sp2023/index.html)
 * [Boaz Barak](https://intensecrypto.org/public/index.html)
+
+From Database Theory Community.
+* [database theory](https://homepages.inf.ed.ac.uk/apieris/courses/atfd2018/index.html)
+* [Database Theory Book](https://github.com/pdm-book/community)
+* [database theory](https://www.cs.ox.ac.uk/michael.benedikt/readingcourse/reading.html)
+* [database theory](https://pages.cs.wisc.edu/~paris/cs784-s22/schedule.html)
+* [Dan Suciu](https://homes.cs.washington.edu/~suciu/)
+* [Finite Model Theory Lecture Note](https://www.mimuw.edu.pl/~szymtor/)
 
 === Some Articles ===
 * [Deduction Theorem](https://www3.nd.edu/~cfranks/dt.pdf)
