@@ -169,5 +169,11 @@ From Database Theory Community.
 * [Dan Suciu](https://homes.cs.washington.edu/~suciu/)
 * [Finite Model Theory Lecture Note](https://www.mimuw.edu.pl/~szymtor/)
 
+AI
+* [IIT Delhi](https://www.youtube.com/playlist?list=PLp6ek2hDcoNB_YJCruBFjhF79f5ZHyBuz)
+
+Latex
+*[not so short intro](https://tobi.oetiker.ch/lshort/lshort.pdf)
+
 === Some Articles ===
 * [Deduction Theorem](https://www3.nd.edu/~cfranks/dt.pdf)
