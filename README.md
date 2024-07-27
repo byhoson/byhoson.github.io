@@ -1,22 +1,15 @@
 Hello, there!
 I am a Ph.D student at POSTECH. 
 I study formal methods at Software Verification Lab, advised by Kyungmin Bae.
-Before that, I obtained my bachelor's degree at Sogang University.
 Here is my [CV](/asset/cv.pdf).
-
-I am interested in compromising and exploiting logical reasoning principles to combat computational obstacles
-to providing provable guarantees for real-world computer systems.
+And here is my [yet another homepage](/guru.html). 
 
 ## Research Interest
-I am currently working on formal methods. In particular,
-* Formal Verification
-> Resolving state-space explosion problems in model checking, by abstraction and heuristics
-* Computational Logic
-> Reasoning & specification of concurrent, distributed systems based on Rewriting Logic
-
-I am also interested in applications & foundations of formal verification, such as
-Programming Laguages, Software Engineering, Security & Privacy, 
-Concurrent & Distributed Systems, and some abstract nonsense.
+I am interested in formal verification techniques for software systems.
+In particular, I focus on the following topics:
+* Model Checking
+* Cryptographic Protocol Analysis
+* Rewriting Logic
 
 ## Education
 * (2022 Aug - present) Ph.D. Student in [Computer Science and Engineering](https://cse.postech.ac.kr). POSTECH. 

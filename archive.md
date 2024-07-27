@@ -161,19 +161,28 @@ Cryptography
 * [Dakshita Khurana](https://courses.grainger.illinois.edu/cs507/sp2023/index.html)
 * [Boaz Barak](https://intensecrypto.org/public/index.html)
 
-From Database Theory Community.
+From Database Theory Community
 * [database theory](https://homepages.inf.ed.ac.uk/apieris/courses/atfd2018/index.html)
 * [Database Theory Book](https://github.com/pdm-book/community)
-* [database theory](https://www.cs.ox.ac.uk/michael.benedikt/readingcourse/reading.html)
+* [Michael Benedikt - Automata & Logic](https://www.cs.ox.ac.uk/michael.benedikt/readingcourse/reading.html)
 * [database theory](https://pages.cs.wisc.edu/~paris/cs784-s22/schedule.html)
 * [Dan Suciu](https://homes.cs.washington.edu/~suciu/)
-* [Finite Model Theory Lecture Note](https://www.mimuw.edu.pl/~szymtor/)
 
-AI
+From Finite Model Theory & Descriptive Complexity Community
+* [Finite Model Theory Lecture Note](https://www.mimuw.edu.pl/~szymtor/)
+* [Nicole Schweikardt](https://www.informatik.hu-berlin.de/de/forschung/gebiete/loginf/lehre/vorlesung-ausgewaehlte-kapitel-der-logik-klassische-resultate)
+
+From Knowledge Representation & AI Community
 * [IIT Delhi](https://www.youtube.com/playlist?list=PLp6ek2hDcoNB_YJCruBFjhF79f5ZHyBuz)
+* [Eric Pacuit - Modal Logic](https://ai.stanford.edu/~epacuit/classes/modal.html#schedule)
+* [Sebastian Rudolph - Foundations of Knowledge Representation](https://iccl.inf.tu-dresden.de/web/Foundations_of_Knowledge_Representation_(WS2023))
+* [Meghyn Bienvenu](https://www.labri.fr/perso/meghyn/teaching.html)
+
+Optimization
+* [Del Pia](https://sites.google.com/site/albertodelpia/teaching)
 
 Latex
-*[not so short intro](https://tobi.oetiker.ch/lshort/lshort.pdf)
+* [Not So Short Intro To Latex](https://tobi.oetiker.ch/lshort/lshort.pdf)
 
 === Some Articles ===
 * [Deduction Theorem](https://www3.nd.edu/~cfranks/dt.pdf)
