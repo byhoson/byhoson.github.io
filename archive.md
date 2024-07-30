@@ -117,6 +117,7 @@ Cornell
 * [cs6110 - advanced programming languages](https://www.cs.cornell.edu/courses/cs6110/2019sp/resources.html)
 * [cs6112 - foundations of concurrency](https://www.cs.cornell.edu/courses/cs6112/2011fa/schedule.php)
 * [cs6117 - category theory for computer scientists](https://www.cs.cornell.edu/courses/cs6117/2020sp/)
+* [cs6861 - Introduction to Kleene Algebra](https://www.cs.cornell.edu/courses/cs6861/2024sp/)
 
 CMU
 * [Bug Catching: Automated Program Verification](https://www.cs.cmu.edu/~15414/index.html) (Ruben Martins)
@@ -153,6 +154,7 @@ Blockchain
 
 Software Practice
 * [Steve Tarzia](https://youtube.com/playlist?list=PLWl7jvxH18r0u5VRZsOjhghNXc_Ec4dZz&feature=shared)
+* [Full Stack Web Dev - Riccardo Pucella](https://rpucella.net/courses/webdev-sp24/)
 
 Cryptography
 * [Mihir Bellare](https://cseweb.ucsd.edu/~mihir/teaching.html)
@@ -171,6 +173,7 @@ From Database Theory Community
 From Finite Model Theory & Descriptive Complexity Community
 * [Finite Model Theory Lecture Note](https://www.mimuw.edu.pl/~szymtor/)
 * [Nicole Schweikardt](https://www.informatik.hu-berlin.de/de/forschung/gebiete/loginf/lehre/vorlesung-ausgewaehlte-kapitel-der-logik-klassische-resultate)
+* [Tomas Jakl - Finite Model Theory, Game Comonad, etc](https://tomas.jakl.one/teaching)
 
 From Knowledge Representation & AI Community
 * [IIT Delhi](https://www.youtube.com/playlist?list=PLp6ek2hDcoNB_YJCruBFjhF79f5ZHyBuz)
