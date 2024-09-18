@@ -5,11 +5,12 @@ Here is my [CV](/asset/cv.pdf).
 And here is my [yet another homepage](/guru.html). 
 
 ## Research Interest
-I am interested in formal verification techniques for software systems.
-In particular, I focus on the following topics:
-* Model Checking
-* Cryptographic Protocol Analysis
-* Rewriting Logic
+I am broadly interested in foundations and applications of formal verification techniques.
+* Logic & Computation
+* Formal Verification
+* Computer-aided Cryptography (Provable Security)
+
+Recently, my work revolves around techniques such as rewriting logic, model checking, heuristic search.
 
 ## Education
 * (2022 Aug - present) Ph.D. Student in [Computer Science and Engineering](https://cse.postech.ac.kr). POSTECH. 
