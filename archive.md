@@ -24,6 +24,7 @@
 > Herbrand, Skolem, Goedel, Decidability, ...
 * [Contejean](https://www.lri.fr/~contejea/cours/demonstration_automatique.pdf)
 > In french
+* [U. Innsbruck](http://cl-informatik.uibk.ac.at/teaching/ws13/autres/content.php)
 
 === Verification ===
 Model Checking

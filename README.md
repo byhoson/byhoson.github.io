@@ -2,7 +2,6 @@ Hello, there!
 I am a Ph.D student at POSTECH. 
 I study formal methods at Software Verification Lab, advised by Kyungmin Bae.
 Here is my [CV](/asset/cv.pdf).
-And here is my [yet another homepage](/guru.html). 
 
 ## Research Interest
 I am broadly interested in foundations and applications of formal verification techniques.
@@ -10,7 +9,7 @@ I am broadly interested in foundations and applications of formal verification t
 * Formal Verification
 * Computer-aided Cryptography (Provable Security)
 
-Recently, my work revolves around techniques such as rewriting logic, model checking, heuristic search.
+Recently, my work revolves around techniques such as rewriting logic, model checking, and heuristic search.
 
 ## Education
 * (2022 Aug - present) Ph.D. Student in [Computer Science and Engineering](https://cse.postech.ac.kr). POSTECH. 
@@ -25,12 +24,6 @@ Recently, my work revolves around techniques such as rewriting logic, model chec
   POSTECH. (Advisor: [*Kyungmin Bae*](http://sv.postech.ac.kr/~kmbae))
 * (2021 Jul - 2022 Jan) Undergraduate Research Intern. [ProsysLab](https://prosys.kaist.ac.kr). 
   KAIST. (Advisor: [*Kihong Heo*](https://kihongheo.kaist.ac.kr))
-
-## Project
-Some codes I've ever written or assisted writing so far..
-* [Tracer](https://prosys.kaist.ac.kr/tracer)
-* [TakeThis](http://cscp2.sogang.ac.kr/CSE4187/index.php/TakeThis)
-  (Undergrad Proj - [pdf](/asset/publications/TakeThis.pdf))
 
 ## Publication
 (See [Google Scholar](https://scholar.google.com/citations?user=KjO0D04AAAAJ&hl=en) / [DBLP](https://dblp.org/pid/332/2908.html)).
@@ -51,4 +44,4 @@ Wooseok Kang, **Byoungho Son**, Kihong Heo.\
 ## Misc.
 * [useful materials](/archive.md)
 * [personal](/personal.md)
-
+* [project](/project.md)
