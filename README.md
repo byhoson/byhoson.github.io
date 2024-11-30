@@ -4,15 +4,15 @@ I study formal methods at Software Verification Lab, advised by Kyungmin Bae.
 Here is my [CV](/asset/cv.pdf).
 
 ## Research Interest
-I am broadly interested in logical foundations and practical applications of formal verification techniques.
-My current research theme lies in borrowing ideas from logic and machine learning,
-combining them to devise formal verification techniques,
-and applying them to analysing real-world software systems (especially security of cryptographic protocols)
+I am broadly interested in logical foundations and practical applications of formal methods.
+My current research theme lies in borrowing ideas from **logic** and **machine learning**,
+combining them to devise **formal verification** techniques,
+and applying them to analysing real-world software systems (especially the **security** of cryptographic protocols)
 
 I usually study the following topics:
-* Logic & Computation : Rewriting Logic, Automata Theory
-* Formal Verification : Model Checking, Theorem Proving
+* Logic : Rewriting Logic, Automata Theory
 * Machine Learning : Reinforcement Learning
+* Formal Verification : Model Checking, Theorem Proving
 * Security : Computer-aided Cryptography
 
 ## Education
