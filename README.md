@@ -10,9 +10,9 @@ combining them to devise **formal verification** techniques,
 and applying them to analyse real-world software systems (especially the **security** of cryptographic protocols).
 
 I usually study the following topics:
-* Logic : `Rewriting` | `Automata` | `Semantics`
+* Logic : `Rewriting` / `Automata` / `Semantics`
 * Machine Learning : `Reinforcement Learning`
-* Formal Verification : `Model Checking` | `Theorem Proving`
+* Formal Verification : `Model Checking` / `Theorem Proving`
 * Security : `Computer-aided Cryptography`
 
 ## Education
