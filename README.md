@@ -7,13 +7,13 @@ Here is my [CV](/asset/cv.pdf).
 I am broadly interested in logical foundations and practical applications of formal methods.
 My current research theme lies in borrowing ideas from **logic** and **machine learning**,
 combining them to devise **formal verification** techniques,
-and applying them to analysing real-world software systems (especially the **security** of cryptographic protocols)
+and applying them to analyse real-world software systems (especially the **security** of cryptographic protocols).
 
 I usually study the following topics:
-* Logic : Rewriting Logic, Automata Theory
-* Machine Learning : Reinforcement Learning
-* Formal Verification : Model Checking, Theorem Proving
-* Security : Computer-aided Cryptography
+* Logic : `Rewriting`, `Automata`, `Semantics`
+* Machine Learning : `Reinforcement Learning`
+* Formal Verification : `Model Checking`, `Theorem Proving`
+* Security : `Computer-aided Cryptography`
 
 ## Education
 * (2022 Aug - present) Ph.D. Student in [Computer Science and Engineering](https://cse.postech.ac.kr). POSTECH. 
@@ -39,6 +39,10 @@ Wooseok Kang, **Byoungho Son**, Kihong Heo.\
 
 ## Teaching
 * (2023 Fall) CSED332, Software Design Methods, POSTECH, TA.
+
+## Honors And Grants
+* (2024) Research Subsidies for Ph.D. Candidates, National Research Foundation of Korea.
+* (2018) Albatross Scholarship, Sogang University.
 
 ## Contact
 * email: byhoson at postech dot ac dot kr
