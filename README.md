@@ -6,14 +6,14 @@ Here is my [CV](/asset/cv.pdf).
 ## Research Interest
 I am broadly interested in logical foundations and practical applications of formal methods.
 My current research theme lies in borrowing ideas from **logic** and **machine learning**,
-combining them to devise **formal verification** techniques,
-and applying them to analyse real-world software systems (especially the **security** of cryptographic protocols).
+combining them to overcome the computational hardness of **formal verification** algorithms,
+and applying them to analyse real-world software systems (esp. the **security** of cryptographic protocols).
 
 I usually study the following topics:
 * Logic : `Rewriting` / `Automata` / `Semantics`
 * Machine Learning : `Reinforcement Learning`
 * Formal Verification : `Model Checking` / `Theorem Proving`
-* Security : `Computer-aided Cryptography`
+* Security : `Computer-Aided Cryptography`
 
 ## Education
 * (2022 Aug - present) Ph.D. Student in [Computer Science and Engineering](https://cse.postech.ac.kr). POSTECH. 
