@@ -1,13 +1,13 @@
 Hello, there!
 I am a Ph.D student at POSTECH. 
 I study formal methods at Software Verification Lab, advised by Kyungmin Bae.
-Here is my [CV](/asset/cv.pdf).
+* [cv](/asset/cv.pdf) / [orcid](https://orcid.org/0000-0001-6482-1789) / [google scholar](https://scholar.google.com/citations?user=KjO0D04AAAAJ&hl=en) 
 
 ## Research Interest
 I am broadly interested in logical foundations and practical applications of formal methods.
 My current research theme lies in borrowing ideas from **Logic** and **Machine Learning**,
-combining them to overcome the computational hardness of **formal verification** techniques,
-and applying them to analyse **security/privacy** of software systems.
+combining them to overcome the computational hardness of **Formal Verification** techniques,
+and applying them to analyse **Security/Privacy** of software systems.
 
 I usually study the following topics:
 * Logic : `Rewriting` / `Automata` / `Semantics`
@@ -40,16 +40,15 @@ Wooseok Kang, **Byoungho Son**, Kihong Heo.\
 ## Teaching
 * (2023 Fall) CSED332, Software Design Methods, POSTECH, TA.
 
-## Honors And Grants
+## Honors
 * (2024) Research Subsidies for Ph.D. Candidates, National Research Foundation of Korea.
 * (2018) Albatross Scholarship, Sogang University.
 
 ## Contact
 * email: byhoson at postech dot ac dot kr
 * address: POSTECH B2 204
-* orchid: [link](https://orcid.org/0000-0001-6482-1789)
 
 ## Misc.
 * [useful materials](/archive.md)
 * [personal](/personal.md)
-* [project](/project.md)
+* [misc. projects](/project.md)
