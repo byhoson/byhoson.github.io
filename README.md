@@ -9,11 +9,11 @@ My current research theme lies in borrowing ideas from **Logic** and **Machine L
 combining them to overcome the computational hardness of **Formal Verification** techniques,
 and applying them to analyse **Security/Privacy** of software systems.
 
-I usually study the following topics:
+My research is more or less related to the following topics:
 * Logic : `Rewriting` / `Automata` / `Semantics`
 * Machine Learning : `Reinforcement Learning`
-* Formal Verification : `Model Checking` / `Theorem Proving`
-* Security/Privacy : `Cryptographic Protocol Analysis`
+* Formal Verification : `Model Checking` / `Theorem Proving` / `Concurrency`
+* Security/Privacy : `Cryptographic Protocol Analysis` / `Program Analysis`
 
 ## Education
 * (2022 Aug - present) Ph.D. Student in [Computer Science and Engineering](https://cse.postech.ac.kr). POSTECH. 
