@@ -12,8 +12,14 @@
 * [Jouannaud](https://www.lix.polytechnique.fr/Labo/Jean-Pierre.Jouannaud/articles/cours-tlpo.pdf)
 > lecture note in french
 
-=== Logic And Category Theory ===
+## Category Theory
+### Institution Theory, Universal Logic, etc
 * [Tarlecki](https://www.mimuw.edu.pl/~tarlecki/teaching/ct/index.html)
+* [Institution Independent Model Theory](https://rdiaconescu.weebly.com/the-book-institution-independent-model-theory.html)
+* [Tutorial on Institution Theory](http://imar.ro/~diacon/InsTut.html)
+
+### Coalgebraic Methods
+* [Jurriaan Rot](http://cs.ru.nl/~jrot/CTC20/)
 
 === Automated Deduction ===
 * [Dillig](https://www.cs.utexas.edu/~isil/cs389L/)
@@ -52,9 +58,6 @@ Program Verification
 
 (Dependent) Type Theory
 * [Carlo Angiuli](https://carloangiuli.com/courses/b619-sp24/notes.pdf)
-
-Coalgebra
-* [Jurriaan Rot](http://cs.ru.nl/~jrot/CTC20/)
 
 Logic
 * [TUM](https://www.cs.cit.tum.de/en/tcs/lehre/sommersemester-2023/logic/)
