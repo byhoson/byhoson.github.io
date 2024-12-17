@@ -1,16 +1,26 @@
-=== Cryptographic Protocols ===
+## Cryptography
+### Cryptographic Protocols 
 * [Veronique Cortier](https://members.loria.fr/VCortier/files/Teaching/)
 * [MPRI](https://members.loria.fr/SKremer/files/poly-mpri-2-30-draft.pdf)
 * [Berry Schoenmakers](https://www.win.tue.nl/~berry/)
+
+### Cryptography
 * [The Joy of Cryptography](https://joyofcryptography.com/)
 * [Alessandro Chiesa](https://www.youtube.com/playlist?list=PLGkwtcB-DfpzST-medFVvrKhinZisfluC)
+* [Mihir Bellare](https://cseweb.ucsd.edu/~mihir/teaching.html)
+* [Rafael Pass](https://www.cs.cornell.edu/~rafael/)
+* [Alex Ozdemir](https://crypto.stanford.edu/cs355/23sp/)
+* [Dakshita Khurana](https://courses.grainger.illinois.edu/cs507/sp2023/index.html)
+* [Boaz Barak](https://intensecrypto.org/public/index.html)
 
-=== Term Rewriting & Rewriting Logic ===
+
+## Term Rewriting & Rewriting Logic
 * [Meseguer](https://courses.engr.illinois.edu/cs576/sp2017/)
 > unification & narrowing
 * [Meseguer2](https://courses.grainger.illinois.edu/CS476/fa2022/)
 * [Jouannaud](https://www.lix.polytechnique.fr/Labo/Jean-Pierre.Jouannaud/articles/cours-tlpo.pdf)
 > lecture note in french
+
 
 ## Category Theory
 ### Institution Theory, Universal Logic, etc
@@ -18,8 +28,9 @@
 * [Institution Independent Model Theory](https://rdiaconescu.weebly.com/the-book-institution-independent-model-theory.html)
 * [Tutorial on Institution Theory](http://imar.ro/~diacon/InsTut.html)
 
-### Coalgebraic Methods
+### Coalgebraic Methods, Semantics
 * [Jurriaan Rot](http://cs.ru.nl/~jrot/CTC20/)
+* [Peter Aczel](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=686404f0f899c879465e63a9045fa35a001163b1)
 
 === Automated Deduction ===
 * [Dillig](https://www.cs.utexas.edu/~isil/cs389L/)
@@ -159,13 +170,6 @@ Blockchain
 Software Practice
 * [Steve Tarzia](https://youtube.com/playlist?list=PLWl7jvxH18r0u5VRZsOjhghNXc_Ec4dZz&feature=shared)
 * [Full Stack Web Dev - Riccardo Pucella](https://rpucella.net/courses/webdev-sp24/)
-
-Cryptography
-* [Mihir Bellare](https://cseweb.ucsd.edu/~mihir/teaching.html)
-* [Rafael Pass](https://www.cs.cornell.edu/~rafael/)
-* [Alex Ozdemir](https://crypto.stanford.edu/cs355/23sp/)
-* [Dakshita Khurana](https://courses.grainger.illinois.edu/cs507/sp2023/index.html)
-* [Boaz Barak](https://intensecrypto.org/public/index.html)
 
 From Database Theory Community
 * [database theory](https://homepages.inf.ed.ac.uk/apieris/courses/atfd2018/index.html)
