@@ -14,25 +14,38 @@
 * [Boaz Barak](https://intensecrypto.org/public/index.html)
 
 
-## Term Rewriting & Rewriting Logic
+
+## Category Theory
+### Institution Theory, Algebraic Specification
+* [Tarlecki](https://www.mimuw.edu.pl/~tarlecki/teaching/ct/index.html)
+* [Institution Independent Model Theory](https://rdiaconescu.weebly.com/the-book-institution-independent-model-theory.html)
+* [Tutorial on Institution Theory](http://imar.ro/~diacon/InsTut.html)
+
+### Coalgebra & Semantics
+* [Jurriaan Rot](http://cs.ru.nl/~jrot/CTC20/)
+* [Peter Aczel](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=686404f0f899c879465e63a9045fa35a001163b1)
+
+### Type Theory & Curry-Howard-Lambek Isomorphism & HoTT
+(Dependent) Type Theory
+* [Carlo Angiuli](https://carloangiuli.com/courses/b619-sp24/notes.pdf)
+(Category-theoretic) Semantics
+* [Meseguer](https://courses.engr.illinois.edu/cs522/sp2016/)
+HoTT
+* [Introduction to Univalent Foundations of Mathematics with Agda](https://www.cs.bham.ac.uk/~mhe/HoTT-UF-in-Agda-Lecture-Notes/HoTT-UF-Agda.html#lecturenotes)
+* [HoTT Course](https://github.com/andrejbauer/homotopy-type-theory-course) (Andrej Bauer)
+* [Intro to HoTT](https://www.andrew.cmu.edu/user/erijke/hott/) (Egbert Rijke)
+* [Cubical TT](https://github.com/mortberg/cubicaltt/blob/master/lectures/lecture3.ctt)
+
+
+## Automated Resoning & Formal Verification
+### Term Rewriting & Rewriting Logic
 * [Meseguer](https://courses.engr.illinois.edu/cs576/sp2017/)
 > unification & narrowing
 * [Meseguer2](https://courses.grainger.illinois.edu/CS476/fa2022/)
 * [Jouannaud](https://www.lix.polytechnique.fr/Labo/Jean-Pierre.Jouannaud/articles/cours-tlpo.pdf)
 > lecture note in french
 
-
-## Category Theory
-### Institution Theory, Universal Logic, etc
-* [Tarlecki](https://www.mimuw.edu.pl/~tarlecki/teaching/ct/index.html)
-* [Institution Independent Model Theory](https://rdiaconescu.weebly.com/the-book-institution-independent-model-theory.html)
-* [Tutorial on Institution Theory](http://imar.ro/~diacon/InsTut.html)
-
-### Coalgebraic Methods, Semantics
-* [Jurriaan Rot](http://cs.ru.nl/~jrot/CTC20/)
-* [Peter Aczel](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=686404f0f899c879465e63a9045fa35a001163b1)
-
-=== Automated Deduction ===
+### Automated Theorem Proving
 * [Dillig](https://www.cs.utexas.edu/~isil/cs389L/)
 * [Farinelli](https://profs.scienze.univr.it/~farinelli/courses/ar/ar2010.html)
 > Skolemisation, Herbrand Universe, Resolution, Paramodulation, etc
@@ -43,8 +56,7 @@
 > In french
 * [U. Innsbruck](http://cl-informatik.uibk.ac.at/teaching/ws13/autres/content.php)
 
-=== Verification ===
-Model Checking
+### Model Checking
 * [Joost Pieter-Katoen](https://www.youtube.com/playlist?list=PLwabKnOFhE38C0o6z_bhlF_uOUlblDTjh)
 * [Michael Blondin](https://info.usherbrooke.ca/mblondin/cours/igl752_a22/) (in French)
 * [TUM](https://www.cs.cit.tum.de/en/tcs/lehre/ss22/model-checking/)
@@ -66,9 +78,6 @@ Program Verification
 * [uni. Freiburg](https://swt.informatik.uni-freiburg.de/teaching/SS2022/program-verification)
 
 === Logic ===
-
-(Dependent) Type Theory
-* [Carlo Angiuli](https://carloangiuli.com/courses/b619-sp24/notes.pdf)
 
 Logic
 * [TUM](https://www.cs.cit.tum.de/en/tcs/lehre/sommersemester-2023/logic/)
@@ -93,7 +102,6 @@ Programming Language Theory
 * [CPDT](http://adam.chlipala.net/cpdt/)
 * [PLFA](https://plfa.github.io/)
 * [Semantics](https://plv.mpi-sws.org/semantics-course/)
-* [Meseguer](https://courses.engr.illinois.edu/cs522/sp2016/)
 
 Lecture Materials
 * [Samuel Mimram](http://www.lix.polytechnique.fr/Labo/Samuel.Mimram/teaching/)
@@ -139,12 +147,6 @@ CMU
 * [Automated Reasoning and Satisfiability](http://www.cs.cmu.edu/~mheule/15816-f20/index.html) (Ruben Martins)
 * [Program Analysis](https://cmu-program-analysis.github.io/2021/) (Jonathan Aldrich)
 * [rwh](https://www.cs.cmu.edu/~rwh/courses/) (Bob Harper)
-
-HoTT
-* [Introduction to Univalent Foundations of Mathematics with Agda](https://www.cs.bham.ac.uk/~mhe/HoTT-UF-in-Agda-Lecture-Notes/HoTT-UF-Agda.html#lecturenotes)
-* [HoTT Course](https://github.com/andrejbauer/homotopy-type-theory-course) (Andrej Bauer)
-* [Intro to HoTT](https://www.andrew.cmu.edu/user/erijke/hott/) (Egbert Rijke)
-* [Cubical TT](https://github.com/mortberg/cubicaltt/blob/master/lectures/lecture3.ctt)
 
 OS
 * [MIT 6.828](https://pdos.csail.mit.edu/6.828/2021/)
