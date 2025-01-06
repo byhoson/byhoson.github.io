@@ -77,6 +77,27 @@ Concurrency
 Program Verification
 * [uni. Freiburg](https://swt.informatik.uni-freiburg.de/teaching/SS2022/program-verification)
 
+
+## Knowledge, Epistemology, Philosophya
+(TODO)
+https://sites.pitt.edu/~rbrandom/Courses%201%20c.html
+https://jshaw.net/courses/gradlanguage.html
+https://mmandelkern.github.io/
+https://iccl.inf.tu-dresden.de/web/Foundations_of_Logic_Programming_(WS2021)/en
+https://lat.inf.tu-dresden.de/~fernandez/esslli2019/unifDLsCourse.html
+
+
+### Formal Epistemology
+* [Probability and Induction](https://fitelson.org/probability/)
+* [Fundamentals of Bayesian Epistemology](https://fitelson.org/bayes/)
+
+### Knowledge Representation and Reasoning
+* [IIT Delhi](https://www.youtube.com/playlist?list=PLp6ek2hDcoNB_YJCruBFjhF79f5ZHyBuz)
+* [Eric Pacuit - Modal Logic](https://ai.stanford.edu/~epacuit/classes/modal.html#schedule)
+* [Sebastian Rudolph - Foundations of Knowledge Representation](https://iccl.inf.tu-dresden.de/web/Foundations_of_Knowledge_Representation_(WS2023))
+* [Meghyn Bienvenu](https://www.labri.fr/perso/meghyn/teaching.html)
+
+
 === Logic ===
 
 Logic
@@ -184,12 +205,6 @@ From Finite Model Theory & Descriptive Complexity Community
 * [Finite Model Theory Lecture Note](https://www.mimuw.edu.pl/~szymtor/)
 * [Nicole Schweikardt](https://www.informatik.hu-berlin.de/de/forschung/gebiete/loginf/lehre/vorlesung-ausgewaehlte-kapitel-der-logik-klassische-resultate)
 * [Tomas Jakl - Finite Model Theory, Game Comonad, etc](https://tomas.jakl.one/teaching)
-
-From Knowledge Representation & AI Community
-* [IIT Delhi](https://www.youtube.com/playlist?list=PLp6ek2hDcoNB_YJCruBFjhF79f5ZHyBuz)
-* [Eric Pacuit - Modal Logic](https://ai.stanford.edu/~epacuit/classes/modal.html#schedule)
-* [Sebastian Rudolph - Foundations of Knowledge Representation](https://iccl.inf.tu-dresden.de/web/Foundations_of_Knowledge_Representation_(WS2023))
-* [Meghyn Bienvenu](https://www.labri.fr/perso/meghyn/teaching.html)
 
 Optimization
 * [Del Pia](https://sites.google.com/site/albertodelpia/teaching)
