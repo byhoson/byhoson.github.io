@@ -11,3 +11,10 @@ plugins:
   - jekyll-include-cache
   - jekyll/scholar
 google_site_verification: "kcNz6wzABMdevt2Fa2v187Ha-gvX0GFq-jUCtoqdzWg"
+
+# Analytics
+analytics:
+  provider               : "google-gtag"
+  google:
+    tracking_id          : "G-FZR5GZ7SXL"
+    anonymize_ip         : # true, false (default)
