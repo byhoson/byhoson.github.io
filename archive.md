@@ -68,6 +68,7 @@ Satisfiability
 
 Model Checking Tools Tutorials (Spin & NuSMV)
 * [U. Trento](https://disi.unitn.it/trentin/teaching/fm2018/fm2018.html)
+* [Karlsruhe](https://formal.kastel.kit.edu/teaching/FormSys2SoSe2019/03b_SPINBasics.pdf)
 
 Concurrency
 * [Damien Zufferey](https://dzufferey.github.io/concurrency_theory_2019/)
