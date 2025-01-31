@@ -37,7 +37,7 @@ HoTT
 * [Cubical TT](https://github.com/mortberg/cubicaltt/blob/master/lectures/lecture3.ctt)
 
 
-## Automated Resoning & Formal Verification
+## Automated Resoning & Automated Theorem Proving
 ### Term Rewriting & Rewriting Logic
 * [Meseguer](https://courses.engr.illinois.edu/cs576/sp2017/)
 > unification & narrowing
@@ -56,6 +56,13 @@ HoTT
 > In french
 * [U. Innsbruck](http://cl-informatik.uibk.ac.at/teaching/ws13/autres/content.php)
 
+### Satisfiability
+* [Marijn Heule](http://www.cs.cmu.edu/~mheule/15816-f22)
+
+## Formal Verification & Model Checking
+### Formal Verification
+* [Masaryk U.](https://is.muni.cz/el/fi/jaro2020/IA159/um/)
+
 ### Model Checking
 * [Joost Pieter-Katoen](https://www.youtube.com/playlist?list=PLwabKnOFhE38C0o6z_bhlF_uOUlblDTjh)
 * [Michael Blondin](https://info.usherbrooke.ca/mblondin/cours/igl752_a22/) (in French)
@@ -63,8 +70,6 @@ HoTT
 * [Roderick Bloem](https://www.iaik.tugraz.at/course/model-checking-705080-sommersemester-2023/)
 * [UNIUD](https://users.dimi.uniud.it/~angelo.montanari/courses.php)
 
-Satisfiability
-* [Marijn Heule](http://www.cs.cmu.edu/~mheule/15816-f22)
 
 Model Checking Tools Tutorials (Spin & NuSMV)
 * [U. Trento](https://disi.unitn.it/trentin/teaching/fm2018/fm2018.html)
@@ -79,7 +84,7 @@ Program Verification
 * [uni. Freiburg](https://swt.informatik.uni-freiburg.de/teaching/SS2022/program-verification)
 
 
-## Knowledge, Epistemology, Philosophya
+## Knowledge, Epistemology, Philosophy
 (TODO)
 https://sites.pitt.edu/~rbrandom/Courses%201%20c.html
 https://jshaw.net/courses/gradlanguage.html
