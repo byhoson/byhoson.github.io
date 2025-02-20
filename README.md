@@ -39,7 +39,8 @@ Wooseok Kang, **Byoungho Son**, Kihong Heo.\
 [slide](https://prosys.kaist.ac.kr/publications/ccs22-slides.pdf)
 
 ## Teaching
-* (2023 Fall) CSED332, Software Design Methods, POSTECH, TA.
+* (2025 Spring) CSED232, Principles of Software Construction, TA
+* (2023 Fall) CSED332, Software Design Methods, TA
 
 ## Honors
 * (2024) Research Subsidies for Ph.D. Candidates, National Research Foundation of Korea.
