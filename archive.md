@@ -70,10 +70,13 @@ HoTT
 * [Roderick Bloem](https://www.iaik.tugraz.at/course/model-checking-705080-sommersemester-2023/)
 * [UNIUD](https://users.dimi.uniud.it/~angelo.montanari/courses.php)
 
-
-Model Checking Tools Tutorials (Spin & NuSMV)
+### Model Checking Tools Tutorials (Spin & NuSMV)
 * [U. Trento](https://disi.unitn.it/trentin/teaching/fm2018/fm2018.html)
 * [Karlsruhe](https://formal.kastel.kit.edu/teaching/FormSys2SoSe2019/03b_SPINBasics.pdf)
+
+### Model Checking & Machine Leaning & Statistics
+* [Modeling and Verification of Probabilistic Systems, RWTH](https://moves.rwth-aachen.de/teaching/ws-1819/movep18/)
+* [Formal Verification Meets Machine Learning, RWTH](https://moves.rwth-aachen.de/teaching/ws-21-22/fvmml/)
 
 Concurrency
 * [Damien Zufferey](https://dzufferey.github.io/concurrency_theory_2019/)
