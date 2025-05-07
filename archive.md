@@ -82,6 +82,7 @@ Concurrency
 * [Damien Zufferey](https://dzufferey.github.io/concurrency_theory_2019/)
 * [Models of concurrency, categories, and games](http://perso.ens-lyon.fr/pierre.clairambault/enseignement/ccg.html)
 * [Foundations of Concurrency](https://www.cse.unsw.edu.au/~cs3151/22T2/index.html)
+* [Separation Logic course by Benjamin Pierce](https://www.cis.upenn.edu/~bcpierce/courses/6700-SL-2024/current/index.html)
 
 Program Verification
 * [uni. Freiburg](https://swt.informatik.uni-freiburg.de/teaching/SS2022/program-verification)
@@ -220,6 +221,9 @@ Optimization
 
 Latex
 * [Not So Short Intro To Latex](https://tobi.oetiker.ch/lshort/lshort.pdf)
+
+How to write papers?
+* [Benjamin Pierce](https://docs.google.com/document/d/1_vBXbugoLjO171w3wovs3ugmRQI-O6EcSVFDBF7eUzE/edit?tab=t.0)
 
 === Some Articles ===
 * [Deduction Theorem](https://www3.nd.edu/~cfranks/dt.pdf)
