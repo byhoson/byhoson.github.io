@@ -203,6 +203,7 @@ Blockchain
 Software Practice
 * [Steve Tarzia](https://youtube.com/playlist?list=PLWl7jvxH18r0u5VRZsOjhghNXc_Ec4dZz&feature=shared)
 * [Full Stack Web Dev - Riccardo Pucella](https://rpucella.net/courses/webdev-sp24/)
+* [Web Browser Engineering - Pavel Panchekha](https://browser.engineering/)
 
 From Database Theory Community
 * [database theory](https://homepages.inf.ed.ac.uk/apieris/courses/atfd2018/index.html)
