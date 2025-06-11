@@ -13,6 +13,8 @@
 * [Dakshita Khurana](https://courses.grainger.illinois.edu/cs507/sp2023/index.html)
 * [Boaz Barak](https://intensecrypto.org/public/index.html)
 
+### Computer-Aided Cryptography
+* [Marco Gaboardi](https://cs-people.bu.edu/gaboardi/teaching/S24-CS599.html)
 
 
 ## Category Theory
