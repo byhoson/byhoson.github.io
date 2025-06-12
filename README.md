@@ -10,10 +10,11 @@ More about me on [personal](/personal.md).
 
 ## Research Interest
 I am broadly interested in logical foundations and practical applications of formal methods.
-I am particularly interested in formal verification of cryptographic protocols
+I am particularly interested in formal verification of cryptographic protocols.
 * Logic in Computer Science : `Rewriting Logic` / `Formal Semantics`
 * Formal Verification : `Model Checking` / `Automated Reasoning`
 * Computer-Aided Cryptography : `Cryptographic Protocol Analysis`
+(See [here](/archive.md) to get a glimpse of my general interest)
 
 ## Vita
 * (2022 Aug - present) Ph.D. Student in [Computer Science and Engineering](https://cse.postech.ac.kr). POSTECH. 
