@@ -15,7 +15,7 @@
 
 ### Computer-Aided Cryptography
 * [Marco Gaboardi](https://cs-people.bu.edu/gaboardi/teaching/S24-CS599.html)
-
+* [CAPS-Workshop](https://caps-workshop.com/)
 
 ## Category Theory
 ### Institution Theory, Algebraic Specification
