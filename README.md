@@ -48,4 +48,4 @@ Wooseok Kang, **Byoungho Son**, Kihong Heo.\
 * [misc. projects](/project.md)
 
 ## Posts
-[PLDI 2025 trip report](/post/pldi2025.md)
+[PLDI 2025 trip report](/post/pldi2025/report.md)
