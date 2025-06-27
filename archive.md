@@ -158,6 +158,11 @@ Software Analysis
 * [The Fuzzing Book](https://www.fuzzingbook.org/)
 * [The Debugging Book](https://www.debuggingbook.org/)
 * [CMU](https://cmu-program-analysis.github.io/2023/index.html)
+* [Jihyeok Par](https://plrg.korea.ac.kr/courses/aaa705/2024_1/)
+
+Distributed Systems
+* [DSLabs](https://ellismichael.com/dslabs/)
+* [Lindsey Kuper](https://youtube.com/playlist?list=PLNPUF5QyWU8PydLG2cIJrCvnn5I_exhYx&feature=shared)
 
 KAIST
 [KAIST PL](https://pl.kaist.ac.kr/)
