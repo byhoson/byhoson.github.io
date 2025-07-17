@@ -158,7 +158,7 @@ Software Analysis
 * [The Fuzzing Book](https://www.fuzzingbook.org/)
 * [The Debugging Book](https://www.debuggingbook.org/)
 * [CMU](https://cmu-program-analysis.github.io/2023/index.html)
-* [Jihyeok Par](https://plrg.korea.ac.kr/courses/aaa705/2024_1/)
+* [Jihyeok Park](https://plrg.korea.ac.kr/courses/aaa705/2024_1/)
 
 Distributed Systems
 * [DSLabs](https://ellismichael.com/dslabs/)
@@ -168,6 +168,7 @@ KAIST
 [KAIST PL](https://pl.kaist.ac.kr/)
 
 Compiler
+* [Steve Zdancewic](https://www.cis.upenn.edu/~stevez/cis3410/24sp/)
 * [Adrian Sampson](https://www.cs.cornell.edu/courses/cs6120/2022sp/)
 * [Mooly Sagiv](https://www.cs.tau.ac.il//~yotamfe1/courses/wcc20/wcc20.html)
 > Teaching Compilers Backward (from PL Perspective)
