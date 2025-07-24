@@ -1,6 +1,6 @@
 theme: jekyll-theme-minimal
 title: Byoungho Son
-logo: /asset/img/byhoson-photo1.jpg
+logo: /asset/img/byhoson-swandor.jpg
 description: Ph.D student at POSTECH
 plugins:
   - jekyll-paginate
