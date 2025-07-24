@@ -12,19 +12,19 @@
 
 ## Some pics
 <figure>
-<img src="/asset/img/byhoson-swandor" alt="Alt text" width="45%"/>
-<img src="/asset/img/byhoson-hongkong" alt="Alt text" width="45%"/>
+<img src="/asset/img/byhoson-swandor.jpg" alt="Alt text" width="45%"/>
+<img src="/asset/img/byhoson-hongkong.jpg" alt="Alt text" width="45%"/>
 </figure>
 <figure>
-<img src="/asset/img/byhoson-profile" alt="Alt text" width="45%"/>
-<img src="/asset/img/byhoson-soongmoon" alt="Alt text" width="45%"/>
+<img src="/asset/img/byhoson-profile.jpg" alt="Alt text" width="45%"/>
+<img src="/asset/img/byhoson-soongmoon.jpg" alt="Alt text" width="45%"/>
 </figure>
 <figure>
-<img src="/asset/img/byhoson-bistro" alt="Alt text" width="45%"/>
-<img src="/asset/img/byhoson-bankok" alt="Alt text" width="45%"/>
+<img src="/asset/img/byhoson-bistro.jpg" alt="Alt text" width="45%"/>
+<img src="/asset/img/byhoson-bankok.png" alt="Alt text" width="45%"/>
 </figure>
 <figure>
-<img src="/asset/img/byhoson-xiamen" alt="Alt text" width="45%"/>
-<img src="/asset/img/byhoson-pldi" alt="Alt text" width="45%"/>
+<img src="/asset/img/byhoson-xiamen.jpg" alt="Alt text" width="45%"/>
+<img src="/asset/img/byhoson-pldi.jpg" alt="Alt text" width="45%"/>
 </figure>
 
