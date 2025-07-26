@@ -49,6 +49,7 @@ HoTT
 > lecture note in french
 
 ### Automated Theorem Proving
+* [D'Souza](https://www.csa.iisc.ac.in/~deepakd/logic-2025/)
 * [Dillig](https://www.cs.utexas.edu/~isil/cs389L/)
 * [Farinelli](https://profs.scienze.univr.it/~farinelli/courses/ar/ar2010.html)
 > Skolemisation, Herbrand Universe, Resolution, Paramodulation, etc
