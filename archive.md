@@ -1,3 +1,6 @@
+## Thesis
+* [Herbrand, Jacques. Recherches sur la théorie de la démonstration. 1930.](https://eudml.org/doc/192791)
+
 ## Cryptography
 ### Cryptographic Protocols 
 * [Veronique Cortier](https://members.loria.fr/VCortier/files/Teaching/)
