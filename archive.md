@@ -133,13 +133,14 @@ ToC
 
 
 ===== Misc. =====
-Programming Language Theory
+Programming Language
 * [PL Classics](https://www.cis.upenn.edu/~bcpierce/courses/670Fall04/GreatWorksInPL.shtml)
 * [Software Foundations](https://softwarefoundations.cis.upenn.edu/) 
 * [Concrete Semantics](http://www.concrete-semantics.org/index.html)
 * [CPDT](http://adam.chlipala.net/cpdt/)
 * [PLFA](https://plfa.github.io/)
 * [Semantics](https://plv.mpi-sws.org/semantics-course/)
+* [PLAI](https://www.plai.org/)
 
 Lecture Materials
 * [Samuel Mimram](http://www.lix.polytechnique.fr/Labo/Samuel.Mimram/teaching/)
