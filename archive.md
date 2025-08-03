@@ -110,10 +110,12 @@ https://lat.inf.tu-dresden.de/~fernandez/esslli2019/unifDLsCourse.html
 
 ### Knowledge Representation and Reasoning
 * [IIT Delhi](https://www.youtube.com/playlist?list=PLp6ek2hDcoNB_YJCruBFjhF79f5ZHyBuz)
-* [Eric Pacuit - Modal Logic](https://ai.stanford.edu/~epacuit/classes/modal.html#schedule)
 * [Sebastian Rudolph - Foundations of Knowledge Representation](https://iccl.inf.tu-dresden.de/web/Foundations_of_Knowledge_Representation_(WS2023))
 * [Meghyn Bienvenu](https://www.labri.fr/perso/meghyn/teaching.html)
 
+### Modal Logic
+* [Frank Pfenning - Modal Logic](https://www.cs.cmu.edu/~fp/courses/15816-s10/index.html)
+* [Eric Pacuit - Modal Logic](https://ai.stanford.edu/~epacuit/classes/modal.html#schedule)
 
 === Logic ===
 
