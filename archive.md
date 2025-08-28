@@ -34,8 +34,11 @@
 ### Type Theory & Curry-Howard-Lambek Isomorphism & HoTT
 (Dependent) Type Theory
 * [Carlo Angiuli](https://carloangiuli.com/courses/b619-sp24/notes.pdf)
+* [Typechecker-zoo](https://sdiehl.github.io/typechecker-zoo/)
+
 (Category-theoretic) Semantics
 * [Meseguer](https://courses.engr.illinois.edu/cs522/sp2016/)
+
 HoTT
 * [Introduction to Univalent Foundations of Mathematics with Agda](https://www.cs.bham.ac.uk/~mhe/HoTT-UF-in-Agda-Lecture-Notes/HoTT-UF-Agda.html#lecturenotes)
 * [HoTT Course](https://github.com/andrejbauer/homotopy-type-theory-course) (Andrej Bauer)
