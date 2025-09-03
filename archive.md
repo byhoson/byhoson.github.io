@@ -21,6 +21,10 @@
 * [Marco Gaboardi](https://cs-people.bu.edu/gaboardi/teaching/S24-CS599.html)
 * [CAPS-Workshop](https://caps-workshop.com/)
 
+## Quantum
+* [Matt Amy](https://www.cs.sfu.ca/~meamy/Teaching/cmpt476/index.html)
+* [Steven Herbert](https://www.cl.cam.ac.uk/teaching/1920/QuantComp/materials.html)
+
 ## Category Theory
 ### Institution Theory, Algebraic Specification
 * [Tarlecki](https://www.mimuw.edu.pl/~tarlecki/teaching/ct/index.html)
@@ -191,6 +195,7 @@ Cornell
 * [cs6112 - foundations of concurrency](https://www.cs.cornell.edu/courses/cs6112/2011fa/schedule.php)
 * [cs6117 - category theory for computer scientists](https://www.cs.cornell.edu/courses/cs6117/2020sp/)
 * [cs6861 - Introduction to Kleene Algebra](https://www.cs.cornell.edu/courses/cs6861/2024sp/)
+* [cs6156 - runtime verification](https://www.cs.cornell.edu/courses/cs6156/2020fa/)
 
 CMU
 * [Bug Catching: Automated Program Verification](https://www.cs.cmu.edu/~15414/index.html) (Ruben Martins)
