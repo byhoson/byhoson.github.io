@@ -24,6 +24,7 @@
 ## Quantum
 * [Matt Amy](https://www.cs.sfu.ca/~meamy/Teaching/cmpt476/index.html)
 * [Steven Herbert](https://www.cl.cam.ac.uk/teaching/1920/QuantComp/materials.html)
+* [Edinburgh](https://opencourse.inf.ed.ac.uk/iqc/course-materials/schedule)
 
 ## Category Theory
 ### Institution Theory, Algebraic Specification
