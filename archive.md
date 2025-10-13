@@ -21,6 +21,9 @@
 * [Marco Gaboardi](https://cs-people.bu.edu/gaboardi/teaching/S24-CS599.html)
 * [CAPS-Workshop](https://caps-workshop.com/)
 
+### Post-Quantum
+* [Dominique Unruh](https://qis.rwth-aachen.de/teaching/24ws/postquantum-crypto/)
+
 ## Quantum
 * [Matt Amy](https://www.cs.sfu.ca/~meamy/Teaching/cmpt476/index.html)
 * [Steven Herbert](https://www.cl.cam.ac.uk/teaching/1920/QuantComp/materials.html)
