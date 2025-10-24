@@ -16,6 +16,7 @@
 * [Alex Ozdemir](https://crypto.stanford.edu/cs355/23sp/)
 * [Dakshita Khurana](https://courses.grainger.illinois.edu/cs507/sp2023/index.html)
 * [Boaz Barak](https://intensecrypto.org/public/index.html)
+* [Riccardo Pucella](https://www.ccs.neu.edu/home/riccardo/courses/cs6750-fa09/index.html)
 
 ### Computer-Aided Cryptography
 * [Marco Gaboardi](https://cs-people.bu.edu/gaboardi/teaching/S24-CS599.html)
