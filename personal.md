@@ -2,12 +2,45 @@
 * I spent most of my life in [Mapo, Seoul](https://en.wikipedia.org/wiki/Mapo_District).
   Other than that, I have lived in Xiamen(China), Daejeon(Korea), and Pohang(Korea).
 * How to pronounce my name: just put the 'B' sound in front of 'young'!
-* I enjoy language learning, although not active most of the time.
+* I enjoy learning languages, although not active most of the time.
   Besides Korean and English, I tried learning French, Mandarin Chinese, German.
-* My music & movie taste:
-  - **Rock:** Pink Floyd / Radiohead / Tame Impala / Suede / Kino (Viktor Tsoi)
-  - **Bossa Nova:** Tom Jobim / Joao Gilberto
-  - **Movies([Watchapedia](https://pedia.watcha.com/en-KR/users/ld0q02ePgw56X/contents/movies/ratings?type=byStar)):** Vertigo (Hitchcock) / In the Mood for Love (Wong Kar-Wai)
+
+## Top-10s (Unordered)
+### [Movies](https://pedia.watcha.com/en-US/users/ld0q02ePgw56X/contents/movies/ratings?type=byStar)
+- In the Mood for Love (2000, Wong Kar-wai)
+- Vertigo (1958, Alfred Hitchcock)
+- Punch Drunk Love (2002, Paul Thomas Anderson)
+- Les Parapluies de Cherbourg (1964, Jacques Demy)
+- Casablanca (1942, Michael Curtiz)
+- The Florida Project (2017, Sean Baker)
+- Inglourioius Basterds (2009, Quentin Tarantino)
+- Incendies (2010, Denis Villeneuve)
+- Eternal Sunshine of the Spotless Mind (2004, Michel Gondry)
+- Hereditary (2018, Ari Aster)
+
+### Musicians/Bands
+- Tom Jobim
+- Joao Gilberto
+- Radiohead
+- Pink Floyd
+- Tame Impala
+- Suede
+- Kino
+- Nirvana
+- Red Hot Chili Peppers
+- The Cranberries
+
+### Albums
+- Wave (1967, Tom Jobim)
+- Getz/Gilberto (1964, Stan Getz/Joao Gilberto)
+- Wish You Were Here (1975, Pink Floyd)
+- The Dark Side of the Moon (1973, Pink Floyd)
+- Kid A (2000, Radiohead)
+- The Bends (1995, Radiohead)
+- Gruppa Krovi (1988, Kino)
+- Nevermind (1991, Nirvana)
+- Innerspeaker (2010, Tame Impala)
+- Suede (1993, Suede)
 
 
 ## Some pics
