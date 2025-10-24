@@ -32,9 +32,9 @@
 
 ### Albums
 - Wave (1967, Tom Jobim)
+- The Composer of Desafinado, Plays (1963, Tom Jobim)
 - Getz/Gilberto (1964, Stan Getz/Joao Gilberto)
 - Wish You Were Here (1975, Pink Floyd)
-- The Dark Side of the Moon (1973, Pink Floyd)
 - Kid A (2000, Radiohead)
 - The Bends (1995, Radiohead)
 - Gruppa Krovi (1988, Kino)
