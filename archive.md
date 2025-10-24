@@ -20,6 +20,7 @@
 ### Computer-Aided Cryptography
 * [Marco Gaboardi](https://cs-people.bu.edu/gaboardi/teaching/S24-CS599.html)
 * [CAPS-Workshop](https://caps-workshop.com/)
+* [Riccardo Pucella](https://www.ccs.neu.edu/home/riccardo/courses/csg399-sp06/#schedule)
 
 ### Post-Quantum
 * [Dominique Unruh](https://qis.rwth-aachen.de/teaching/24ws/postquantum-crypto/)
