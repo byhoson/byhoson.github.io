@@ -1,6 +1,11 @@
 ## Thesis
 * [Herbrand, Jacques. Recherches sur la théorie de la démonstration. 1930.](https://eudml.org/doc/192791)
 
+## Blogs
+* [Lawrence Paulson](https://lawrencecpaulson.github.io/)
+* [Kihong Heo (in Korean)](https://prosys.kaist.ac.kr/posts/)
+* [Derek Dreyer](https://herrdreyer.wordpress.com/)
+
 ## Cryptography
 ### Cryptographic Protocols 
 * [Veronique Cortier](https://members.loria.fr/VCortier/files/Teaching/)
