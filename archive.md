@@ -79,6 +79,7 @@ HoTT
 
 ### Satisfiability
 * [Marijn Heule](http://www.cs.cmu.edu/~mheule/15816-f22)
+* [Theory & Practice of SMT Solving](https://hanielb.github.io/2024.2-smt/)
 
 ## Formal Verification & Model Checking
 ### Formal Verification
