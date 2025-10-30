@@ -22,6 +22,7 @@
 * [Dakshita Khurana](https://courses.grainger.illinois.edu/cs507/sp2023/index.html)
 * [Boaz Barak](https://intensecrypto.org/public/index.html)
 * [Riccardo Pucella](https://www.ccs.neu.edu/home/riccardo/courses/cs6750-fa09/index.html)
+* [Vipul Goyal](https://www.cs.cmu.edu/~goyal/15356/)
 
 ### Computer-Aided Cryptography
 * [Marco Gaboardi](https://cs-people.bu.edu/gaboardi/teaching/S24-CS599.html)
