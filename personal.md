@@ -5,7 +5,7 @@
 * I enjoy learning languages, although not active most of the time.
   Besides Korean and English, I tried learning French, Mandarin Chinese, German.
 
-## Top-10s (Unordered)
+## Top-10 Favorites (Unordered)
 ### [Movies](https://pedia.watcha.com/en-US/users/ld0q02ePgw56X/contents/movies/ratings?type=byStar)
 - In the Mood for Love (2000, Wong Kar-wai)
 - Vertigo (1958, Alfred Hitchcock)
@@ -16,19 +16,7 @@
 - Inglourioius Basterds (2009, Quentin Tarantino)
 - Incendies (2010, Denis Villeneuve)
 - Eternal Sunshine of the Spotless Mind (2004, Michel Gondry)
-- Hereditary (2018, Ari Aster)
-
-### Musicians/Bands
-- Tom Jobim
-- Joao Gilberto
-- Radiohead
-- Pink Floyd
-- Tame Impala
-- Suede
-- Kino
-- Nirvana
-- Red Hot Chili Peppers
-- The Cranberries
+- Le Rayon vert (1986, Eric Rohmer)
 
 ### Albums
 - Wave (1967, Tom Jobim)
@@ -41,7 +29,6 @@
 - Nevermind (1991, Nirvana)
 - Innerspeaker (2010, Tame Impala)
 - Suede (1993, Suede)
-
 
 ## Some pics
 <figure>
