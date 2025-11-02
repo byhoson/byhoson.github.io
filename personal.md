@@ -11,7 +11,7 @@
 - Vertigo (1958, Alfred Hitchcock)
 - Punch Drunk Love (2002, Paul Thomas Anderson)
 - Les Parapluies de Cherbourg (1964, Jacques Demy)
-- Casablanca (1942, Michael Curtiz)
+- Paris, Texas (1984, Wim Wenders)
 - The Florida Project (2017, Sean Baker)
 - Inglourioius Basterds (2009, Quentin Tarantino)
 - Incendies (2010, Denis Villeneuve)
