@@ -182,6 +182,10 @@ Coq
 Lean
 * [FP & TP in Lean4 (Stanford)](https://web.stanford.edu/class/cs99/)
 
+Rust
+* [Rust Programming - UPenn](https://www.cis.upenn.edu/~cis1905/2024fall/)
+* [Safe System Programming](http://retis.sssup.it/luca/SSP/Old-22/Slides/)
+
 program synthesis
 * [mit 6.S084/6.887 2020](https://people.csail.mit.edu/asolar/SynthesisCourse/index.htm) (Armando Solar-Lezama)
 * [ucsd cse-291](https://github.com/nadia-polikarpova/cse291-program-synthesis/tree/master/lectures) (Nadia Polikarpova)
