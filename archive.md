@@ -5,6 +5,8 @@
 * [Lawrence Paulson](https://lawrencecpaulson.github.io/)
 * [Kihong Heo (in Korean)](https://prosys.kaist.ac.kr/posts/)
 * [Derek Dreyer](https://herrdreyer.wordpress.com/)
+* [PL Enthusiast](http://www.pl-enthusiast.net/)
+* [PL Perspectives](https://blog.sigplan.org/)
 
 ## Cryptography
 ### Cryptographic Protocols 
