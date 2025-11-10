@@ -28,8 +28,11 @@ I am particularly interested in formal verification of cryptographic protocols.
 
 ## Publication
 (See [Google Scholar](https://scholar.google.com/citations?user=KjO0D04AAAAJ&hl=en) / [DBLP](https://dblp.org/pid/332/2908.html)).
+* (VMCAI 2026) A Formal Executable Semantics of PROMELA. (to appear) \
+Byoungho Son and Kyungmin Bae.
+
 * (CCS 2022) TRACER: Signature-based Static Analysis for Detecting Recurring Vulnerabilities. \
-Wooseok Kang, **Byoungho Son**, Kihong Heo.\
+Wooseok Kang, Byoungho Son, Kihong Heo.\
 [pdf](/asset/publications/ccs22.pdf)
 [homepage](https://prosys.kaist.ac.kr/tracer)
 [slide](https://prosys.kaist.ac.kr/publications/ccs22-slides.pdf)
