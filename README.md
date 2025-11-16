@@ -33,13 +33,16 @@ I am particularly interested in formal verification of cryptographic protocols.
 Byoungho Son, Kyungmin Bae \
 International Conference on Verification, Model Checking, and Abstract Interpretation ([VMCAI 2026](https://conf.researchr.org/home/VMCAI-2026))\
 (to appear)
+[[home](https://sv.postech.ac.kr/research/04_promela.html)]
 
 * [TRACER: Signature-based Static Analysis for Detecting Recurring Vulnerabilities](https://dl.acm.org/doi/10.1145/3548606.3560664) \
 Wooseok Kang, Byoungho Son, Kihong Heo\
 ACM Conference on Computer and Communications Security ([CCS 2022](https://www.sigsac.org/ccs/CCS2022/)) \
-[pdf](/asset/publications/ccs22.pdf)
-[homepage](https://prosys.kaist.ac.kr/tracer)
+[
+[pdf](/asset/publications/ccs22.pdf) |
+[home](https://prosys.kaist.ac.kr/tracer) |
 [slide](https://prosys.kaist.ac.kr/publications/ccs22-slides.pdf)
+]
 
 ## Teaching
 * (2025 Spring) CSED232, Principles of Software Construction, TA

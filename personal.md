@@ -4,6 +4,7 @@
 * How to pronounce my name: just put the 'B' sound in front of 'young'!
 * I enjoy learning languages, although not active most of the time.
   Besides Korean and English, I tried learning French, Mandarin Chinese, German.
+  [[Duolingo](https://www.duolingo.com/profile/byhoson)]
 
 ## Top-10 Favorites (Unordered)
 ### [Movies](https://pedia.watcha.com/en-US/users/ld0q02ePgw56X/contents/movies/ratings?type=byStar)
@@ -29,6 +30,18 @@
 - Nevermind (1991, Nirvana)
 - Innerspeaker (2010, Tame Impala)
 - Suede (1993, Suede)
+
+### Songs
+- Meditação - Tom Jobim
+- Triste - Tom Jobim
+- Wave - Tom Jobim
+- It is not meant to be - Tame Impala
+- Pantomime Horse - Suede
+- How to Disappear Completely - Radiohead
+- Fake Plastic Trees - Radiohead
+- Shine On You Crazy Diamond - Pink Floyd
+- Comfortably Numb - Pink Floyd
+- Спокойная ночь - Kino
 
 ## Some pics
 <figure>
