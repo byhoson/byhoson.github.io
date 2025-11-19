@@ -43,6 +43,18 @@
 - Comfortably Numb - Pink Floyd
 - Спокойная ночь - Kino
 
+### Quotes
+- ["Beauty is our business." - E.W. Dijkstra](https://quotefancy.com/quote/1164259/Edsger-W-Dijkstra-Beauty-is-our-business)
+- ["A monad is just a monoid in the category of endofunctors, what's the problem?" - Philip Wadler](https://james-iry.blogspot.com/2009/05/brief-incomplete-and-mostly-wrong.html)
+- ["But gravity always wins" - In: Fake Plastic Trees](https://genius.com/Radiohead-fake-plastic-trees-lyrics)
+- ["The death of childhood is the beginning of poetry." - Andrei Tarkovsky](https://www.goodreads.com/quotes/10043597-the-death-of-childhood-is-the-beginning-of-poetry)
+- ["Between grief and nothing, I will take grief." - William Faulkner](https://www.goodreads.com/quotes/442351-between-grief-and-nothing-i-will-take-grief)
+- ["the most difficult and challenging thing about directing a film was getting out of the car."](https://www.youtube.com/watch?v=3p1T3sVX4EY)
+- ["Permit yourself to open a book and start reading from anywhere." — Manuel Blum](https://www.cs.cmu.edu/~mblum/research/pdf/grad.html)
+- ?
+- ?
+- ?
+
 ## Some pics
 <figure>
 <img src="/asset/img/byhoson-swandor.jpg" alt="Alt text" width="45%"/>
