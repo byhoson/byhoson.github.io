@@ -3,7 +3,7 @@ My name is Byoungho. I am currently a Ph.D student at POSTECH.
 I study formal methods at Software Verification Lab, advised by Kyungmin Bae.
 More about me on [personal](/personal.md).
 
-### Info
+### Byoungho Son (손병호, 孫秉浩)
 * email: byhoson at postech dot ac dot kr
 * address: (77 Cheongam-Ro, Nam-Gu, Pohang, Gyeongbuk, Korea 37673) POSTECH B2 204
 * [cv](/asset/cv.pdf) / [orcid](https://orcid.org/0000-0001-6482-1789) / [google scholar](https://scholar.google.com/citations?user=KjO0D04AAAAJ&hl=en) 
@@ -30,13 +30,13 @@ I am particularly interested in formal verification of cryptographic protocols.
 (See [Google Scholar](https://scholar.google.com/citations?user=KjO0D04AAAAJ&hl=en) / [DBLP](https://dblp.org/pid/332/2908.html)).
 
 * [A Formal Executable Semantics of PROMELA](/#) \
-Byoungho Son, Kyungmin Bae \
+<u>Byoungho Son</u>, Kyungmin Bae \
 International Conference on Verification, Model Checking, and Abstract Interpretation ([VMCAI 2026](https://conf.researchr.org/home/VMCAI-2026))\
 (to appear)
 [[home](https://sv.postech.ac.kr/research/04_promela.html)]
 
 * [TRACER: Signature-based Static Analysis for Detecting Recurring Vulnerabilities](https://dl.acm.org/doi/10.1145/3548606.3560664) \
-Wooseok Kang, Byoungho Son, Kihong Heo\
+Wooseok Kang, <u>Byoungho Son</u>, Kihong Heo\
 ACM Conference on Computer and Communications Security ([CCS 2022](https://www.sigsac.org/ccs/CCS2022/)) \
 [
 [pdf](/asset/publications/ccs22.pdf) |
