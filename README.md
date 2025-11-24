@@ -1,22 +1,22 @@
 Hello, there!
 My name is Byoungho. I am currently a Ph.D student at POSTECH. 
-I study formal methods at [Software Verification Lab](https://sv.postech.ac.kr/), 
+I study formal verification at [Software Verification Lab](https://sv.postech.ac.kr/), 
 advised by [Kyungmin Bae](https://sv.postech.ac.kr/kmbae/).
 More about me on [personal](/personal.md).
 
 ### Byoungho Son 
-* 손병호, 孫秉浩, 孙秉浩, Бёнхо Сон
+* 손병호 | 孫秉浩 |  孙秉浩 | Бёнхо Сон
 * email: byhoson at postech dot ac dot kr
 * address: (77 Cheongam-Ro, Nam-Gu, Pohang, Gyeongbuk, Korea 37673) POSTECH B2 204
 * [cv](/asset/cv.pdf) / [orcid](https://orcid.org/0000-0001-6482-1789) / [google scholar](https://scholar.google.com/citations?user=KjO0D04AAAAJ&hl=en) 
 
 ## Research Interest
-I am broadly interested in logical foundations and practical applications of formal methods.
+I am broadly interested in formal verification techniques, from logical foundations to practical applications.
 I am particularly interested in formal verification of cryptographic protocols.
 (See [here](/archive.md) to get a glimpse of my general interest)
-* Logic in Computer Science : `Rewriting Logic` / `Formal Semantics`
-* Formal Verification : `Model Checking` / `Automated Reasoning`
-* Computer-Aided Cryptography : `Cryptographic Protocol Analysis`
+* Specification : `Rewriting Logic` / `Formal Semantics`
+* Verification : `Model Checking` / `Automated Reasoning`
+* Application : `Cryptographic Protocol Analysis`
 
 ## Vita
 * (2022 Aug - present) Ph.D. Student in [Computer Science and Engineering](https://cse.postech.ac.kr). POSTECH. 
@@ -35,7 +35,10 @@ I am particularly interested in formal verification of cryptographic protocols.
 <u>Byoungho Son</u>, Kyungmin Bae \
 International Conference on Verification, Model Checking, and Abstract Interpretation ([VMCAI 2026](https://conf.researchr.org/home/VMCAI-2026))\
 (to appear)
-[[home](https://sv.postech.ac.kr/research/04_promela.html) | [code](https://github.com/postechsv/spink)]
+[
+[home](https://sv.postech.ac.kr/research/04_promela.html) |
+[code](https://github.com/postechsv/spink)
+]
 
 * [TRACER: Signature-based Static Analysis for Detecting Recurring Vulnerabilities](https://dl.acm.org/doi/10.1145/3548606.3560664) \
 Wooseok Kang, <u>Byoungho Son</u>, Kihong Heo\

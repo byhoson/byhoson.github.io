@@ -65,6 +65,8 @@ HoTT
 * [Intro to HoTT](https://www.andrew.cmu.edu/user/erijke/hott/) (Egbert Rijke)
 * [Cubical TT](https://github.com/mortberg/cubicaltt/blob/master/lectures/lecture3.ctt)
 
+### Programming
+* [Category Theory for Programming](https://arxiv.org/abs/2209.01259)
 
 ## Automated Resoning & Automated Theorem Proving
 ### Term Rewriting & Rewriting Logic
