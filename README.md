@@ -5,7 +5,7 @@ advised by [Kyungmin Bae](https://sv.postech.ac.kr/kmbae/).
 More about me on [personal](/personal.md).
 
 ### Byoungho Son 
-* 손병호 | 孫秉浩 |  孙秉浩 | Бёнхо Сон
+* 손병호 / 孫秉浩 /  孙秉浩 / Бёнхо Сон
 * email: byhoson at postech dot ac dot kr
 * address: (77 Cheongam-Ro, Nam-Gu, Pohang, Gyeongbuk, Korea 37673) POSTECH B2 204
 * [cv](/asset/cv.pdf) / [orcid](https://orcid.org/0000-0001-6482-1789) / [google scholar](https://scholar.google.com/citations?user=KjO0D04AAAAJ&hl=en) 
