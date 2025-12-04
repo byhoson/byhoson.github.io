@@ -255,6 +255,9 @@ Software Practice
 * [Full Stack Web Dev - Riccardo Pucella](https://rpucella.net/courses/webdev-sp24/)
 * [Web Browser Engineering - Pavel Panchekha](https://browser.engineering/)
 
+Multi Agent Systems / Game Theory
+* [Kate Larson](https://cs.uwaterloo.ca/~klarson/teaching/F16-886/schedule.html)
+
 From Database Theory Community
 * [database theory](https://homepages.inf.ed.ac.uk/apieris/courses/atfd2018/index.html)
 * [Database Theory Book](https://github.com/pdm-book/community)
