@@ -107,7 +107,7 @@ HoTT
 * [U. Trento](https://disi.unitn.it/trentin/teaching/fm2018/fm2018.html)
 * [Karlsruhe](https://formal.kastel.kit.edu/teaching/FormSys2SoSe2019/03b_SPINBasics.pdf)
 
-### Model Checking & Machine Leaning & Statistics
+### Model Checking & Machine Learning & Statistics
 * [Modeling and Verification of Probabilistic Systems, RWTH](https://moves.rwth-aachen.de/teaching/ws-1819/movep18/)
 * [Formal Verification Meets Machine Learning, RWTH](https://moves.rwth-aachen.de/teaching/ws-21-22/fvmml/)
 
@@ -120,6 +120,8 @@ Concurrency
 Program Verification
 * [uni. Freiburg](https://swt.informatik.uni-freiburg.de/teaching/SS2022/program-verification)
 
+Systems Verification
+* [Tej Chajed](https://tchajed.github.io/sys-verif-fa25/)
 
 ## Knowledge, Epistemology, Philosophy
 (TODO)
@@ -185,6 +187,7 @@ Coq
 
 Lean
 * [FP & TP in Lean4 (Stanford)](https://web.stanford.edu/class/cs99/)
+* [Harry Goldstein](https://www.youtube.com/watch?v=c5LOYzZx-0c)
 
 Rust
 * [Rust Programming - UPenn](https://www.cis.upenn.edu/~cis1905/2024fall/)
