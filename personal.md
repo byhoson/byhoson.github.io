@@ -48,11 +48,11 @@
 - ["A monad is just a monoid in the category of endofunctors, what's the problem?" - Philip Wadler](https://james-iry.blogspot.com/2009/05/brief-incomplete-and-mostly-wrong.html)
 - ["All things are poison, and nothing is without poison; the dosage alone makes it so a thing is not a poison." - Paracelsus](https://en.wikipedia.org/wiki/The_dose_makes_the_poison)
 - ["The death of childhood is the beginning of poetry." - Andrei Tarkovsky](https://www.goodreads.com/quotes/10043597-the-death-of-childhood-is-the-beginning-of-poetry)
-- ["Between grief and nothing, I will take grief." - William Faulkner](https://www.goodreads.com/quotes/442351-between-grief-and-nothing-i-will-take-grief)
+- ["Your existence was the crime, life is your punishment" - Dostoevsky](https://www.instagram.com/reels/DQHnvNFD_Ku/)
 - ["The most difficult and challenging thing about directing a film was getting out of the car." - Stanley Kubrick / Steven Spielberg](https://www.youtube.com/watch?v=3p1T3sVX4EY)
 - ["Permit yourself to open a book and start reading from anywhere." - Manuel Blum](https://www.cs.cmu.edu/~mblum/research/pdf/grad.html)
 - ["The literal meaning of life is whatever you're doing that prevents you from killing yourself." - Albert Camus](https://www.goodreads.com/quotes/7699175-the-literal-meaning-of-life-is-whatever-you-re-doing-that)
-- ["Life swings like a pendulum backward and forward between pain and boredom." - Arthur Schopenhauer](https://www.goodreads.com/quotes/671382-life-swings-like-a-pendulum-backward-and-forward-between-pain)
+- ["Love is eternal for as long as it lasts" - Vinicius de Moraes](https://www.goodreads.com/quotes/328936-love-is-eternal-for-as-long-as-it-lasts#:~:text=Vinicius%20de%20Moraes%20%E2%80%94%20'Love%20is%20eternal%20for%20as%20long%20as%20it%20lasts.')
 - ["'snow is white' is true if and only if snow is white" - Alfred Tarski](https://en.wikipedia.org/wiki/Semantic_theory_of_truth)
 
 ## Some pics
