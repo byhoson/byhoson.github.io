@@ -1,11 +1,11 @@
+## About
 Hello, there!
 My name is Byoungho. I am currently a Ph.D student at POSTECH. 
 I study formal verification at [Software Verification Lab](https://sv.postech.ac.kr/), 
 advised by [Kyungmin Bae](https://sv.postech.ac.kr/kmbae/).
 More about me on [personal](/personal.md).
 
-### Byoungho Son 
-* 손병호 / 孫秉浩 /  孙秉浩 / Бёнхо Сон
+* name: Byoungho Son / 손병호 / 孫秉浩 /  孙秉浩 / Бёнхо Сон
 * email: byhoson at postech dot ac dot kr
 * address: (77 Cheongam-Ro, Nam-Gu, Pohang, Gyeongbuk, Korea 37673) POSTECH B2 204
 * [cv](/asset/cv.pdf) / [orcid](https://orcid.org/0000-0001-6482-1789) / [google scholar](https://scholar.google.com/citations?user=KjO0D04AAAAJ&hl=en) 
@@ -36,8 +36,10 @@ I am particularly interested in formal verification of cryptographic protocols.
 International Conference on Verification, Model Checking, and Abstract Interpretation ([VMCAI 2026](https://conf.researchr.org/home/VMCAI-2026))\
 (to appear)
 [
+[pdf](/#) |
 [home](https://sv.postech.ac.kr/research/04_promela.html) |
-[code](https://github.com/postechsv/spink)
+[code](https://github.com/postechsv/spink) |
+[slide](/#)
 ]
 
 * [TRACER: Signature-based Static Analysis for Detecting Recurring Vulnerabilities](https://dl.acm.org/doi/10.1145/3548606.3560664) \
@@ -57,10 +59,8 @@ ACM Conference on Computer and Communications Security ([CCS 2022](https://www.s
 * (2024) Research Subsidies for Ph.D. Candidates, National Research Foundation of Korea.
 * (2018) Albatross Scholarship, Sogang University.
 
-## Links
+## Miscellaneous
 * [useful materials](/archive.md)
 * [personal](/personal.md)
-* [misc. projects](/project.md)
-
-## Posts
-* [PLDI 2025 trip report](/post/pldi2025/report.md)
+* [past projects](/project.md)
+* [posts](/post.md)
