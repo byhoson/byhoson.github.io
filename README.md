@@ -32,7 +32,7 @@ I am particularly interested in formal verification of cryptographic protocols.
 (See [Google Scholar](https://scholar.google.com/citations?user=KjO0D04AAAAJ&hl=en) / [DBLP](https://dblp.org/pid/332/2908.html)).
 
 * [A Formal Executable Semantics of PROMELA](/#) \
-🏆 Distinguished Paper Award \
+🏆 **Distinguished Paper Award** \
 <u>Byoungho Son</u>, Kyungmin Bae \
 International Conference on Verification, Model Checking, and Abstract Interpretation ([VMCAI 2026](https://conf.researchr.org/home/VMCAI-2026))\
 (to appear)
