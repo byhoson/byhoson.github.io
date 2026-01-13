@@ -39,7 +39,7 @@ International Conference on Verification, Model Checking, and Abstract Interpret
 [pdf](/#) |
 [home](https://sv.postech.ac.kr/research/04_promela.html) |
 [code](https://github.com/postechsv/spink) |
-[slide](/#)
+[slide](/slides/vmcai26.pdf)
 ]
 
 * [TRACER: Signature-based Static Analysis for Detecting Recurring Vulnerabilities](https://dl.acm.org/doi/10.1145/3548606.3560664) \
