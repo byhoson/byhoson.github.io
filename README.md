@@ -32,6 +32,7 @@ I am particularly interested in formal verification of cryptographic protocols.
 (See [Google Scholar](https://scholar.google.com/citations?user=KjO0D04AAAAJ&hl=en) / [DBLP](https://dblp.org/pid/332/2908.html)).
 
 * [A Formal Executable Semantics of PROMELA](/#) \
+🏆 Distinguished Paper Award \
 <u>Byoungho Son</u>, Kyungmin Bae \
 International Conference on Verification, Model Checking, and Abstract Interpretation ([VMCAI 2026](https://conf.researchr.org/home/VMCAI-2026))\
 (to appear)
@@ -55,7 +56,8 @@ ACM Conference on Computer and Communications Security ([CCS 2022](https://www.s
 * (2025 Spring) CSED232, Principles of Software Construction, TA
 * (2023 Fall) CSED332, Software Design Methods, TA
 
-## Honors
+## Awards & Scholarships
+* (2026) Distinguished Paper Award, VMCAI 2026
 * (2024) Research Subsidies for Ph.D. Candidates, National Research Foundation of Korea.
 * (2018) Albatross Scholarship, Sogang University.
 
