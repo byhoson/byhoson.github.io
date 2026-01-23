@@ -33,9 +33,8 @@ I am particularly interested in formal verification of cryptographic protocols.
 🏆 **Distinguished Paper Award** \
 <u>Byoungho Son</u>, Kyungmin Bae \
 International Conference on Verification, Model Checking, and Abstract Interpretation ([VMCAI 2026](https://conf.researchr.org/home/VMCAI-2026))\
-(to appear)
 [
-[pdf](https://link.springer.com/content/pdf/10.1007/978-3-032-15700-3_16.pdf?pdf=inline%20link) |
+pdf |
 [home](https://sv.postech.ac.kr/research/04_promela.html) |
 [code](https://github.com/postechsv/spink) |
 [slide](/slides/vmcai26.pdf)
@@ -60,7 +59,7 @@ ACM Conference on Computer and Communications Security ([CCS 2022](https://www.s
 * (2018) Albatross Scholarship, Sogang University.
 
 ## Miscellaneous
-* [useful materials](/archive.md)
 * [personal](/personal.md)
+* [useful materials](/archive.md)
 * [past projects](/project.md)
 * [posts](/post.md)
