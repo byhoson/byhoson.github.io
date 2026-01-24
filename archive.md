@@ -8,7 +8,7 @@
 * [PL Enthusiast](http://www.pl-enthusiast.net/)
 * [PL Perspectives](https://blog.sigplan.org/)
 
-## Cryptography
+## Cryptography & Security
 ### Cryptographic Protocols 
 * [Veronique Cortier](https://members.loria.fr/VCortier/files/Teaching/)
 * [MPRI](https://members.loria.fr/SKremer/files/poly-mpri-2-30-draft.pdf)
@@ -34,6 +34,9 @@
 
 ### Post-Quantum
 * [Dominique Unruh](https://qis.rwth-aachen.de/teaching/24ws/postquantum-crypto/)
+
+### Security & Privacy
+* [Software Foundations of Security & Privacy](https://15316-cmu.github.io/2024/index.html)
 
 ## Quantum
 * [Matt Amy](https://www.cs.sfu.ca/~meamy/Teaching/cmpt476/index.html)
