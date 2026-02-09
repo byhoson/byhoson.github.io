@@ -1,6 +1,6 @@
 ## About
 Hello, there!
-My name is Byoungho. I am currently a Ph.D student at POSTECH. 
+My name is Byoungho (pronounced "Bee-Young-Ho"). I am currently a Ph.D student at POSTECH. 
 I study formal verification at [Software Verification Lab](https://sv.postech.ac.kr/), 
 advised by [Kyungmin Bae](https://sv.postech.ac.kr/kmbae/).
 
