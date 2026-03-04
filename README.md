@@ -53,9 +53,10 @@ ACM Conference on Computer and Communications Security ([CCS 2022](https://www.s
 * (2025 Spring) CSED232, Principles of Software Construction, TA
 * (2023 Fall) CSED332, Software Design Methods, TA
 
-## Awards & Scholarships
-* (2026) Distinguished Paper Award, VMCAI 2026
+## Honors & Awards
+* (2026) Distinguished Paper Award, VMCAI 2026.
 * (2024) Research Subsidies for Ph.D. Candidates, National Research Foundation of Korea.
+* (2022) Magna Cum Laude, Sogang University.
 * (2018) Albatross Scholarship, Sogang University.
 
 ## Miscellaneous
