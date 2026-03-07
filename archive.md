@@ -70,6 +70,7 @@ HoTT
 
 ### Programming
 * [Category Theory for Programming](https://arxiv.org/abs/2209.01259)
+* [Category Theory for Computer Scientists](https://nguyentito.eu/categories.html)
 
 ## Automated Resoning & Automated Theorem Proving
 ### Term Rewriting & Rewriting Logic
@@ -115,6 +116,7 @@ HoTT
 * [Formal Verification Meets Machine Learning, RWTH](https://moves.rwth-aachen.de/teaching/ws-21-22/fvmml/)
 
 Concurrency
+* [Meseguer](https://courses.grainger.illinois.edu/cs524/fa2020/)
 * [Damien Zufferey](https://dzufferey.github.io/concurrency_theory_2019/)
 * [Models of concurrency, categories, and games](http://perso.ens-lyon.fr/pierre.clairambault/enseignement/ccg.html)
 * [Foundations of Concurrency](https://www.cse.unsw.edu.au/~cs3151/22T2/index.html)

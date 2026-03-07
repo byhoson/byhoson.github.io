@@ -1,6 +1,6 @@
 ## About
 Hello, there!
-My name is Byoungho (pronounced "Bee-Young-Ho"). I am currently a Ph.D student at POSTECH. 
+My name is Byoungho (pronounced "Bee-Young-Ho"). I am currently a Ph.D. student at POSTECH. 
 I study formal verification at [Software Verification Lab](https://sv.postech.ac.kr/), 
 advised by [Kyungmin Bae](https://sv.postech.ac.kr/kmbae/).
 
@@ -12,7 +12,7 @@ advised by [Kyungmin Bae](https://sv.postech.ac.kr/kmbae/).
 ## Research Interest
 I am broadly interested in formal verification techniques, from logical foundations to practical applications.
 I am particularly interested in formal verification of cryptographic protocols.
-* Specification : `Rewriting Logic` / `Formal Semantics`
+* Foundation : `Rewriting Logic` / `Formal Semantics`
 * Verification : `Model Checking` / `Automated Reasoning`
 * Application : `Cryptographic Protocol Analysis`
 
