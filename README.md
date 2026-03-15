@@ -34,7 +34,7 @@ I am particularly interested in formal verification of cryptographic protocols.
 <u>Byoungho Son</u>, Kyungmin Bae \
 International Conference on Verification, Model Checking, and Abstract Interpretation ([VMCAI 2026](https://conf.researchr.org/home/VMCAI-2026))\
 [
-pdf |
+[pdf](/asset/publications/vmcai26.pdf) |
 [home](https://sv.postech.ac.kr/research/04_promela.html) |
 [code](https://github.com/postechsv/spink) |
 [slide](/slides/vmcai26.pdf)
