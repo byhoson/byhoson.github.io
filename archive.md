@@ -1,3 +1,5 @@
+# Study Materials
+
 ## Thesis
 * [Herbrand, Jacques. Recherches sur la théorie de la démonstration. 1930.](https://eudml.org/doc/192791)
 
@@ -33,12 +35,14 @@
 * [Tamarin Book](https://tamarin-prover.com/book/index.html)
 
 ### Post-Quantum
-* [Dominique Unruh](https://qis.rwth-aachen.de/teaching/24ws/postquantum-crypto/)
+* [Dominique Unruh](https://qis.rwth-aachen.de/teaching/25ws/postquantum-crypto/)
+* [Vinod](https://people.csail.mit.edu/vinodv/CS294/)
 
 ### Security & Privacy
 * [Software Foundations of Security & Privacy](https://15316-cmu.github.io/2024/index.html)
 
 ## Quantum
+* [Dominique Unruh](https://qis.rwth-aachen.de/teaching/25ss/intro-quantum-computing/)
 * [Matt Amy](https://www.cs.sfu.ca/~meamy/Teaching/cmpt476/index.html)
 * [Steven Herbert](https://www.cl.cam.ac.uk/teaching/1920/QuantComp/materials.html)
 * [Edinburgh](https://opencourse.inf.ed.ac.uk/iqc/course-materials/schedule)
