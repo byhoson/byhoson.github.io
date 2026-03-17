@@ -36,7 +36,10 @@
 
 ### Post-Quantum
 * [Dominique Unruh](https://qis.rwth-aachen.de/teaching/25ws/postquantum-crypto/)
+
+#### Lattice-based
 * [Vinod](https://people.csail.mit.edu/vinodv/CS294/)
+* [UoT](https://www.cs.toronto.edu/~akshayaram/CSC2419_Fall25.html)
 
 ### Security & Privacy
 * [Software Foundations of Security & Privacy](https://15316-cmu.github.io/2024/index.html)
