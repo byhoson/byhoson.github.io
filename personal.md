@@ -44,16 +44,16 @@
 - Спокойная ночь - Kino
 
 ### Quotes
-- ["Beauty is our business." - E.W. Dijkstra](https://quotefancy.com/quote/1164259/Edsger-W-Dijkstra-Beauty-is-our-business)
+- "Beauty is our business." - E.W. Dijkstra
 - ["A monad is just a monoid in the category of endofunctors, what's the problem?" - Philip Wadler](https://james-iry.blogspot.com/2009/05/brief-incomplete-and-mostly-wrong.html)
 - ["All things are poison, and nothing is without poison; the dosage alone makes it so a thing is not a poison." - Paracelsus](https://en.wikipedia.org/wiki/The_dose_makes_the_poison)
-- ["The death of childhood is the beginning of poetry." - Andrei Tarkovsky](https://www.goodreads.com/quotes/10043597-the-death-of-childhood-is-the-beginning-of-poetry)
-- ["Your existence was the crime, life is your punishment" - Dostoevsky](https://www.instagram.com/reels/DQHnvNFD_Ku/)
+- "The death of childhood is the beginning of poetry."
+- "A picture is the expression of an impression" - Ernst Hass
 - ["The most difficult and challenging thing about directing a film was getting out of the car." - Stanley Kubrick / Steven Spielberg](https://www.youtube.com/watch?v=3p1T3sVX4EY)
 - ["Permit yourself to open a book and start reading from anywhere." - Manuel Blum](https://www.cs.cmu.edu/~mblum/research/pdf/grad.html)
-- ["The literal meaning of life is whatever you're doing that prevents you from killing yourself." - Albert Camus](https://www.goodreads.com/quotes/7699175-the-literal-meaning-of-life-is-whatever-you-re-doing-that)
-- ["Love is eternal for as long as it lasts" - Vinicius de Moraes](https://www.goodreads.com/quotes/328936-love-is-eternal-for-as-long-as-it-lasts#:~:text=Vinicius%20de%20Moraes%20%E2%80%94%20'Love%20is%20eternal%20for%20as%20long%20as%20it%20lasts.')
-- ["Remember, kids, the only difference between screwing around and science is writing it down" - adam savage](https://infosec.exchange/@codinghorror/113301377565808084)
+- "The literal meaning of life is whatever you're doing that prevents you from killing yourself." - Albert Camus
+- "Love is eternal for as long as it lasts" - Vinicius de Moraes
+- "Remember, kids, the only difference between screwing around and science is writing it down" - Adam Savage
 
 ## Some pics
 <figure>
