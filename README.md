@@ -13,7 +13,7 @@ advised by [Kyungmin Bae](https://sv.postech.ac.kr/kmbae/).
 I am broadly interested in formal verification techniques, from logical foundations to practical applications.
 I am particularly interested in formal verification of cryptographic protocols.
 * Foundation : [`Rewriting Logic`](https://www.sciencedirect.com/science/article/pii/S1567832612000707) / [`Algebraic Specification`](https://en.wikipedia.org/wiki/Algebraic_specification)
-* Verification : `Model Checking` / `Automated Reasoning`
+* Verification : `(Automated and/or Interactive) Theorem Proving`
 * Application : [`Cryptographic Protocol Analysis`](https://eprint.iacr.org/2019/1393)
 
 ## Vita

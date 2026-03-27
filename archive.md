@@ -55,6 +55,7 @@
 ### Institution Theory, Algebraic Specification
 * [Tarlecki](https://www.mimuw.edu.pl/~tarlecki/teaching/ct/index.html)
 * [Foundations of Algebraic Specification and Formal Software Develpment](https://www.mimuw.edu.pl/~tarlecki/teaching/ct/papers/chaps1234.pdf)
+* [Theorem Proving and Algebra - Goguen](https://arxiv.org/abs/2101.02690)
 * [Institution Independent Model Theory](https://rdiaconescu.weebly.com/the-book-institution-independent-model-theory.html)
 * [Tutorial on Institution Theory](http://imar.ro/~diacon/InsTut.html)
 
