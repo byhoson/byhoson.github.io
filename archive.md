@@ -54,6 +54,7 @@
 ## Category Theory
 ### Institution Theory, Algebraic Specification
 * [Tarlecki](https://www.mimuw.edu.pl/~tarlecki/teaching/ct/index.html)
+* [Foundations of Algebraic Specification and Formal Software Develpment](https://www.mimuw.edu.pl/~tarlecki/teaching/ct/papers/chaps1234.pdf)
 * [Institution Independent Model Theory](https://rdiaconescu.weebly.com/the-book-institution-independent-model-theory.html)
 * [Tutorial on Institution Theory](http://imar.ro/~diacon/InsTut.html)
 
@@ -113,6 +114,9 @@ HoTT
 * [TUM](https://www.cs.cit.tum.de/en/tcs/lehre/ss22/model-checking/)
 * [Roderick Bloem](https://www.iaik.tugraz.at/course/model-checking-705080-sommersemester-2023/)
 * [UNIUD](https://users.dimi.uniud.it/~angelo.montanari/courses.php)
+
+### Temporal Logic
+* [Michael Fisher](https://intranet.csc.liv.ac.uk/~michael/TLBook/)
 
 ### Model Checking Tools Tutorials (Spin & NuSMV)
 * [U. Trento](https://disi.unitn.it/trentin/teaching/fm2018/fm2018.html)

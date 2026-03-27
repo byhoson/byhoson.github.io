@@ -12,9 +12,9 @@ advised by [Kyungmin Bae](https://sv.postech.ac.kr/kmbae/).
 ## Research Interest
 I am broadly interested in formal verification techniques, from logical foundations to practical applications.
 I am particularly interested in formal verification of cryptographic protocols.
-* Foundation : `Rewriting Logic` / `Formal Semantics`
+* Foundation : [`Rewriting Logic`](https://www.sciencedirect.com/science/article/pii/S1567832612000707) / [`Algebraic Specification`](https://en.wikipedia.org/wiki/Algebraic_specification)
 * Verification : `Model Checking` / `Automated Reasoning`
-* Application : `Cryptographic Protocol Analysis`
+* Application : [`Cryptographic Protocol Analysis`](https://eprint.iacr.org/2019/1393)
 
 ## Vita
 * (2022 Aug - present) Ph.D. Student in [Computer Science and Engineering](https://cse.postech.ac.kr). POSTECH. 
