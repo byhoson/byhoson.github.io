@@ -140,6 +140,9 @@ Program Verification
 Systems Verification
 * [Tej Chajed](https://tchajed.github.io/sys-verif-fa25/)
 
+Automata Theory
+* [Esparza & Blondin](https://michaelblondin.com/automata/)
+
 ## Knowledge, Epistemology, Philosophy
 (TODO)
 https://sites.pitt.edu/~rbrandom/Courses%201%20c.html
