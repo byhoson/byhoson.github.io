@@ -167,6 +167,10 @@ https://lat.inf.tu-dresden.de/~fernandez/esslli2019/unifDLsCourse.html
 
 === Logic ===
 
+Model theory
+* [Bodirsky](https://wwwpub.zih.tu-dresden.de/~bodirsky/Model-theory.pdf)
+* [Excursions in model theory](https://math.uchicago.edu/~may/REU2016/REUPapers/DeOliveira.pdf)
+
 Logic
 * [TUM](https://www.cs.cit.tum.de/en/tcs/lehre/sommersemester-2023/logic/)
 * [Bodirsky Lecture Note](https://wwwpub.zih.tu-dresden.de/~bodirsky/Logic.pdf)
