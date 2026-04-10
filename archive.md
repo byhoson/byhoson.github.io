@@ -221,12 +221,14 @@ program synthesis
 * [mit 6.S084/6.887 2020](https://people.csail.mit.edu/asolar/SynthesisCourse/index.htm) (Armando Solar-Lezama)
 * [ucsd cse-291](https://github.com/nadia-polikarpova/cse291-program-synthesis/tree/master/lectures) (Nadia Polikarpova)
 
-Software Analysis
+Software Analysis & Testing
 * [Mayur Naik](https://software-analysis-class.org/)
 * [The Fuzzing Book](https://www.fuzzingbook.org/)
 * [The Debugging Book](https://www.debuggingbook.org/)
 * [CMU](https://cmu-program-analysis.github.io/2023/index.html)
 * [Jihyeok Park](https://plrg.korea.ac.kr/courses/aaa705/2024_1/)
+* [Shin Yoo](https://coinse.github.io/teaching/2026/cs453/)
+* [Moonzoo Kim](https://swtv.kaist.ac.kr/courses/)
 
 Distributed Systems
 * [DSLabs](https://ellismichael.com/dslabs/)
@@ -262,6 +264,7 @@ OS
 * [MIT 6.826 Principles of Computer Systems](https://6826.csail.mit.edu/2020/) Nickolai Zeldovich
 * [Yale](https://flint.cs.yale.edu/cs422/) Zhong Shao (Lab: CertikOS)
 * [OS Dev Wiki](https://wiki.osdev.org/Main_Page)
+* [curtsinger](https://curtsinger.cs.grinnell.edu/teaching/)
 
 Deep Learning
 * [Foundations of Deep Learning](http://www.cs.umd.edu/class/fall2020/cmsc828W/) (Soheil Feizi)
