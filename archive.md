@@ -1,5 +1,8 @@
 # Study Materials
 
+## General
+* [MPRI courses list](https://mpri-master.ens.fr/doku.php?id=start#cours2)
+
 ## Thesis
 * [Herbrand, Jacques. Recherches sur la théorie de la démonstration. 1930.](https://eudml.org/doc/192791)
 
