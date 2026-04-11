@@ -13,9 +13,10 @@
 ## Cryptography & Security
 ### Cryptographic Protocols 
 * [Veronique Cortier](https://members.loria.fr/VCortier/files/Teaching/)
-* [MPRI](https://members.loria.fr/SKremer/files/poly-mpri-2-30-draft.pdf)
+* [MPRI lecture note](https://members.loria.fr/SKremer/files/poly-mpri-2-30-draft.pdf)
 * [Berry Schoenmakers](https://www.win.tue.nl/~berry/)
-* [MPRI2](https://wikimpri.dptinfo.ens-paris-saclay.fr/doku.php?id=cours:c-2-30)
+* [MPRI - Preuves de protocoles de sécurité (Blanchet)](https://mpri-master.ens.fr/doku.php?id=cours:secure)
+  [old link](https://wikimpri.dptinfo.ens-paris-saclay.fr/doku.php?id=cours:c-2-30)
 
 ### Cryptography
 * [The Joy of Cryptography](https://joyofcryptography.com/)
