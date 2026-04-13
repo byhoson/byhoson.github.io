@@ -44,7 +44,7 @@
 - Спокойная ночь - Kino
 
 ### Quotes
-- "Beauty is our business." - E.W. Dijkstra
+- "Research is what I am doing when I don't know what I am doing." - Wernher von Braun
 - ["A monad is just a monoid in the category of endofunctors, what's the problem?" - Philip Wadler](https://james-iry.blogspot.com/2009/05/brief-incomplete-and-mostly-wrong.html)
 - ["All things are poison, and nothing is without poison; the dosage alone makes it so a thing is not a poison." - Paracelsus](https://en.wikipedia.org/wiki/The_dose_makes_the_poison)
 - "The death of childhood is the beginning of poetry."
