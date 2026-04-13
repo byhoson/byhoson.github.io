@@ -49,6 +49,7 @@
 * [Software Foundations of Security & Privacy](https://15316-cmu.github.io/2024/index.html)
 
 ## Quantum
+* [Yuly Billig](https://youtu.be/UwbLakrlxWQ?si=WIfVLOpY_u83a0zl)
 * [Dominique Unruh](https://qis.rwth-aachen.de/teaching/25ss/intro-quantum-computing/)
 * [Matt Amy](https://www.cs.sfu.ca/~meamy/Teaching/cmpt476/index.html)
 * [Steven Herbert](https://www.cl.cam.ac.uk/teaching/1920/QuantComp/materials.html)
