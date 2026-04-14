@@ -308,6 +308,9 @@ From Finite Model Theory & Descriptive Complexity Community
 Optimization
 * [Del Pia](https://sites.google.com/site/albertodelpia/teaching)
 
+Abstract Algebra
+* [MATTHEW MACAULEY](https://www.math.clemson.edu/~macaule/classes/m20_math4120/)
+
 Latex
 * [Not So Short Intro To Latex](https://tobi.oetiker.ch/lshort/lshort.pdf)
 
@@ -315,4 +318,5 @@ How to write papers?
 * [Benjamin Pierce](https://docs.google.com/document/d/1_vBXbugoLjO171w3wovs3ugmRQI-O6EcSVFDBF7eUzE/edit?tab=t.0)
 
 === Some Articles ===
+* [Elliptic curves & projective space](https://crypto.stackexchange.com/questions/40947/what-is-the-projective-space)
 * [Deduction Theorem](https://www3.nd.edu/~cfranks/dt.pdf)
