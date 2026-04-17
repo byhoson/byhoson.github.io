@@ -1,7 +1,9 @@
 # Study Materials
 
+
 ## General
 * [MPRI courses list](https://mpri-master.ens.fr/doku.php?id=start#cours2)
+* [PDF viewer](https://pdfviewer.softgateon.net/)
 
 ## Thesis
 * [Herbrand, Jacques. Recherches sur la théorie de la démonstration. 1930.](https://eudml.org/doc/192791)
@@ -20,6 +22,8 @@
 * [Berry Schoenmakers](https://www.win.tue.nl/~berry/)
 * [MPRI - Preuves de protocoles de sécurité (Blanchet)](https://mpri-master.ens.fr/doku.php?id=cours:secure)
   [old link](https://wikimpri.dptinfo.ens-paris-saclay.fr/doku.php?id=cours:c-2-30)
+* [Delanue](https://people.irisa.fr/Stephanie.Delaune/PUBLICATIONS/these-delaune.pdf)
+* [Blanchet](https://bblanche.gitlabpages.inria.fr/publications/BlanchetHDR.html)
 
 ### Cryptography
 * [The Joy of Cryptography](https://joyofcryptography.com/)
