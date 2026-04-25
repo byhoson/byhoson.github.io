@@ -1,6 +1,5 @@
 # Study Materials
 
-
 ## General
 * [MPRI courses list](https://mpri-master.ens.fr/doku.php?id=start#cours2)
 * [PDF viewer](https://pdfviewer.softgateon.net/)
@@ -160,7 +159,9 @@ https://mmandelkern.github.io/
 https://iccl.inf.tu-dresden.de/web/Foundations_of_Logic_Programming_(WS2021)/en
 https://lat.inf.tu-dresden.de/~fernandez/esslli2019/unifDLsCourse.html
 
-
+### Philosophical Logic
+* [Philosophical Logic](https://levinhornischer.github.io/PhilLogic/)
+* [Duality Theory: Connecting Logic, Algebra, and Topology](https://levinhornischer.github.io/DualityTheory/)
 ### Formal Epistemology
 * [Probability and Induction](https://fitelson.org/probability/)
 * [Fundamentals of Bayesian Epistemology](https://fitelson.org/bayes/)
