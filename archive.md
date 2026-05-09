@@ -310,6 +310,10 @@ From Finite Model Theory & Descriptive Complexity Community
 * [Nicole Schweikardt](https://www.informatik.hu-berlin.de/de/forschung/gebiete/loginf/lehre/vorlesung-ausgewaehlte-kapitel-der-logik-klassische-resultate)
 * [Tomas Jakl - Finite Model Theory, Game Comonad, etc](https://tomas.jakl.one/teaching)
 
+NN verification
+* [UIUC](https://publish.illinois.edu/ece598hz-fall2024/course-schedule/)
+* [tutorial](https://neural-network-verification.com/)
+
 Optimization
 * [Del Pia](https://sites.google.com/site/albertodelpia/teaching)
 
