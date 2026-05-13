@@ -38,7 +38,7 @@
 - It is not meant to be - Tame Impala
 - Pantomime Horse - Suede
 - How to Disappear Completely - Radiohead
-- Fake Plastic Trees - Radiohead
+- All Apologies - Nirvana 
 - Shine On You Crazy Diamond - Pink Floyd
 - Comfortably Numb - Pink Floyd
 - Спокойная ночь - Kino
@@ -54,6 +54,8 @@
 - "The literal meaning of life is whatever you're doing that prevents you from killing yourself." - Albert Camus
 - "Love is eternal for as long as it lasts" - Vinicius de Moraes
 - "Remember, kids, the only difference between screwing around and science is writing it down" - Adam Savage
+#### Honorable Mention:
+- "All of humanity's problems stem from man's inability to sit quietly in a room alone." - Blaise Pascal
 
 ## Some pics
 <figure>
