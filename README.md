@@ -29,6 +29,10 @@ Recently, I have been particularly focused on verifying cryptographic protocols.
   & B.S. in [Mathematics](https://math.sogang.ac.kr/math/index_new.html) (Double Major). 
   Sogang University. *Magna Cum Laude*
 
+## Activities
+* Artifact Evaluation Committee
+    * [ATVA 2026](https://conf.researchr.org/track/aplas-atva-2026/atva-2026)
+
 ## Publication
 (See [Google Scholar](https://scholar.google.com/citations?user=KjO0D04AAAAJ&hl=en) / [DBLP](https://dblp.org/pid/332/2908.html)).
 
