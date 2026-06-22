@@ -23,6 +23,7 @@
   [old link](https://wikimpri.dptinfo.ens-paris-saclay.fr/doku.php?id=cours:c-2-30)
 * [Delanue](https://people.irisa.fr/Stephanie.Delaune/PUBLICATIONS/these-delaune.pdf)
 * [Blanchet](https://bblanche.gitlabpages.inria.fr/publications/BlanchetHDR.html)
+* [Maurer](https://crypto-test.ethz.ch/teaching/CP21/)
 
 ### Cryptography
 * [The Joy of Cryptography](https://joyofcryptography.com/)
@@ -243,9 +244,11 @@ Software Analysis & Testing
 Distributed Systems
 * [DSLabs](https://ellismichael.com/dslabs/)
 * [Lindsey Kuper](https://youtube.com/playlist?list=PLNPUF5QyWU8PydLG2cIJrCvnn5I_exhYx&feature=shared)
+* [Princeton](https://www.cs.princeton.edu/courses/archive/spring24/cos418/schedule.html)
+* [Mohsen Lesani](https://mohsenlesani.github.io/slugcse232/)
 
 KAIST
-[KAIST PL](https://pl.kaist.ac.kr/)
+* [KAIST PL](https://pl.kaist.ac.kr/)
 
 Compiler
 * [Steve Zdancewic](https://www.cis.upenn.edu/~stevez/cis3410/24sp/)
@@ -319,6 +322,9 @@ Optimization
 
 Abstract Algebra
 * [MATTHEW MACAULEY](https://www.math.clemson.edu/~macaule/classes/m20_math4120/)
+
+EE
+* [El Gamal](https://crypto-test.ethz.ch/teaching/CP21/)
 
 Latex
 * [Not So Short Intro To Latex](https://tobi.oetiker.ch/lshort/lshort.pdf)
