@@ -152,6 +152,10 @@ Systems Verification
 Automata Theory
 * [Esparza & Blondin](https://michaelblondin.com/automata/)
 
+
+## Hardware Security
+* [Secure Hardware Design, MIT](https://shd.mit.edu/2026/)
+
 ## Knowledge, Epistemology, Philosophy
 (TODO)
 https://sites.pitt.edu/~rbrandom/Courses%201%20c.html
