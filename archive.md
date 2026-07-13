@@ -167,9 +167,14 @@ https://lat.inf.tu-dresden.de/~fernandez/esslli2019/unifDLsCourse.html
 ### Philosophical Logic
 * [Philosophical Logic](https://levinhornischer.github.io/PhilLogic/)
 * [Duality Theory: Connecting Logic, Algebra, and Topology](https://levinhornischer.github.io/DualityTheory/)
+
+### Causality
+* [Causal Foundations](https://sites.google.com/view/causalfoundations2019/home)
+
 ### Formal Epistemology
 * [Probability and Induction](https://fitelson.org/probability/)
 * [Fundamentals of Bayesian Epistemology](https://fitelson.org/bayes/)
+* [Brian Weatherson](https://brian.weatherson.org/quarto/teaching.html)
 
 ### Knowledge Representation and Reasoning
 * [IIT Delhi](https://www.youtube.com/playlist?list=PLp6ek2hDcoNB_YJCruBFjhF79f5ZHyBuz)
