@@ -184,6 +184,11 @@ https://lat.inf.tu-dresden.de/~fernandez/esslli2019/unifDLsCourse.html
 ### Modal Logic
 * [Frank Pfenning - Modal Logic](https://www.cs.cmu.edu/~fp/courses/15816-s10/index.html)
 * [Eric Pacuit - Modal Logic](https://ai.stanford.edu/~epacuit/classes/modal.html#schedule)
+* [Dynamic Logic](https://www.cs.cas.cz/sedlar/teaching/DL25.html)
+
+### Other Logics
+* [Mathematical Fuzzy Logic](https://sites.google.com/computerscience.cz/cintula/teaching/mfl)
+* [Abstract Algebraic Logic](https://sites.google.com/computerscience.cz/cintula/teaching/aal)
 
 === Logic ===
 
