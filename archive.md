@@ -326,6 +326,9 @@ From Finite Model Theory & Descriptive Complexity Community
 * [Finite Model Theory Lecture Note](https://www.mimuw.edu.pl/~szymtor/)
 * [Nicole Schweikardt](https://www.informatik.hu-berlin.de/de/forschung/gebiete/loginf/lehre/vorlesung-ausgewaehlte-kapitel-der-logik-klassische-resultate)
 * [Tomas Jakl - Finite Model Theory, Game Comonad, etc](https://tomas.jakl.one/teaching)
+* [Benedikt Pago](https://benediktpago.github.io/teaching/)
+> Complexity theory (cambridge), descriptive complexity, etc.
+
 
 NN verification
 * [UIUC](https://publish.illinois.edu/ece598hz-fall2024/course-schedule/)
