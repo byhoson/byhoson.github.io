@@ -322,12 +322,13 @@ From Database Theory Community
 * [database theory](https://pages.cs.wisc.edu/~paris/cs784-s22/schedule.html)
 * [Dan Suciu](https://homes.cs.washington.edu/~suciu/)
 
-From Finite Model Theory & Descriptive Complexity Community
+finite model theory & descriptive complexity
 * [Finite Model Theory Lecture Note](https://www.mimuw.edu.pl/~szymtor/)
 * [Nicole Schweikardt](https://www.informatik.hu-berlin.de/de/forschung/gebiete/loginf/lehre/vorlesung-ausgewaehlte-kapitel-der-logik-klassische-resultate)
 * [Tomas Jakl - Finite Model Theory, Game Comonad, etc](https://tomas.jakl.one/teaching)
 * [Benedikt Pago](https://benediktpago.github.io/teaching/)
-> Complexity theory (cambridge), descriptive complexity, etc.
+* [Model Checking Finite Structures](https://www.irif.fr/~schmitz/teach/2025_mc/)
+> Complexity theory (cambridge), descriptive complexity etc.
 
 
 NN verification
