@@ -76,6 +76,7 @@
 (Dependent) Type Theory
 * [Carlo Angiuli](https://carloangiuli.com/courses/b619-sp24/notes.pdf)
 * [Typechecker-zoo](https://sdiehl.github.io/typechecker-zoo/)
+* [MPCTT](https://github.com/uds-psl/MPCTT)
 
 (Category-theoretic) Semantics
 * [Meseguer](https://courses.engr.illinois.edu/cs522/sp2016/)
