@@ -4,17 +4,14 @@ My name is Byoungho (pronounced "Bee-Young-Ho"). I am currently a Ph.D. student 
 I study formal verification at [FOREVER (Formal Reasoning & Verification) Lab](https://forever.postech.ac.kr/), 
 advised by [Kyungmin Bae](https://sv.postech.ac.kr/kmbae/).
 
-* name: Byoungho Son / 손병호 / 孫秉浩 /  孙秉浩 / Бёнхо Сон
+* name: Byoungho Son / 손병호 / 孫秉浩 /  孙秉浩 / Бёнхо Сон / ソン・ビョンホ
 * email: byhoson at postech dot ac dot kr
 * address: (77 Cheongam-Ro, Nam-Gu, Pohang, Gyeongbuk, Korea 37673) POSTECH B2 204
 * [cv](/asset/cv.pdf) / [orcid](https://orcid.org/0000-0001-6482-1789) / [google scholar](https://scholar.google.com/citations?user=KjO0D04AAAAJ&hl=en) 
 
 ## Research Interest
-My research aims to develop logical techniques
-to efficiently verify the correctness of systems *algorithmically*,
-whose soundness can be elegantly justified *algebraically*.
-To this end, I try to maintain a broad range of interests, spanning from logical/algebraic foundations to practical applications of formal methods.
-Recently, I have been particularly focused on verifying cryptographic protocols.
+My research aims to develop algorithmic verification techniques based on firm logical/algebraic foundations.
+Recently, I am working on integrating term rewriting techniques within the Lean proof assistant.
 * Foundation : [`Rewriting Logic`](https://www.sciencedirect.com/science/article/pii/S1567832612000707) / [`Algebraic Specification`](https://en.wikipedia.org/wiki/Algebraic_specification)
 * Verification : `(Automated and/or Interactive) Theorem Proving`
 * Application : [`Cryptographic Protocol Analysis`](https://eprint.iacr.org/2019/1393)
