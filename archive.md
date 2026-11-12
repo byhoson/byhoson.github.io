@@ -71,17 +71,15 @@
 ### Coalgebra & Semantics
 * [Jurriaan Rot](http://cs.ru.nl/~jrot/CTC20/)
 * [Peter Aczel](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=686404f0f899c879465e63a9045fa35a001163b1)
+* [Coalgebra & Modal Logic - Yde Venema](https://staff.science.uva.nl/y.venema/teaching/ml/)
 
-### Type Theory & Curry-Howard-Lambek Isomorphism & HoTT
-(Dependent) Type Theory
+### Type Theory & Semantics
 * [Carlo Angiuli](https://carloangiuli.com/courses/b619-sp24/notes.pdf)
 * [Typechecker-zoo](https://sdiehl.github.io/typechecker-zoo/)
 * [MPCTT](https://github.com/uds-psl/MPCTT)
+* [Categorical Semantics - Meseguer](https://courses.engr.illinois.edu/cs522/sp2016/)
 
-(Category-theoretic) Semantics
-* [Meseguer](https://courses.engr.illinois.edu/cs522/sp2016/)
-
-HoTT
+### HoTT
 * [Introduction to Univalent Foundations of Mathematics with Agda](https://www.cs.bham.ac.uk/~mhe/HoTT-UF-in-Agda-Lecture-Notes/HoTT-UF-Agda.html#lecturenotes)
 * [HoTT Course](https://github.com/andrejbauer/homotopy-type-theory-course) (Andrej Bauer)
 * [Intro to HoTT](https://www.andrew.cmu.edu/user/erijke/hott/) (Egbert Rijke)
@@ -90,6 +88,7 @@ HoTT
 ### Programming
 * [Category Theory for Programming](https://arxiv.org/abs/2209.01259)
 * [Category Theory for Computer Scientists](https://nguyentito.eu/categories.html)
+* [Max New](https://maxsnew.com/teaching/eecs-598-fa25/)
 
 ## Automated Resoning & Automated Theorem Proving
 ### Term Rewriting & Rewriting Logic
