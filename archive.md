@@ -265,6 +265,7 @@ KAIST
 * [KAIST PL](https://pl.kaist.ac.kr/)
 
 Compiler
+* [Norman Ramsey](https://www.cs.tufts.edu/comp/106/)
 * [Francois Pottier](https://gallium.inria.fr/~fpottier/X/INF564/)
 * [Steve Zdancewic](https://www.cis.upenn.edu/~stevez/cis3410/24sp/)
 * [Adrian Sampson](https://www.cs.cornell.edu/courses/cs6120/2022sp/)
