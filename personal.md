@@ -47,15 +47,13 @@
 - "Research is what I am doing when I don't know what I am doing." - Wernher von Braun
 - ["A monad is just a monoid in the category of endofunctors, what's the problem?" - Philip Wadler](https://james-iry.blogspot.com/2009/05/brief-incomplete-and-mostly-wrong.html)
 - ["All things are poison, and nothing is without poison; the dosage alone makes it so a thing is not a poison." - Paracelsus](https://en.wikipedia.org/wiki/The_dose_makes_the_poison)
-- "The death of childhood is the beginning of poetry."
+- "The death of childhood is the beginning of poetry." - Tarkovsky
 - "A picture is the expression of an impression" - Ernst Hass
-- ["The most difficult and challenging thing about directing a film was getting out of the car." - Stanley Kubrick / Steven Spielberg](https://www.youtube.com/watch?v=3p1T3sVX4EY)
+- "Values are; computations do" - P. B. Levy
 - ["Permit yourself to open a book and start reading from anywhere." - Manuel Blum](https://www.cs.cmu.edu/~mblum/research/pdf/grad.html)
 - "The literal meaning of life is whatever you're doing that prevents you from killing yourself." - Albert Camus
 - "Love is eternal for as long as it lasts" - Vinicius de Moraes
 - "Remember, kids, the only difference between screwing around and science is writing it down" - Adam Savage
-#### Honorable Mention:
-- "All of humanity's problems stem from man's inability to sit quietly in a room alone." - Blaise Pascal
 
 ## Some pics
 <figure>
