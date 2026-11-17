@@ -1,0 +1,5 @@
+.tools/
+.jekyll-cache/
+_site/
+post/.quarto/
+post/**/index_files/

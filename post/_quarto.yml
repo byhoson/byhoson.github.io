@@ -1,0 +1,21 @@
+project:
+  type: default
+  render:
+    - "*/index.qmd"
+
+author: Byoungho Son
+lang: en
+format:
+  html:
+    theme: default
+    mainfont: "Georgia, 'Times New Roman', serif"
+    fontsize: 1.1em
+    linestretch: 1.7
+    grid:
+      body-width: 760px
+    toc: false
+    embed-resources: true
+    html-math-method: mathjax
+    code-copy: true
+    callout-appearance: simple
+    callout-icon: false

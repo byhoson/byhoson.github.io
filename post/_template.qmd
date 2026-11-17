@@ -1,0 +1,30 @@
+---
+title: "Your post title"
+date: 2026-11-15
+---
+
+[Home](/) · [All posts](/post.html)
+
+## Introduction
+
+Write ordinary Markdown with inline math $x \to y$.
+
+::: {#thm-example}
+## A useful theorem
+
+Your theorem statement.
+:::
+
+::: {.callout-note collapse="true" title="Proof"}
+
+Your proof, with displayed equations:
+
+$$
+x = y.
+$$
+
+$\square$
+:::
+
+Refer back to @thm-example. Keep any images in this directory and link them
+with ordinary Markdown, for example `![A caption](figure.svg)`.

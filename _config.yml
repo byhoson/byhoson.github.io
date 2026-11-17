@@ -1,4 +1,8 @@
 theme: jekyll-theme-minimal
+exclude:
+  - Makefile
+  - post/**/*.qmd
+  - post/WRITING.md
 title: Byoungho Son
 logo: /asset/img/byhoson-swandor.jpg
 description: Ph.D student at POSTECH

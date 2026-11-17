@@ -1,0 +1,206 @@
+---
+title: "A Technical Writing Notebook"
+subtitle: "Theorems, folded proofs, inference rules, and category diagrams"
+date: 2026-11-15
+---
+
+[Home](/) · [All posts](/post.html)
+
+This is both a test article and a writing reference. Its source is a single
+readable Markdown file, `index.qmd`. Edit it and save: the live preview refreshes
+automatically. No HTML wrappers, CSS, or JavaScript are needed to write a post.
+
+## Mathematical notation
+
+Let $R\subseteq X\times X$ be a reduction relation. Write $x\to_R y$ for one
+step and $x\to_R^* y$ for its reflexive, transitive closure:
+
+$$
+x_0\to_R x_1\to_R\cdots\to_R x_n.
+$$
+
+Aligned equations use ordinary LaTeX notation:
+
+$$
+\begin{aligned}
+\operatorname{size}(\mathrm{leaf}) &= 1, \\
+\operatorname{size}(\mathrm{node}(s,t))
+  &= 1+\operatorname{size}(s)+\operatorname{size}(t).
+\end{aligned}
+$$
+
+Use `$...$` for inline mathematics and `$$...$$` for a displayed equation.
+
+## Theorems and folded proofs
+
+::: {#def-normal-form}
+## Normal form
+
+An element $n\in X$ is a **normal form** if there is no $y$ such that $n\to_R y$.
+:::
+
+::: {#def-confluence}
+## Confluence
+
+A relation $R$ is **confluent** if, whenever $x\to_R^* y$ and $x\to_R^* z$,
+there is a $w$ with $y\to_R^* w$ and $z\to_R^* w$.
+:::
+
+::: {#thm-unique-normal-form}
+## Uniqueness of normal forms
+
+If $R$ is confluent, $x\to_R^* n_1$, and $x\to_R^* n_2$, where $n_1$ and $n_2$
+are normal forms, then $n_1=n_2$.
+:::
+
+::: {.callout-note collapse="true" title="Proof"}
+
+Confluence gives a common reduct $w$:
+
+$$
+n_1\to_R^* w\qquad\text{and}\qquad n_2\to_R^* w.
+$$
+
+Because $n_1$ is a normal form, its reduction to $w$ must have zero steps.
+Thus $n_1=w$. Likewise, $n_2=w$, giving $n_1=n_2$.
+
+$\square$
+:::
+
+::: {#cor-canonical}
+## Canonical results
+
+If $R$ is terminating and confluent, each element has a unique normal form.
+:::
+
+::: {.callout-note collapse="true" title="Proof of the corollary"}
+
+Termination ensures that reduction reaches a normal form. By
+@thm-unique-normal-form, any two normal forms reached from the same element
+coincide.
+
+$\square$
+:::
+
+Quarto numbers statements and resolves references such as
+`@thm-unique-normal-form` automatically. Definitions, lemmas, and corollaries
+use `#def-`, `#lem-`, and `#cor-` labels respectively.
+
+### Copyable statement and proof
+
+````markdown
+::: {#thm-your-label}
+## Your theorem name
+
+Your statement, with $x=y$.
+:::
+
+::: {.callout-note collapse="true" title="Proof"}
+
+Write your proof in Markdown and LaTeX.
+
+$\square$
+:::
+
+Refer to @thm-your-label.
+````
+
+Set `collapse="false"` for a proof that starts open but can still be folded.
+
+## Inference rules
+
+Here are the variable and application rules of the simply typed lambda calculus:
+
+$$
+\frac{x:A\in\Gamma}{\Gamma\vdash x:A}\;\text{(Var)}
+\qquad
+\frac{\Gamma\vdash f:A\to B\qquad\Gamma\vdash a:A}
+     {\Gamma\vdash f\,a:B}\;\text{(App)}
+$$
+
+Abstraction discharges an assumption:
+
+$$
+\frac{\Gamma,x:A\vdash t:B}
+     {\Gamma\vdash\lambda x.t:A\to B}\;\text{(Abs)}
+$$
+
+Fractions can be nested to build derivation trees:
+
+$$
+\frac{
+  \displaystyle\frac{x:A\in\Gamma,x:A}{\Gamma,x:A\vdash x:A}\;\text{(Var)}
+}{\Gamma\vdash\lambda x.x:A\to A}\;\text{(Abs)}
+$$
+
+### Copyable rule
+
+```latex
+$$
+\frac{\Gamma\vdash f:A\to B\qquad\Gamma\vdash a:A}
+     {\Gamma\vdash f\,a:B}\;\text{(App)}
+$$
+```
+
+## Category theoretic diagrams
+
+Let $F,G:\mathcal{C}\to\mathcal{D}$ be functors and let $\eta:F\Rightarrow G$
+be a natural transformation. For each $f:A\to B$, this square commutes:
+
+$$
+\require{amscd}
+\begin{CD}
+F(A) @>{\eta_A}>> G(A) \\
+@V{F(f)}VV @VV{G(f)}V \\
+F(B) @>>{\eta_B}> G(B)
+\end{CD}
+$$
+
+In other words, $G(f)\circ\eta_A=\eta_B\circ F(f)$.
+
+Here is a pullback square:
+
+$$
+\require{amscd}
+\begin{CD}
+P @>{p_2}>> B \\
+@V{p_1}VV @VV{g}V \\
+A @>>{f}> C
+\end{CD}
+$$
+
+Its universal property says that, whenever $u:X\to A$ and $v:X\to B$ satisfy
+$f\circ u=g\circ v$, there is a unique $h:X\to P$ with
+$p_1\circ h=u$ and $p_2\circ h=v$.
+
+### Copyable diagram
+
+```latex
+$$
+\require{amscd}
+\begin{CD}
+F(A) @>{\eta_A}>> G(A) \\
+@V{F(f)}VV @VV{G(f)}V \\
+F(B) @>>{\eta_B}> G(B)
+\end{CD}
+$$
+```
+
+This notation supports rectangular diagrams. For diagonal arrows and more
+elaborate diagrams, export an SVG from [quiver](https://q.uiver.app/), save it
+**beside this post**, and embed it with `![Diagram description](diagram.svg)`.
+Keep the quiver share link or TeX source alongside it for later editing.
+
+## Code and references
+
+```lean
+theorem identity (P : Prop) : P → P := by
+  intro h
+  exact h
+```
+
+Ordinary Markdown links, lists, and footnotes work too.[^writing]
+
+[^writing]: The writing workflow and a minimal post template are in `post/WRITING.md`
+    and `post/_template.qmd`. You only edit the readable source; Quarto generates
+    the page used by the homepage.

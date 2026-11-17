@@ -13,6 +13,7 @@
 * [Derek Dreyer](https://herrdreyer.wordpress.com/)
 * [PL Enthusiast](http://www.pl-enthusiast.net/)
 * [PL Perspectives](https://blog.sigplan.org/)
+* [Proofs and Intuitions](https://proofsandintuitions.net/)
 
 ## Cryptography & Security
 ### Cryptographic Protocols 
