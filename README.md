@@ -65,5 +65,4 @@ ACM Conference on Computer and Communications Security ([CCS 2022](https://www.s
 ## Miscellaneous
 * [personal](/personal.md)
 * [useful materials](/archive.md)
-* [past projects](/project.md)
 * [posts](/post.md)

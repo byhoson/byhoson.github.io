@@ -1,10 +1,8 @@
 ## Personal
-* I spent most of my life in [Mapo, Seoul](https://en.wikipedia.org/wiki/Mapo_District).
-  Other than that, I have lived in Xiamen(China), Daejeon(Korea), and Pohang(Korea).
+* My hometown: [Mapo, Seoul](https://en.wikipedia.org/wiki/Mapo_District).
 * How to pronounce my name: just put the 'B' sound in front of 'young'!
-* I enjoy learning languages, although not active most of the time.
-  Besides Korean and English, I tried learning French, Mandarin Chinese, German.
-  [[Duolingo](https://www.duolingo.com/profile/byhoson)]
+* I sometimes enjoy learning human languages: [Duolingo](https://www.duolingo.com/profile/byhoson)
+* My first coding experience with >100 loc during high school: [MagicSquare](/asset/magic_square.html/) 
 
 ## Top-10 Favorites (Unordered)
 ### [Movies](https://pedia.watcha.com/en-US/users/ld0q02ePgw56X/contents/movies/ratings?type=byStar)
@@ -37,7 +35,7 @@
 - Wave - Tom Jobim
 - It is not meant to be - Tame Impala
 - Pantomime Horse - Suede
-- How to Disappear Completely - Radiohead
+- Nude - Radiohead
 - All Apologies - Nirvana 
 - Shine On You Crazy Diamond - Pink Floyd
 - Comfortably Numb - Pink Floyd
@@ -45,14 +43,14 @@
 
 ### Quotes
 - "Research is what I am doing when I don't know what I am doing." - Wernher von Braun
-- "A monad is just a monoid in the category of endofunctors, what's the problem?" - Philip Wadler
+- "Don't get any big ideas / They're not gonna happen" - in Nude (In Rainbows), by Radiohead
 - "All things are poison, and nothing is without poison; the dosage alone makes it so a thing is not a poison." - Paracelsus
 - "The death of childhood is the beginning of poetry." - Tarkovsky
 - "A picture is the expression of an impression" - Ernst Hass
 - "Values are; computations do" - P. B. Levy
 - ["Permit yourself to open a book and start reading from anywhere." - Manuel Blum](https://www.cs.cmu.edu/~mblum/research/pdf/grad.html)
 - "The literal meaning of life is whatever you're doing that prevents you from killing yourself." - Albert Camus
-- "Read, Read, Read, Read, Read, ..." - Werner Herzog
+- "Read, read, read. Read everything—trash, classics, good and bad, and see how they do it." - William Faulkner
 - "Remember, kids, the only difference between screwing around and science is writing it down" - Adam Savage
 
 ## Some pics
