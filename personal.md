@@ -4,7 +4,7 @@
 * I sometimes enjoy learning human languages: [Duolingo](https://www.duolingo.com/profile/byhoson)
 * My first coding experience with >100 loc during high school: [MagicSquare](/asset/magic_square.html/) 
 
-## Top-10 Favorites (Unordered)
+## Personal Top-10 (Unordered)
 ### [Movies](https://pedia.watcha.com/en-US/users/ld0q02ePgw56X/contents/movies/ratings?type=byStar)
 - In the Mood for Love (2000, Wong Kar-wai)
 - Vertigo (1958, Alfred Hitchcock)
@@ -47,11 +47,23 @@
 - "All things are poison, and nothing is without poison; the dosage alone makes it so a thing is not a poison." - Paracelsus
 - "The death of childhood is the beginning of poetry." - Tarkovsky
 - "A picture is the expression of an impression" - Ernst Hass
-- "Values are; computations do" - P. B. Levy
 - ["Permit yourself to open a book and start reading from anywhere." - Manuel Blum](https://www.cs.cmu.edu/~mblum/research/pdf/grad.html)
 - "The literal meaning of life is whatever you're doing that prevents you from killing yourself." - Albert Camus
 - "Read, read, read. Read everything—trash, classics, good and bad, and see how they do it." - William Faulkner
 - "Remember, kids, the only difference between screwing around and science is writing it down" - Adam Savage
+- "Values are; computations do" - P. B. Levy
+
+### Mysterious Connections
+- [programming <-> proving](https://en.wikipedia.org/wiki/Curry%E2%80%93Howard_correspondence)
+- [secure compilation <-> universal composability](https://dl.acm.org/doi/full/10.1145/3698234)
+- [finite automata <-> MSO](https://en.wikipedia.org/wiki/B%C3%BCchi%E2%80%93Elgot%E2%80%93Trakhtenbrot_theorem)
+- [complexity classes <-> logical expressivity](https://people.cs.umass.edu/~immerman/descriptiveComplexity.html)
+- [computation <-> proof search](https://en.wikipedia.org/wiki/SLD_resolution)
+- [turing machines <-> lambda calculus](https://en.wikipedia.org/wiki/Church%E2%80%93Turing_thesis)
+- [possible worlds <-> forcing conditions](https://xavierleroy.org/CdF/2018-2019/7.pdf)
+- [call by value & name <-> Kleisli & co-Kleisli](https://pblevy.github.io/papers/adjuncttalk.pdf)
+- [safety & liveness <-> closed & dense sets](https://www.cs.cornell.edu/fbs/publications/DefLiveness.pdf)
+- [syntax & semantics <-> initial algebra & homomorphism](https://en.wikipedia.org/wiki/Algebraic_semantics_%28computer_science%29)
 
 ## Some pics
 <figure>
